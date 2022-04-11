@@ -32,18 +32,28 @@ Construindo esta ordem o estado tem assumido, historicamente, algumas funções 
 
 ### Função jurídico-institucional
 
-Estabelece a ordem institucional 
-
-Junto a esta ordem está, junto à personalidade jurídica individual e seu caráter de cidadão, assim como os direitos e liberdades abrangidos, a ordem jurisdicional de solução de conflitos e interpretação normativa.
+Estabelece a ordem institucional que busca atingir a materialidade do estado, esta entidade administrativa suprema, por meio do estabelecimento de órgãos e entes diversos que compõe a atividade administrativa e institucional. Junto a esta ordem está, junto à personalidade jurídica individual e seu caráter de cidadão, assim como os direitos e liberdades abrangidos, a ordem jurisdicional de solução de conflitos e interpretação normativa.
 
 ### Função repressiva
 
-Atividades de coerção social e segurança exclusivamente interna.
+Se refere às atividades de coerção social e segurança interna.
 
 ### Função ideológico-cultural
 
-Estabelecimento de valores.
+Relativa à educação, estabelecimento de valores, questões éticas e comunicativas, linguísticas, princípios valorizados, políticas a serem implementadas e construção de identidades culturais com o objetivo de alimentar certas coesões culturais.
 
-Estas incluem a função **jurídico-institucional**, **repressiva**, **ideológico-cultural**, de **organização socioeconômica e coletiva**, **relações internacionais** e **defesa**.
+### Função socioeconômica e coletiva
+
+Relativa às políticas e decisões que buscam incentivar a acumulação de capital e, no médio prazo, a estabilização macroeconômica da sociedade que o estado organiza, buscando resolver problemas característicos das economias capitalistas (como a recessão, o desemprego, etc.). Abrange também a implementação de políticas públicas e a materialização de serviços públicos.
+
+### Política externa e defesa
 
 ## Princípios organizacionais
+
+O estado se materializa por meio de um **conjunto de instituições**, para tal seguindo uma ideia constitutiva de totalidade - um determinado país - constituído com base no direito positivo. Estas instituições se constroem e se justificam com base em suas utilidades subjetivas diante da sociedade organizada pela entidade estatal - definindo diante destas utilidades seus princípios organizacionais.
+
+É com base nesses princípios que o estado cria um ordenamento normativo, dispõe dos meios para aplicá-lo, e administra e organiza o trabalho característico do estado moderno - o que quer dizer, especialmente, a administração das funções do poder, em administrar, legislar, julgar, aplicar, resolver, fiscalizar, e assim por diante - sempre à luz dos princípios de **repartição**, **distribuição* e **especialização** do poder.
+
+Por fim, vale destacar que a organização deste grande quadro político, administrativo e militar que materializa o estado segue um sistema *particular* de organização - o sistema **burocrático**. As características deste sistema vinculam-se à *hierquização de tarefas*, através de delegações e avocações, *organização de quadros técnicos e critérios de recrutamento*, *limitação da autoridade de cada cargo*, a *separação entre o patrimônio da administração e do funcionário*, a *aplicação universal de normas*, de caráter legal e que fundamentam o mandado de qualquer autoridade estatal, a *previsibilidade de funcionamento*, um caráter *permanente*, e a *impessoalidade, imparcialidade e neutralidade* nas relações com particulares.
+
+# Histórico do estado moderno
