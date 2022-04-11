@@ -22,5 +22,28 @@ Esta noção se fundamenta na ideia de uma entidade político-administrativa ún
 
 Para cumprir com esta tarefa, esta instituição conta com o monopólio da violência legítima, da força pública, do direito, da moeda, da tributação e, no que diz respeito, da condução das relações internacionais com outros estados e organizações.
 
-A construção da ordem social se faz em torno da ideia de identidade nacional comum, baseada essencialmente numa suposição de unidade étnica (o que, evidentemente, traz desafios, já que em muitos casos isso é pura ficção) e na ideia de cidadania - sujeitos individuais com liberdades e obrigações. Evidentemente esses conceitos - de cidadania e direitos, por exemplo - são garantias formais. Sabemos que há desigualdades de fato que ferem essas ideias e demonstram que tais direitos são garantidos apenas como forma.
+A construção da ordem social se faz em torno da ideia de identidade nacional comum, baseada essencialmente numa suposição de unidade étnica (o que, evidentemente, traz desafios, já que em muitos casos isso é pura ficção) e na ideia de cidadania - sujeitos individuais com liberdades e obrigações. Evidentemente esses conceitos - de cidadania e direitos, por exemplo - são garantias formais. Sabemos que há desigualdades de fato que ferem essas ideias e demonstram que tais direitos são garantidos apenas como forma. Isto faz parte também da problematização para a qual chamaremos atenção ao longo da disciplina, através da leitura dos clássicos.
 
+## Funções do estado moderno
+
+Como construtor desta ordem social, o estado de uma sociedade materialmente dividida e desigual assume uma tarefa organizadora e de coesão, representando um suposto interesse geral da sociedade como um todo - e, para exercer esta representatividade e este poder organizador, deve se mostrar como **árbitro**, com a materialização e realização do que poderíamos chamar de bem comum público.
+
+Construindo esta ordem o estado tem assumido, historicamente, algumas funções essenciais, exercidas por instituições ou repartições do setor público (que realizam a materialidade do estado como conjunto de instituições).
+
+### Função jurídico-institucional
+
+Estabelece a ordem institucional 
+
+Junto a esta ordem está, junto à personalidade jurídica individual e seu caráter de cidadão, assim como os direitos e liberdades abrangidos, a ordem jurisdicional de solução de conflitos e interpretação normativa.
+
+### Função repressiva
+
+Atividades de coerção social e segurança exclusivamente interna.
+
+### Função ideológico-cultural
+
+Estabelecimento de valores.
+
+Estas incluem a função **jurídico-institucional**, **repressiva**, **ideológico-cultural**, de **organização socioeconômica e coletiva**, **relações internacionais** e **defesa**.
+
+## Princípios organizacionais
