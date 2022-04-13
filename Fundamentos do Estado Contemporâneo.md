@@ -2,7 +2,7 @@
 title: Fundamentos Teóricos do Estado Contemporâneo
 author: Prof. 
 documentclass: extarticle
-pagestyle: headings
+pagestyle: plain
 geometry: margin=3cm
 indent: false
 numbersections: true
@@ -61,3 +61,36 @@ O conceito de estado, portanto, é um conceito *diferente* das ideias de totalid
 
 # Histórico do estado moderno
 
+É a partir do contexto histórico é que as vertentes teóricas tentam dar conta do ponto de vista conceitual do "princípio organizador fundamental" - nascido na Idade Moderna, na Europa, como ideia de domínio central sobre o território, ainda que sua consolidação tenha se dado nos séculos XVIII e XIX.
+
+A ideia centralizadora nasceu na Inglaterra, França e Espanha nos séculos XV e XVI, e se alastrou aos outros países europeus em meio ao declínio do sistema feudal e da ascenção do sistema mercantilista/capitalista. Isso nos permite associar duas dimensões frequentemente separadas - política e economia. O estado moderno *nasce* do sistema capitalista, atrelado ao sistema e ao modo de produção; assim, as características das quais acabamos de tratar tem, naturalmente, a ver com a ascenção e consolidação do sistema capitalista.
+
+Com a ascenção deste modo de produção temos o desenvolvimento, como primeira forma de estado, da monarquia absoluta; com a assinatura do tratado da Westphalia, nasce o que hoje concebemos como sistema internacional, formado de entes centrais, independentes e *soberanos*.
+
+## Traços característicos
+
+### Soberania
+
+Este é possivelmente o traço principal. Significa que, num determinado território e, por consequência, sobre uma determinada população e unidade cultural, certa autoridade exerce domínio pleno, sem depender de qualquer outra autoridade.
+
+Este traço fez com que tal autoridade encontrasse, no sistema feudal - descentralizado e dependente de centenas de sub-autoridades no território que buscava dominar - um obstáculo, a ser vencido pela centralização política e administrativa. Esta centralização, após a inicial monarquia administrativa, tornou-se o regime republicano, que se tornou de certa forma o *status quo* por se mostrar eficiente à implantação e desenvolvimento do sistema capitalista.
+
+### Distinção entre estado e sociedade civil
+
+Note-se que, numa sociedade moderna baseada em ideais racionais e individuais, o objetivo deste novo estado era garantir os novos *direitos* e *liberdades* destes novos *sujeitos* - indivíduos definidos como particulares. Este processo se desdobrou na fundamental separação entre duas esferas - a esfera do *público* e *privado*, do *estado* e da *sociedade civil*.
+
+A esfera do estado assumiu o papel de garante do "bem comum" e da sociedade como *soma* de cidadãos individuais possuidores de direitos e liberdades; e a esfera privada foi definida pelos *interesses* particulares a serem resguardados e garantidos pelo estado como ordem pública e entidade política, administrativa e militar.
+
+# Estado moderno e soberania
+
+## Problemas com o conceito clásssico de soberania
+
+Ao estudarmos a noção do estado moderno, a partir do conceito de cidadania, baseado, por sua vez, numa ideia fictícia de homogeneidade étnica e igualdade formal, não há como deixar de perceber as grandes disparidades conceituais empregadas entre os planos formal e material. Quanto ao princípio da soberania, sucede o mesmo, e diante da importância do conceito de soberania aos assuntos externos, cabe criticá-lo nos seguintes planos.
+
+### Plano externo
+
+No plano externo é sabido que o princípio da soberania se baseia no reconhecimento recíproco do domínio de cada *estado*. O que se nota na prática, ainda assim, é um sistema hierarquizado e fundamentalmente desigual - ainda que o plano formal mantenha a igualdade formal desde a Westphalia.
+
+Diante desta desigualdade, é quase instintivo dividir tais entes "iguais" entre países do *centro* e da *periferia* capitalista. Assim, não nos ajuda ver o plano externo como uma "arena" equilibrada, mas como uma *cena* de **disputas e relações assimétricas**, na qual se desenvolvem relações de hegemonia e subordinação. O *poder* se faz presente, no plano externo, muito mais do que as teorias clássicas estão dispostas a reconhecer.
+
+### Plano externo
