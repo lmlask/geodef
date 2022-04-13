@@ -1,6 +1,6 @@
 ---
 title: Fundamentos Teóricos do Estado Contemporâneo
-author: Prof. 
+author: Prof. Dr. Leonardo Granato
 documentclass: extarticle
 pagestyle: plain
 geometry: margin=3cm
@@ -17,7 +17,7 @@ O objetivo desta disciplina é propiciar um referencial teórico para a compreen
 
 É importante dedicar uma disciplina teórica sobre o estado. Existe uma carência em torno desta categoria. Concretamente, uma definição e um tratamento específicos normalmente aparecem de forma implícita - os teóricos supõe que sabemos o que é o estado. Assim como tratamos dos conceitos de guerra e soberania, existe a necessidade, porém, de contar definições e tratar o estado com uma base teórica mais robusta no campo das relações internacionais.
 
-Isso se vincula diretamente com o tipo de ator e caráter fundamental do estado no sistema internacional. Este sistema é um âmbito no qual as relações se processam entre diversos atores para além de fronteiras nacionais. Quem nasce da dinâmica destas próprias relações é a definição de um ator central ou um ator por excelência, que é o estado nacional. Nessa questão, que Fred Halid diz ser tida como dada, a ideia implícita remete a uma ideia de totalidade absoluta territorial, que ententemos como "o país". 
+Isso se vincula diretamente com o tipo de ator e caráter fundamental do estado no sistema internacional. Este sistema é um âmbito no qual as relações se processam entre diversos atores para além de fronteiras nacionais. Quem nasce da dinâmica destas próprias relações é a definição de um ator central ou um ator por excelência, que é o estado nacional. Nessa questão, que Fred Halliday diz ser tida como dada, a ideia implícita remete a uma ideia de totalidade absoluta territorial, que ententemos como "o país". 
 
 Entretanto, a definição de estado moderno de matriz ocidental apresenta contornos específicos. São estes contornos que estudaremos neste primeiro módulo - as características específicas da instituição **estado**.
 
@@ -83,14 +83,39 @@ A esfera do estado assumiu o papel de garante do "bem comum" e da sociedade como
 
 # Estado moderno e soberania
 
-## Problemas com o conceito clásssico de soberania
-
 Ao estudarmos a noção do estado moderno, a partir do conceito de cidadania, baseado, por sua vez, numa ideia fictícia de homogeneidade étnica e igualdade formal, não há como deixar de perceber as grandes disparidades conceituais empregadas entre os planos formal e material. Quanto ao princípio da soberania, sucede o mesmo, e diante da importância do conceito de soberania aos assuntos externos, cabe criticá-lo nos seguintes planos.
 
-### Plano externo
+## Plano externo
 
 No plano externo é sabido que o princípio da soberania se baseia no reconhecimento recíproco do domínio de cada *estado*. O que se nota na prática, ainda assim, é um sistema hierarquizado e fundamentalmente desigual - ainda que o plano formal mantenha a igualdade formal desde a Westphalia.
 
-Diante desta desigualdade, é quase instintivo dividir tais entes "iguais" entre países do *centro* e da *periferia* capitalista. Assim, não nos ajuda ver o plano externo como uma "arena" equilibrada, mas como uma *cena* de **disputas e relações assimétricas**, na qual se desenvolvem relações de hegemonia e subordinação. O *poder* se faz presente, no plano externo, muito mais do que as teorias clássicas estão dispostas a reconhecer.
+Diante desta desigualdade, é quase instintivo dividir tais entes "iguais" entre países do *centro* e da *periferia* capitalista. Assim, não nos ajuda ver o plano externo como uma "arena" equilibrada, mas como uma *cena* de **disputas e relações assimétricas**, na qual se desenvolvem relações de **hegemonia e subordinação**. Nesse sentido, o *poder* se faz presente, no plano externo, muito mais do que as teorias clássicas estão dispostas a reconhecer.
 
-### Plano externo
+Diante da formulação de um princípio de soberania que se baseie num estado **independente**, há de se manter em mente que o **exercício** dessa soberania, diante das assimetrias e dependências da esfera internacional, é, também, assimétrico e dependente - uma visão que pode nos auxiliar a encontrar **tendências** que de outra forma seriam apagadas ou negligenciadas.
+
+## Plano interno
+
+As mesmas críticas podem, até certo ponto, serem aplicadas ao plano interno do exercício da soberania estatal. Esta entidade político-administrativa-militar - de domínio *indisputado* em relação à sociedade cuja ordem busca construir e manter - não pode ser entendido de forma homogênea ou unitária. Sua autoridade é profundamente limitada.
+
+O conjunto de instituições que dão materialidade ao estado é atravessado por uma série de disputas e competições, ao longo das muitas entidades que materializam o estado, no interior do corpo burocrático de governo. No plano material, portanto, a política externa não emana de um "bloco unitário", mas de uma *série de instituições que agem de forma, muitas vezes, conflitiva*, mobilizada por diversos interesses de grupos e classes, e com os quais mantêm ligações.
+
+Este esclarecimento nos ajuda a revisar a noção de soberania "plena"
+interna - o estado não é um bloco monolítico, não é coerente, e seus diferentes projetos, políticas e programas têm sua origem numa dinâmica muito conflitiva entre grupos de interesse.
+
+## Soberania plena
+
+Esta ideia exigiria, inclusive, que contrapuséssemos sua plenitude aos constrangimentos internos aos quais o estado é sujeito no plano material. Isto é ainda mais verdadeiro nos estados colocados à periferia, ainda que se organizem numa multitude de variantes.
+
+Em definitivo, é importante ver o estado das *margens* de ação, das *capacidades* de ação efetiva das quais um estado dispõe, materialmente, nos planos interno e externo. Ao indicar e remeter a uma unidade monolítica como estado, pode ser muito benéfico substituí-la por uma plenitude de relações conflitivas entre grupos de interesse descentralizados.
+
+# Teorias clássicas
+
+As teorias clássicas de diferentes vertentes, ao enfatizar diferentes aspectos empíricos do fenômeno estatal, priorizam análises e objetos diferentes ao estudar o estado moderno.
+
+## Vertente liberal
+
+A vertente liberal tende a favorecer a concepção de estado como bloco de certa homogeneidade, pois apresenta o estado diante de um conjunto de instituições de caráter universal e *neutra* diante de disputas sociais - uma espécie de árbitro. Esta vertente privilegia o estudo do estado em suas dimensões *institucional* e *governamental*.
+
+## Vertente marxista
+
+A vertente marxista, ao atrelar o tratamento do estado a uma dimensão sociopolítica, não vê o conjunto institucional do estado separado das dinâmicas sociais, mas *marcado* por relações de dominação conflitiva entre classes e grupos. O estado, aqui, é visto mais como uma **arena de conflito** e menos como uma entidade neutra ou árbitro institucional. Mantém margens de atuação própria, porém sem perder a associação com os interesses sociopolíticos dos grupos em conflito - que se integram na atuação de seus diversos órgãos.
