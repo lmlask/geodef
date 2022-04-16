@@ -99,3 +99,15 @@ Cabe última análise sobre a *rimland* asiática, o Japão. Enquanto os Estados
 Naturalmente, ao ignorar o aspecto ideológico Spykman perdeu muito de seu poder de análise. A China comunista que sucedeu Chang Kai-chek foi um fator determinante em sua reorganização como ameaça, somente diante desta mudança fundamental o Japão assumiu seu importante papel estratégico, e, como Washington somente percebeu nos anos 1970, a China, seja qual for seu regime, permanecia a mesma orgulhosa China de sempre, rejeitando qualquer submissão, mesmo à URSS, e ideologicamente negando a hipótese de unificação da "ilha do mundo".
 
 ## A geopolítica nos Estados Unidos depois de Spykman
+
+*America's Strategy in World Politics* renovou a percepção americana sobre a geopolítica no sentido de evitar a visão de mundo wilsoniana sobre um mundo que aguardava as luzes americanas, reconstruindo-o como uma arena de ambições e forças múltiplas. Cabem três limitações ao trabalho de Spykman.
+
+A primeira é a visão exclusivamente quantitativa do poder, que ignora as crenças dos homens, a descolonização, a emancipação frente ao Ocidente, a ideologia. A segunda é a fragmentação das massas fundamentais de que tratava: o *heartland* e o *rimland* frequentemente estão fragmentadas em entidades aliadas e rivais, por motivos, muitas vezes, ideológicos. Por fim, ignora duas inovações fundamentais: a "bomba de hidrogênio" e os mísseis utilizados pela Alemanha no final da guerra e que poderão mais tarde viajar milhares de quilômetros[^1].
+
+[^1]: A combinação destas duas inovações - o armamento nuclear e as tecnologias de entrega de longa distância - convergem no míssil balístico intercontinental.
+
+Após a guerra, os Estados Unidos reassumiram a visão realista de Spykman como maquiavelismo - com a geografia como um entre muitos fatores do poder. Todos os autores americanos se interrogaram sobre a pertinência da geopolítica diante das armas nucleares. Gray analisou esta situação diante do avanço incessante da União Soviética em estabelecer mais pontos de apoio e influência. Seus pontos de análise são os seguintes.
+
+1. O antagonismo leste-oeste exprime o eterno confronto entre a terra e o mar, mas agora os governantes não raciocinam em dias e meses, mas em dias e segundos. Estas novas realidades **não abalam** as realidades geopolíticas, pois a MAD manteve os conflitos geopolíticos por procuração como relevantes.
+
+2. A necessidade de opor-se à unificação da *heartland* de toda forma, retomando o raciocínio britânico de Mackinder, pois desta oposição depende qualquer possibilidade de equilíbrio geopolítico de poder.
