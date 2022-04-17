@@ -8,38 +8,6 @@ fontfamily: cormorantgaramond
 fontsize: 14pt
 output: pdf_document
 ---
-\begin{titlepage}
-
-	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
-	\center
-	\textsc{\Large Universidade Federal do Rio Grande do Sul}\\[1cm]
-	\textsc{\large Centro de Estudos Internacionais sobre Governo}\\[1cm]
-	\textsc{\large Especialização em Relações Internacionais:\\ Geopolítica e Defesa}\\[1cm]
-	\vspace{4\baselineskip}
-	\HRule\\[0.4cm]
-	\vspace{0.5\baselineskip}
-	{\LARGE\bfseries Introdução à geopolítica}\\[0.4cm]
-	\HRule\\[2.5cm]
-	\begin{minipage}{0.4\textwidth}
-		\begin{flushleft}
-			\large
-			\textit{Professor}\\
-			Paulo \textsc{Visentini}
-		\end{flushleft}
-	\end{minipage}
-	\begin{minipage}{0.4\textwidth}
-		\begin{flushright}
-			\large
-			\textit{Estudante}\\
-			Lui \textsc{Laskowski}
-		\end{flushright}
-	\end{minipage}
-	\vfill\vfill\vfill
-	{\large 2022}
-	\vfill
-
-\end{titlepage}
-
 # A Geopolítica da Potência Marítima
 
 As disciplinas são produtos de sua época. A palavra "geopolítica" foi forjada por Rudolf Kjellén no final do século XIX, para se referir ao estudo do estado como fenômeno geográfico. Duas principais correntes se desenvolveram - a angloamericana (focada nas relações entre o mar e a terra) e a alemã (focada nos espaços continentais), a responder uma pergunta implícita - quem deterá, no futuro, o poder decisivo?
