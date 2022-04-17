@@ -82,6 +82,8 @@ Quando a China diz que é necessário se respeitar soberanias nacionais, ela ent
 
 Temos, portanto, a necessidade de rever um pouco como se aborda o debate da guerra. Uma saturação da história com mal utilização de conceitos históricos; uma repetição de conceitos da guerra fria deslocados no tempo; e uma intensa política de holdback à Rússia que busca, na realidade, atingir a China.
 
+\newpage
+
 # Bloco de respostas
 
 ---------------------------------------------------------------------
