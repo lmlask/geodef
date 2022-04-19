@@ -103,3 +103,7 @@ A questão alemã era chave em seu sistema de equilíbrio de poder. Quando sua s
 Sua ideia ao permitir estes conflitos, como recentemente revelado, era criar um foco de atenção que desviasse a atenção ocidental da Europa.
 
 Ao mesmo tempo, a corrida armamentista traz consigo a ideia de equilíbrio nuclear - a dissuasão inquebrável que permitiria que cada potência governasse sua própria esfera. Assim, quando a Rússia interviu na Hungria, os Estados Unidos não tomaram nenhuma ação contundente - ainda que não tenham tolerado a Revolução Cubana, em seu próprio quintal.
+
+Um ponto final desta questão é que, paralela a esta tensão geopolítica no hemisfério norte, houve um outro processo, mais modesto, porém muito mais reorganizador: a dissolução dos impérios coloniais. Era comum durante a Guerra Fria, e até hoje, crer que todo conflito no terceiro mundo foi criado pelos Estados Unidos ou pela União Soviética. Um estudo mais apurado nos mostra que muitas destas transformações foram resultados de tensões locais e de uma geopolítica local, como no chifre da África, diante da concepção etíope de Estado.
+
+Estes processos geopolíticos menores são muito pouco estudados. Os Estados menores têm também sua própria visão geopolítica nacional, local e regional de cada situação, que na medida do possível deve ser estudada de forma nativa - sem vê-la como um processo necessariamente externo ou guiado por uma geopolítica global de grandes potências e conflitos por procuração. Nem todo beligerante é um procurador de uma grande potência.
