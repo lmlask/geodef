@@ -94,4 +94,12 @@ Este núcleo se torna o centro do sistema ocidental, no qual os Estados Unidos o
 
 A Rússia muito se expandiu, mas não por razões econômicas, e sim buscando profundidade estratégica. Apesar do curso leninista da Revolução, quem materializou este projeto estratégico foi Stalin, grande estudioso da geopolítica e admirador da doutrina alemã. Acima de tudo, porém, foi um naciobalista, razão pela qual foi acusado de trair os ideais de mundialização do socialismo.
 
-A política externa desta potência foi eternamente ambígua. Não podia evitar ser um rival do Ocidente, mas evitou ao máximo a eclosão de outra guerra, protegendo o próprio projeto de securitário.
+A política externa desta potência foi eternamente ambígua. Não podia evitar ser um rival do Ocidente, mas evitou ao máximo a eclosão de outra guerra, protegendo o próprio projeto securitário.
+
+A Rússia soviética se tornou a conexão entre o cenário europeu e o asiático. Seu projeto inicial não era converter o lesta europeu ao comunismo, ao considerar as complicações disto - afinal, todo o sistema comunista soviético havia se construído com base numa cultura política fundalmentamente russa. Uma Polônia e uma Hungria católicas, e uma Alemanha nacionalista, seriam muito difíceis de governar - como de fato o foram. O projeto inicial de Stalin era estabelecer estes países como uma zona de amortecimento e de influência, sem necessariamente converter e modificar seus sistemas econômicos externos. 
+
+A questão alemã era chave em seu sistema de equilíbrio de poder. Quando sua solução não deu certo, após o Bloqueio de Berlim, ocorrem a guerra da coreia e a revolução chinesa.
+
+Sua ideia ao permitir estes conflitos, como recentemente revelado, era criar um foco de atenção que desviasse a atenção ocidental da Europa.
+
+Ao mesmo tempo, a corrida armamentista traz consigo a ideia de equilíbrio nuclear - a dissuasão inquebrável que permitiria que cada potência governasse sua própria esfera. Assim, quando a Rússia interviu na Hungria, os Estados Unidos não tomaram nenhuma ação contundente - ainda que não tenham tolerado a Revolução Cubana, em seu próprio quintal.
