@@ -77,3 +77,21 @@ A Grande Guerra foi uma guerra *total*, que viu o emprego de teorias geopolític
 O cenário não se alterou radicalmente quando a Crise de 1929 impactou a Alemanha, com a criação do Terceiro Reich - que retomou as *mesmas linhas* geopolíticas alemãs anteriores, somando a elas um forte componente racista. De resto, a geopolítica alemã continuou idêntica, durante uma segunda guerra também desigual e transformadora.
 
 A geopolítica do final do século XIX repercutiu num eco imenso, por décadas, num quadro de destruição na Europa que, até hoje, ainda não foi suficientemente analisado.
+
+# Geopolítica da guerra fria
+
+Entre a primeira e a segunda guerras mundiais, surgiu algo radicamente novo no mundo: o estado pós capitalista. O Estado moderno é capitalista, e se desenvolveu desta forma, porém até o momento o capitalismo apenas havia convivido com sistemas anteriores.
+
+Na Europa, nesta época, um país relativanebte atrasado passou por mudanças violentas, buscando construir uma indústria própria e um sistema próprio.
+
+O resultado da segunda guerra mundial é uma Europa dividida e enfraquecida. O fato da Alemanha ser um país dividido e ocupada não deixa de ser um elemento importante.
+
+O conceito de *heartland*, até então muito abstrato, de quem via de fora e relativo a regiões muito remotas, se torna um novo *heartland*: o comunista, desde a metade da Alemanha até o Oceano Pacífico.
+
+Trata-se de uma massa terrestre inpressionante, agora desenvolvida, e que se torna um cenário geopolítico que solidificou a noção do império marítimo - a Inglaterra, ao passar o bastão de comando aos Estados Unidos buscando seu próprio papel no novo mundo, funde os dois lados do Atlântico Norte na OTAN, unidade que Samuel Hutchinson, na virada deste século, definiu como o coração do Ocidente. E assim pensam os estrategistas.
+
+Este núcleo se torna o centro do sistema ocidental, no qual os Estados Unidos ocupam o espaço antes tido pelo império britânico.
+
+A Rússia muito se expandiu, mas não por razões econômicas, e sim buscando profundidade estratégica. Apesar do curso leninista da Revolução, quem materializou este projeto estratégico foi Stalin, grande estudioso da geopolítica e admirador da doutrina alemã. Acima de tudo, porém, foi um naciobalista, razão pela qual foi acusado de trair os ideais de mundialização do socialismo.
+
+A política externa desta potência foi eternamente ambígua. Não podia evitar ser um rival do Ocidente, mas evitou ao máximo a eclosão de outra guerra, protegendo o próprio projeto de securitário.
