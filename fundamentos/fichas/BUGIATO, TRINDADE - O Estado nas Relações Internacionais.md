@@ -68,3 +68,19 @@ Ao conquistar o Estado, a burguesia se tornou dominante - fazendo dele uma isnti
 
 O terceiro ponto fundamental em suas discussões é a força - não apenas mantenedora da coesão social, mas como derivação da divisão da sociedade em classes. Se o Estado é o Estado da classe dominante, é naturalmente destinado a oprimir "a classe dominada e explorada".
 
+Para Poulantzas, "formação social" significa a existência simultânea de mais de um modo de produção, com predominância de um. Numa "formação social" capitalista, predomina o modo de produção capitalista no qual trabalhadores tornam-se assalariados da burguesia, que aufere seus lucros da "extorsão do sobretrabalho".
+
+Numa *formação social*, as funções do Estado estão relacionadas aos níveis da economia, ideologia e política. Na economia, sua função é organizar o processo de produção; no nível ideológico, é estabelecer normas de educação, informação e comunicação; e no político, manter a ordem política em meio ao conflito de classes. Estas funções se desenvolvem no papel político global do Estado: a manutenção de uma formação social de dominação de uma classe sobre outra.
+
+O Estado de Poulantzas é o **fator de coesão** de uma formação social atravessada pela luta de classes - e está atrelado a um modo particular de dominação de classe (a forma de Estado emerge de suas relações de produção).
+
+As relações de produção capitalistas possuem dois aspectos: a *relação entre produtor e proprietário dos meios de produção*, e a *separação entre o produtor direto e os meios de produção*. O Estado capitalista, núcleo da estrutura jurídico-política do modo de produção capitalista, se articula em quatro elementos: o **direito burguês**, o **burocratismo**, o **efeito isolamento** e o **efeito unidade** de representação.
+
+O direito burguês consiste em atribuir a todos a condição formal de "livre" e "igual". O burocratismo determina a hierarquização de agentes de forma que seu escalonamento apareça não como subordinação, mas gradação de competências individuais.
+
+Esta estrutura político jurídica (Poulantzas, 1977) produziria efeitos político-ideológicos nos agentes da produção. O **efeito isolamento** individualiza os trabalhadores, de forma a evitar o posicionamento coletivo. O **efeito unidade**, então, une ideologicamente estes agentes pré-individualizados numa comunidade simbólica: o povo-nação. Assim, o Estado capitalista frustra a constituição de grupos sociais antagônicos e os une numa unidade forma de suposto acesso universal.
+
+# Considerações Finais
+
+Os autores concluem pelas influências claras de Weber em Morgenthau (realismo), Locke em Deutsch (liberalismo) e Marx em Poulantzas (marxismo). As únicas conclusões que se destacam são (1) que, para Poulantzas, as relações exteriores do Estado devem ser analisadas no contexto do bloco que se encontra no poder; (2) o Estado, ao se apropriar das relações exteriores, obtém ainda mais poder econômico ao incorporar ou rechaçar o interesse e capital estrangeiro; (3) o faz não pelos interesses do "povo-nação", mas da classe dominante, em mente; e (4) que as concepções de política externa dos autores de RI analisados dependem diretamente de suas concepções de Estado, ainda que alguns deles não pareçam valorizar o conceito de Estado aplicado (ex. Morgenthau). O encontro de teoria do Estado com Relações internacionais, portanto, é necessário e deve ser constante, pois, quando não determinante, é um forte condicionante à análise concreta das relações internacionais.
+
