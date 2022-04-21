@@ -76,6 +76,58 @@ As teorias feministas, por fim, abordaram o repensamento de conceitos tradiciona
 
 # As teorias em disputa
 
+Nos anos recentes as RI tentaram estabelecer uma relação mais rigorosa com a realidade. No entanto, isso só resultou na reafirmação de verdades, criação de confusões e uma história de "fatos" que negou a historicidade e contexto político das verdades da disciplina. A teoria desenvolvida teve pouco potencial explicativo - uma teoria "teoricista".
+
+As RI não são metodologicamente específicas - tentar separar as RI dos métodos e objetos da ciência política ou sociologia é presunçoso. Além disso, o teste de sua teoria é seu poder explicativo - a abstração é um caminho para a explicação. Neste contexto, este capítulo examina as quatro abordagens de RI do século passado.
+
+## O empirismo tradicional
+
+Existiu certa tendência de ater-se aos "fatos". Os "fatos", porém, não são suficentes em disciplina científica alguma - eventos precisam ser interpretados, especialmente eventos complexos como o fim da Guerra Fria nos anos 1980. Ademais, a tentativa histórica de encontrar a "linha divisória" entre as RI e a história diplomática é bastante fútil - deve-se relacionar o factual e o específico, e não fazer análise sem conceitos.
+
+Uma tentativa de desenvolver um novo terreno teórico se utilizando do empirismo tradicional foi a escola inglesa. Defende a durabilidade do constrangimento e da necessidade na esfera internacional, de forma que resiste ao "presentismo" e dá ênfase nos valores internacionais e história.
+
+Sua história, porém, é estranha por ser antiga - a história positivista ou diplomática da escola inglesa não é mais feita pelos próprios historiadores. A isso, se soma que seus conceitos centrais - sociedade e Estado - não recebem elaboração suficiente, sendo inferidos. Também pressupõe que o internacional se compõe das relações entre os Estados individuais - e outros pontos de partida são possíveis, como o econômico e o social.
+
+## O empirismo científico: a atração do behaviorismo
+
+Nos anos 1950 e 1960 nasceu uma autoproclamada alternativa às considerações históricas e empíricas - o behaviorismo. Esta tentativa, em grande parte, fracassou; o debate se revestiu de competição entre tradições "nacionais" americana e inglesa, escondeu sua diversidade, reforçou a ortodoxia, a polêmica e a má representação; além disso, desenvolver RI científicas, quantitativas, é uma fantasia que ignora a necessária imprevisibilidade do comportamento humano[^5], a impossiblidade de análise sem critério de significado e o papel das questões éticas na vida humana.
+
+[^5]: Grupos de humanos são distintamente previsíveis. A imprevisibilidade do comportamento humano só se observa no indivíduo; e ver o político como advindo do indivíduo nos aproximaria perigosamente da história diplomática positivista.
+
+O behaviorismo acusou os políticos de se basearem em economistas mortos, e se baseou em filósofos mortos; em suas estruturas algébricas produziram banalidades ou obscuridades; para evitar o tradicional, baseou-se no excesso ou na confusão; e frequentemente ignorou a analogia histórica. Sua única conquista foi, além de destronar o realismo, explorando novas formas de interação internacional, uma exploração do processo de formação da política externa ("Análise de Política Externa").
+
+Um exemplo foi a tentativa de fornecer uma causa "empiricamente precisa" às causas da guerra, e outro foi a afirmação da superação do Estado pelo desenvolvimento "transnacional", uma toca de coelho que rendeu muito pouco e acabou retornando ao realismo.
+
+Keohane, um dos fundadores da abordagem transnacionalista, foi um de seus melhores autores; em *After Hegemony*, se utilizou da suposição realista de que não pode haver ordem sem uma autoridade central ("hegemonia"). No entanto, ainda que tentando se afastar do realismo e do marxismo, se utilizou exclusivamente de uma concepção realista de Estado ao fazê-lo.
+
+## O neo-realismo: "sistema" sem conteúdo
+
+A escola realista saiu do próprio confinamento histórico e filosófico ao gerar o "neo-realismo". Em parte, reafirmaram temas tradicionais (sobre Estado, poder e conflito), mas também fez revisões importantes: atenção ao papel **econômico** das relações interestatais e uma tentativa de trazer mais rigor à teoria e corrigir suas lacunas e flancos atacados. *Theory of International Politics*, de Kenneth Waltz[^10], foi talvez o mais importante.
+
+[^10]: Waltz construiu sua reputação em 1959, com *Man, the State and War*, no qual conclui que é o sistema internacional, e não a natureza do homem ou a constituição doméstica dos Estados, que melhor explicava a guerra, excluindo o caráter doméstico dos Estados das RI, à custa de duas questões: (1) separar as três hipóteses foi criticado, distanciando-se de teorias mais abrangentes que buscavam incorporá-las; e (2) opor sua teoria "sistêmica" (exclusivamente internacional) às teorias "reducionistas" (as que consideram o interno). Concluiu, questionavelmente, que não é necessário estudar a estrutura interna de cada Estado.
+
+Para Waltz, "estrutura" significa *um conjunto de constrangimentos*, e a estrutura internacional é condicionada por três situações: a **anarquia**, a **ausência de diferenciação de função** e a **distribuição desigual de capacidades**. Disso ele tira algumas conclusões: que o mecanismo central do sistema político internacional é o **equilíbrio de poder**, e que a natureza de um sistema interestatal é dada pelo **caráter e número** de seus grandes poderes.
+
+Waltz critica a teoria da interdependência pela falta de perspectiva histórica (afirmando que a interdependência já foi maior no passado) e por negligenciar os perigos da "interação excessiva entre os Estados"; afirma que o poder militar mantém sua utilidade e propósitos também num mundo bipolar.
+
+O primeiro problema da análise de Waltz é que ela é a-histórica, tomando como permanentes características que são produto da historicidade e contexto atual das RI (inclusive expressamente, indicando "características com milhares de anos"), ainda que afirme que a morte do Estado é "rara". Isso mostra que seu contexto nacional-territorial de Estado não deixa espaço para um conceito de capitalismo e o estudo da relação entre Estados diferentes e a disseminação internacional deste capitalismo.
+
+A literatura de relações internacionais é surpreendentemente tímida com a palavra "capitalismo" - isso faz com que a teoria realista e a história que ela infere tenham concepções distintas de como o Estado e o sistema internacional se relacionam - para o realismo, o sistema internacional se desenvolve da correlação entre os Estados; para a sociologia histórica, é muito claro que são os Estados que emergem de relações transnacionais a partir da idade moderna.
+
+O segundo problema da análise é reivindicar que as RI devem ser estudadas de forma puramente sistêmica. Seu argumento é que os Estados são condicionados pelo sistema, e não são livres para fazer o que querem, o que pode fazer sentido - mas afirmar que o interno, por essa razão, é *desprezível*, é um salto lógico um pouco grande demais.
+
+Ao final de seu livro, cede um pouco e admite que certas nações menores irão à guerra não apenas por razões externas, mas por sua experiência histórica, regime político e socioeconômico, etc. 
+
+O autor conclui que é necessária uma teoria capaz de conciliar os fatores internos e externos - que estude como os fatores internacionais afetam o funcionamento interno dos Estados e como as mudanças internas advindas disso podem modificar o sistema internacional. Finalizamos com o exemplo da rivalidade leste-oeste, que certamente não pode ser explicada sem considerar seu conflito ideológico e as incompatibilidades entre os sistemas internos envolvidos. Explicar seu desenvolvimento **requer** um exame de características domésticas da URSS e de seus adversários ocidentais, e o realismo não nos fornece as ferramentas para cumprir este requisito.
+
+## O pós-modernismo e o internacional
+
+A introdução do pós-modernismo nas relações internacionais, fortemente influenciado pelo pós-estruturalismo francês e pela concepção moral nietzscheana, cobriu grandes desafios, como o feminismo, o materialismo histórico, e mais. Suas reivindicações são duas: (1) que não existe uma racionalidade única ou narrativa histórica "central" ou "correta" que baseie a interpretação de outras teorias; e (2) que categorias aparentemente distintas e unitárias das ciências sociais escondem uma grande diversidade de interpretação, complexidade e indeterminação.
+
+O pós-modernismo internacional abordou o papel do discurso (palavras, símbolos, identidades) como forma de projetar legitimidade e a multiplicidade de identidades abertas a todos os sujeitos humanos. Trouxe também, porém, contribuições discutíveis - sua amoralidade fundamental, inabilidade de explicar certos eventos ou períodos, exacerbação do papel do ideológico, desconsideração de processos mais materiais de produção.
+
+Cabem também duas outras críticas: a dependência da "pós-modernidade", acreditar que o mundo está numa "nova fase"; e o tom e estilo da literatura pós-modernista, que ressalta o dominado e o subalterno, com recursos estilísticos artificiais quando a análise de história e conceitos falha - um estilo e tom algo religioso, da mesma forma que os realistas temperam sua teoria com citações de Cícero e Tucídides.
+
 # Um encontro necessário - o materialismo histórico e as relações internacionais
 
 # O Estado e a sociedade nas relações internacionais
