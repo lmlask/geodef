@@ -171,6 +171,14 @@ Seria o Estado, portanto, que permitiria a construção da socidade, administran
 
 Weber viu necessário, para definir o Estado, analisar os meios que o caracterizavam, diferente da finalidade analisada pelos contratualistas. Isso é relevante porque via o Estado como uma comunidade humana, circunscrita a um território, que reclamava para si o monopólio da violência física legítima. Isso dá destaque à dimensāo repressiva do Estado. Weber traz também outro aspecto, conceber o Estado como uma relação de dominação de homens sobre homens diante da coação física.
 
+Weber viu no Estado um tipo muito específico de dominação, que chamou de dominação racional-legal, baseada na norma jurídica. O Estado essencialmente se legitima pelo direito, estando o apego à norma legal no princípio burocrático do Estado.
+
+### As definições de Morgenthau e Deutsch
+
+Estes autores também colocam em evidência a perspectiva liberal do Estado, associado à criação e manutenção de determinada ordem, baseada em seu papel enquanto força de coerção.
+
+Morgenthau apresenta o Estado como um.fator responsável pela manutenção da ordem e da paz social.
+
 ## Vertente marxista
 
 A vertente marxista, ao atrelar o tratamento do estado a uma dimensão sociopolítica, não vê o conjunto institucional do estado separado das dinâmicas sociais, mas *marcado* por relações de dominação conflitiva entre classes e grupos. O estado, aqui, é visto mais como uma **arena de conflito** e menos como uma entidade neutra ou árbitro institucional. Mantém margens de atuação própria, porém sem perder a associação com os interesses sociopolíticos dos grupos em conflito - que se integram na atuação de seus diversos órgãos.
