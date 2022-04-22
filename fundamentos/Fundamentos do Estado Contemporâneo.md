@@ -143,7 +143,27 @@ As teorias clássicas de diferentes vertentes, ao enfatizar diferentes aspectos 
 
 ## Vertente liberal
 
-A vertente liberal tende a favorecer a concepção de estado como bloco de certa homogeneidade, pois apresenta o estado diante de um conjunto de instituições de caráter universal e *neutra* diante de disputas sociais - uma espécie de árbitro. Esta vertente privilegia o estudo do estado em suas dimensões *institucional* e *governamental*.
+A vertente liberal tende a favorecer a concepção de estado como bloco de certa homogeneidade, pois apresenta o estado diante de um conjunto de instituições de caráter universal e *neutra* diante de disputas sociais - uma espécie de árbitro. Esta vertente privilegia o estudo do estado em suas dimensões *institucional* e *governamental*. A perspectiva liberal foi elaborada primeiramente nos séculos XVII e XVIII. 
+
+A teorização liberal de Estado tem seu lastro original nas teorias contratualistas do direiro natural dos séculos XVII e XVIII, nas obras de Hobbes, Locke e Rousseau. A ideia de direito natural se relaciona com um Estado que nasce para garantir os direitos e liberdades inatas do homem. Este Estado se baseia no consenso daqueles sobre quem exerce o poder, expresso numa forma de contrato social.
+
+Este Estado é neutro e uma forma de árbitro que se apresenta como garantidor, e assim se apresenta também sua materialidade institucional.
+
+## Contratualistas
+
+A perspectiva de Estado de Thomas Hobbes, no Leviatã, parte da premissa que os homens em seu estado natural se jogam uns contra os outros na busca de poder e riquezas, e percebem a necessidade de estabelecer uma espécie de acordo que dá origem a uma entidade de poder absoluto e irrevogável, como forma de garantir a própria proteção contra conflito e guerra.
+
+Esta ideia retrata o contexto que o próprio autor viveu em meio à implementação do Estado moderno em meio a monarquias absolutas. Este estado representava exatamente uma espécie de delegação de poder por parte dos sujeitos.
+
+Em meio a uma sociedade capitalista já mais evoluída, John Locke, na década de 1690, viu que o homem livre precisava de um acordo para garantir não só a sobrevivência e a paz, mas a principalmente a propriedade privada.
+
+É importante esclarecer que a ênfase está nos direitos econômicos e na propriedade privada, que na época do autor se destacavam para os segmentos que dispunham destas liberdades e direitos. Diferentemente de Hobbes, Locke excluía a monarquia absoluta como forma ideal de poder, e colocava à disposição do Estado a garantia dos direitos e liberdades dos homens, numa espécie de Estado mínimo ou limitado, que não interferisse na esfera privada. O público seria uma espécie de ferramenta que preservasse o privado, no centro do ideário moderno.
+
+O teórico suíço Rousseau reconhecia também o Estado, além de um contrato necessário aos direitos dos homens, como um instrumento essencial para a preservação das liberdades e direitos individuais, mas se afastando dos teóricos ingleses via no Estado de sua época uma instituição criada por grupos dominantes para garantir a própria posição de poder. Garantir os direitos e liberdades significava, também, preservar a desigualdade de sua sociedade capitalista.
+
+### A perspectiva hegeliana
+
+Hegel trazia o Estado como fundamento da sociedade, e não o contrário contratualista.
 
 ## Vertente marxista
 
