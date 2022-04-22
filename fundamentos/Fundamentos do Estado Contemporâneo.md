@@ -163,7 +163,13 @@ O teórico suíço Rousseau reconhecia também o Estado, além de um contrato ne
 
 ### A perspectiva hegeliana
 
-Hegel trazia o Estado como fundamento da sociedade, e não o contrário contratualista.
+Hegel trazia o Estado como fundamento da sociedade, e não o contrário contratualista. O que caracterizava os Estados recém constituídos era um interesse comum oposto aos interesses particularistas presentes na sociedade. A razão de ser do Estado, portanto, era preservar o interesse geral, acima dos individuais.
+
+Seria o Estado, portanto, que permitiria a construção da socidade, administrando os conflitos e contradições que emanavam dos interesses individuais. Assim, seria o Estado o fundador do povo, que sem ele estaria condenado ao predomínio dos interesses egoístas e particularistas dos indivíduos.
+
+### A contribuição de Max Weber
+
+Weber viu necessário, para definir o Estado, analisar os meios que o caracterizavam, diferente da finalidade analisada pelos contratualistas. Isso é relevante porque via o Estado como uma comunidade humana, circunscrita a um território, que reclamava para si o monopólio da violência física legítima. Isso dá destaque à dimensāo repressiva do Estado. Weber traz também outro aspecto, conceber o Estado como uma relação de dominação de homens sobre homens diante da coação física.
 
 ## Vertente marxista
 
