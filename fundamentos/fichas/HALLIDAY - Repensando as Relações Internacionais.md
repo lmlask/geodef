@@ -124,11 +124,87 @@ O autor conclui que é necessária uma teoria capaz de conciliar os fatores inte
 
 A introdução do pós-modernismo nas relações internacionais, fortemente influenciado pelo pós-estruturalismo francês e pela concepção moral nietzscheana, cobriu grandes desafios, como o feminismo, o materialismo histórico, e mais. Suas reivindicações são duas: (1) que não existe uma racionalidade única ou narrativa histórica "central" ou "correta" que baseie a interpretação de outras teorias; e (2) que categorias aparentemente distintas e unitárias das ciências sociais escondem uma grande diversidade de interpretação, complexidade e indeterminação.
 
+Suas principais práticas são a desconstrução, a semiótica, a genalogia, a psicanálise; considera questões de como a **verdade, o conhecimento e o significado** são construídos, expressando insatisfação com o projeto iluminista. Busca revelar convenções que fornecem ao "fato" seu convencimento - os discursos que sustentam as forças sociais são "regimes de verdade".
+
 O pós-modernismo internacional abordou o papel do discurso (palavras, símbolos, identidades) como forma de projetar legitimidade e a multiplicidade de identidades abertas a todos os sujeitos humanos. Trouxe também, porém, contribuições discutíveis - sua amoralidade fundamental, inabilidade de explicar certos eventos ou períodos, exacerbação do papel do ideológico, desconsideração de processos mais materiais de produção.
 
-Cabem também duas outras críticas: a dependência da "pós-modernidade", acreditar que o mundo está numa "nova fase"; e o tom e estilo da literatura pós-modernista, que ressalta o dominado e o subalterno, com recursos estilísticos artificiais quando a análise de história e conceitos falha - um estilo e tom algo religioso, da mesma forma que os realistas temperam sua teoria com citações de Cícero e Tucídides.
+Cabem também duas outras críticas: a dependência da "pós-modernidade", acreditar que o mundo está numa "nova fase"; e o tom e estilo da literatura pós-modernista, que ressalta o dominado e o subalterno, com recursos estilísticos artificiais quando a análise de história e conceitos falha - um estilo e tom algo religioso, da mesma forma que os realistas temperam sua teoria com citações de Cícero e Tucídides. Seu trabalho anunciando novas formas de epistemologia, hermenêntica, dialética, conclusão e assim por diante, por si só, não resolveu questões de filosofia da ciência, e não contribuiu para a teorização das RI.
+
+Na análise do internacional, o pós-modernismo vê as estruturas de discurso como socialmente construídas. Walker, exemplo representativo, vê as principais discordâncias não no campo internacional, mas na política em geral. Para Walker, a teoria das RI tem três fraquezas derivadas da teoria política: trata categorias históricas como eternas; não registra as modificações do "mundo pós-moderno"; e assim não vê as mudanças que permitiriam melhoras internacionais, nacionais e locais. 
+
+Uma vitória de Walker foi localizar historicamente e politicamente o que antes eram teorias com genealogia aparentemente teórica. Sua análise de conceitos tradicionais (sociedade, Estado), porém, não é capaz de aproximar-se de processos e fatos históricos como a historiografia marxista e a sociologia histórica.
+
+Walker tem problemas em demonstrar esta "mudança histórica" da pós-modernidade. Ele se baseia na aceleração da mudança e desaparecimento de categorias passadas. Afirma que as identidades se tornaram obscuras e hoje predomina a indeterminação onde antes havia clareza. A crítica do autor é a da grande importância da identidade, como na guerra da Iugoslávia, que viu com grande vitalidade as antigas formas de identidade e ideologia política.
+
+Um de seus objetivos centrais é não apenas abandonar o Estado, mas apresentar um conteúdo novo na aprimoração da democracia. Para tal, não é suficiente invocar genericamente os "novos" movimentos sociais; as reivindicações do institucionalismo, por exemplo, não viu que muitos dos "novos movimentos" não eram nem benignos nem emancipatórios. Assim, os pós-modernistas falharam em identificar o sujeito da emancipação.
 
 # Um encontro necessário - o materialismo histórico e as relações internacionais
+
+O marxismo nas ciências sociais está, em certa medida, desacreditado no que diz respeito a sua teleologia histórica implícita. No entanto, a análise do materialismo histórico constitui uma contribuição importante e desejável em muitas situações, se afastando da teoria comunista ortodoxa assim como o realismo se afastou de suas origens darwinistas sociais.
+
+O marxismo não tem um lugar seguro nas RI, onde seu lugar é negado ou relegado a uma análise específica e menor - o que se faz ignorando as competições socieconômicas da arena internacional e ignorando suas principais questões teóricas.
+
+Critica-se o fato de o próprio marxismo ter se limitado à questão do "imperialismo" internacional e sua má interpretação por defensores e opositores. Seu foco em fatores econômicos também enfraqueceu sua análiso política, ideológica e de segurança, questões centrais às RI. Até mesmo a divisão nacional/internacional apresenta certos problemas aos marxistas cosmopolitas que percebem os acontecimentos mundiais como um processo único. Cabe lembrar que Marx não via qualquer contradição entre a formação de nações e a crescente interligação entre Estados e sociedades.
+
+## O marxismo e os três grandes debates das RI
+
+O marxismo não se encaixa em nenhum dos três grandes debates das RI. No entre "utópicos" e "realistas", o marxismo é utópico ao postular uma forma alternativa e ética de política e realista em sua ênfase nos interesses materiais; no entre "tradicionalistas" e "behavioristas", é tradicionalista pela influência da economia britânica clássica e behaviorista ao enfatizar a análise social científica. No terceiro debate, enquadra-se um pouco melhor - diante de sua habilidade de abordar um "processo mundial" que se encaixa nas abordagens centradas no Estado e nos sistemas mundiais, com seus conceitos de *Weltklasse, Weltpartei* e *Weltrevolution*.
+
+O marxismo nas RI crê que o Estado se mantém como um fator central e desconfia de afirmações transnacionalistas e liberais. Nos anos 70 se acreditou que poderia ser metodologicamente aplicado como "estruturalismo", porém o marxismo essencialmente discorda dos autores estruturalistas, por seu elemento central de vontade, liberdade e ação do elemento, frente ao determinismo sistemático estrutural - e se choca com as importantes teorias estruturais das RI (a teoria estrutural de Galting sobre o imperialismo; a de Mann sobre as quatro formas de poder), que reconhecem a produção e a exploração econômica como um entre muitos constrangimentos possíveis. Por fim, as relações sul-norte não são, para o marxismo, a "chave" dos problemas internacionais, como o estruturalismo postula.
+
+## O potencial do materialismo histórico
+
+O marxismo continua em evolução; sua obra é, como a das outras abordagens, ultrapassada, contraditória e confusa. O materialismo histórico, porém, é a tentativa mais consistente de oferecer uma teoria da sociedade. Ele carrega um grande potencial para as relações internacionais. Ele também produziu trabalhos sobre a guerra, a violência, o Estado, o conflito internacional, as questões econômicas internaicionais.
+
+Outra teoria baseada no marxismo surgiu desde 1970: a teoria de Wallerstein, os debates da Guerra Fria e as análises das relações intercapitalistas. Ela destaca a criação de uma hierarquia econômica na constituição do sistema. Foi criticada por dar muita importância à circulação, nem tanto à produção, e por sua abordagem interdependente sobre o imperialismo.
+
+Para o realismo, a Guerra Fria foi uma continuação da competição interestatal; para as teorias estruturais e da interdependência, foi um desenvelvimento secundário subalterno às relações Norte-Sul. O único debate sobre a natureza do conflito internacional ocorreu no materialismo histórico.
+
+Contribuiu também com a história internacional, em Wolf (que estuda a subjugação do mundo ao sistema socioeconômico europeu), Anderson (que aborda o desenvolvimento social do Estado) e Hobsbawm (que realiza estudos comparados sobre a evolução do sistema internacional moderno). Nenhum trabalho se compara ao de Hobsbawm sobre o desenvolvimento do sistema internacional no contexto material-histórico.
+
+## O paradigma materialista histórico
+
+Para os teóricos marxistas, o mais relevante para as relações internacionais nem sempre está "no internacional", mas em implicações mais amplas de toda a teoria. Existem quatro temas gerais que delineiam seu paradigma.
+
+### Determinação material
+
+O primeiro grande tema é a determinação material (por fatores socioeconômicos) da sociedade, sistemas de propriedade e de controle efetivo (relações de produção), o "modo de produção" gerado por estas forças e relações, e a "formação social" constituída por esta determinação estrutural.
+
+Assim, as relações internacionais são estudos sobre relações **entre formações sociais**, não entre Estados, porque não existiria qualquer estrutura social independente destes quatro fatores. A segurança deixa de se abstrair e se torna a segurança de grupos específicos, por razões específicas. A história aborda, em grande medida, a história do capitalismo.
+
+### Determinação histórica
+
+O segundo tema é o da história - "a tradição das gerações mortas paira como um pesadelo sobre as mentes dos viventes". Não apenas **a história influencia o comportamento presente**, mas as características de cada sociedade **só podem ser compreendidas em seu contexto histórico**. Isso destruiria a aparência de eventos "naturais" ou "permanentes" - os eventos sociais são humanos, históricos, particulares, e existem alternativas.
+
+O lugar da história nas RI, porém, é algo desconfortável pela tentativa de separar-se da história diplomática. É prática comum abstrair as questões analisadas de seu contexto histórico; a ideia de que a Inglaterra e os Estados Unidos são exemplos de um caminho "pacífico" e "não revolucionário" é um exemplo disso, assim como a análise de "interdependência" e "ingovernabilidade" que ignora os eventos que levaram à situação analisada.
+
+### A classe social
+
+O terceiro tema é a centralidade da classe social como ator doméstico e internacional, definido pela posse e controle dos meios de produção. O conflito ("luta de classes") ocorre (1) entre grupos de posição díspar e (2) entre grupos na mesma posição. A classe dominante utiliza o capitalismo internacional para preservar sua posição de dominação e expandir seus interesses e poder.
+
+Toda a história das relações internacionais teria na luta de classes seu elemento central - os impérios europeus, a crise do padrão ouro, os choques do petróleo - podem ser vistos como conflitos entre as classes dominantes capitalistas e os velhos poderes capitalistas e seus rivais. Isso muda a percepção sobre a atuação de atores não-estatais, que *sempre estiveram presentes*, exercendo seu poder de várias formas.
+
+A primazia da classe mostra (1) que o Estado é uma função de forças sociais mais amplas; e (2) que a política doméstica opaca esconde uma internacionalização de fatores políticos e econômicos. Ao ressaltar a internacionalização da classe trabalhadora, Marx inferiu que era a burguesia a classe que se utilizava do internacional para perseguir seus interesses.
+
+### A revolução
+
+O materialismo histórico defende que o conflito é inevitável, e um fator dinâmico fundamental à política interna e externa, de duas formas: a guerra e a revolução. A guerra seria o conflito entre classes similares por mercados, recursos e territórios; a revolução seria o conflito entre classes diferentes, dentro de Estados particulares. As revoluções podem ser "políticas" (que mudam a forma de governo) e "sociais" (que alteram a estrutura de dominação de classes).
+
+A centralidade do conflito convida à análise os conflitos que geraram os eventos internacionais, presentes na história mesmo dos Estados mais pacíficos. A revolução, escreveu Marx, seria, neste sentido, a "sexta grande potência", como um momento fundamental de redefinição de padrões, ainda que estivesse enganado em emprestar nuances místicas e deterministas à revolução, e em crer que algo radicalmente diferente sempre emergeria delas - mas estava correto em perceber o conflito social sobre a sociedade, o poder e os recursos como uma característica central da política.
+
+Neste sentido, o determinante do sistema internacional não é a anarquia do sistema de Estados, mas a do mercado e a do próprio capitalismo e os conflitos que ali emergem.
+
+## As inibições da teoria
+
+O mais poderoso inibidor do marxismo é seu tom "geral", acompanhado de certo dogmatismo, intolerância e uma teleologia histórica sem base. Este dogma produziu a teoria da "correlação de forças", mas elaborada que o "equilíbrio de poder", mas estava incorreta em *prever* um caminho para a história. A crença na inevitabilidade da crise capitalista leva a certo dogmatismo e intolerância, por si só - e dá às ideias uma permanência incompatível com o próprio materialismo histórico.
+
+A determinação leva ao reducionismo, o que foi outro dos pecados da produção marxista - a determinação material não é absoluta, mas um conjunto de **limites** e significados. Este problema também se expande à relativa autonomia da política - os materialistas históricos têm problemas frequentes em explicar a política que não é simplesmente uma dimensão do socioeconômico, ainda que escrevam sobre ela incessantemente.
+
+Existe também certa subestimação do Estado, mostrada por sua dificuldade em explicar a democracia capitalista (que mobiliza o apoio das massas e limita o uso da coerção física) e o nacionalismo (mais consistente que as lealdades de classe).
+
+## O marxismo além da guerra fria
+
+O marxismo tem potencial de se expandir na análise das relações internacionais - se reconhecer os desafios que as RI lhe apresentam. Existe a possibilidade que o materialismo histórico se torne mais relevante *como sistema explicativo*, pois em sua origem e foco de análise está o capitalismo, sistema agora dominante no mundo.
 
 # O Estado e a sociedade nas relações internacionais
 
