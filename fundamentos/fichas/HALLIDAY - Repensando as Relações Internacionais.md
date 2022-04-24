@@ -208,6 +208,32 @@ O marxismo tem potencial de se expandir na análise das relações internacionai
 
 # O Estado e a sociedade nas relações internacionais
 
+## O impasse sobre o Estado
+
+Desde os anos 1970 muitos debates em relações internacionais se focaram no papel do Estado como ente central às RI, defendendo seu papel constitutivo e central ou desafiando sua primazia. Este debate chegou a um impasse, sem a vitória de um paradigma em particular. Esta pluralidade pode ser vista como uma disciplina saudável e não monolítica - mas ainda é necessário analisar as razões para tal pluralidade.
+
+Pode ser dito que este processo tem sido contraditório, e nem confirma nem refuta as mais simples análises. Nesse sentido, aponta-se que o Estado perdeu proeminência, e ao mesmo tempo que o Estado é mantido e forte. Neste jogo de soma zero, nenhuma resposta teórica efetiva é possível - os realistas subestimam o que mudou, e seus oponentes exageram o enfraquecimento do Estado.
+
+Cabe analisar o conceito de Estado utilizado - se dos antigos teóricos políticos, ou da sociologia, ou do marxismo. Os autores defendem e criticam a posição de algo que não definem.
+
+Ferguson e Maybach defenderam que o próprio termo "Estado" não deveria ser utilizado; mas assumir que o termo tem um significado normativo é infundado, e outras definições (como as sociológicas) estão disponíveis. É perfeitamente aceitável discutir o poder estatal, ainda que o esforço teórico em sua definição e redefinição não seja irrelevante.
+
+## Definições em oposição
+
+Assume-se o que é o Estado, sem defini-lo ou explorar seu significado. Para Bull, é uma comunidade política; para Waltz, uma co-extensão da nação. Em geral, as RI o consideram como a totalidade percebida no mapa político: o território, governo, povo, sociedade. Para Northledge, é uma "forma de organizar as pessoas para participar do sistema internacional". Não se defende que a definição escolhida exista empiricamente, mas que seja uma abstração apropriada para as RI. O conceito alternativo é como um *conjunto muito específico de instituições coercitivas e administrativas* - empiricamente menor que a sociedade e que a nação.
+
+Discute-se (1) onde situar os limites do Estado e as instituições como escolas, universidades, igrejas, etc. (ex. Althusser); e (2) a autonomia do Estado, uma vez que é visto como distinto da sociedade - e até que ponto pode representar interesses diversos dos daquela sociedade. Para muitos (ex. Brenner), uma *divisão entre administração societária e apropriação privada* não deveria ser confundida com autonomia, e a teoria marxista do Estado como instrumento de classe permaneceria válida. A teoria "estrutural", por sua vez, define a função do estado como mantenedor da hegemonia de classe gramsciana em suas quatro dimensões - coercitiva, administrativa, regulatória e ideológica.
+
+Nesse contexto, é importante não confundir os conceitos que se analisa e critica. O potencial explicativo de cada conceito é discutível - mas pode-se defender que os Estados passam a ser menos representativos de suas sociedades porque o papel internacional destas sociedades é desconsiderada pelo conceito utilizado de Estado.
+
+Distinções importantes são aquelas entre Estado e sociedade (esta que abrange diferentes classes, etnias e grupos de interesse de diferente acesso ao Estado), entre Estado e governo (aparato administrativo e pessoal administrativo formal; distinção esta que se torna mais relevante quando existem elementos significativos de oposição interna); e entre Estado e nação (o termo Estado-nação prevê uma homogeneidade étnica e cultural que não é o caso há muitas décadas; entenda-se nação como um grupo étnico nacional).
+
+A análise histórica de Tilly sugere que os Estados surgiram como redes de proteção, conquista, expansão e subjugação, sem nenhuma função representativa. É um absurdo buscar representatividade nos Estados de 1648.
+
+É importante analisar o peso dos Estados na formação das sociedades. Sempre moldaram economias, exércitos, legitimidades e normas. É uma grande falácia considerar que o papel econômico dos Estados se limita aos meios de produção que eles próprios possuem, pois seu papel é muito mais amplo.
+
+Por fim, é necessário estudar a composição interna dos Estados, como admnistram populações e territórios, como exercem o controle. Como Mann demonstrou, isso liberta o conceito de Estado da soberania - o Estado não necessariamente tem o monopólio da violência e legitimidade - e se pergunta como o exercício do controle se desenvolve. Muitos fatores, inclusive o internacional, mudam a capacidade do Estado de exercer controle.
+
 # A sociedade internacional como homogeneidade
 
 # A "sexta grande potência": as revoluções e o sistema internacional
