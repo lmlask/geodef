@@ -234,7 +234,37 @@ A análise histórica de Tilly sugere que os Estados surgiram como redes de prot
 
 Por fim, é necessário estudar a composição interna dos Estados, como admnistram populações e territórios, como exercem o controle. Como Mann demonstrou, isso liberta o conceito de Estado da soberania - o Estado não necessariamente tem o monopólio da violência e legitimidade - e se pergunta como o exercício do controle se desenvolve. Muitos fatores, inclusive o internacional, mudam a capacidade do Estado de exercer controle.
 
+## O Estado como ator doméstico e internacional
+
+Estes papeis se entrelaçam - o Estado compete com outros Estados para mobilizar recursos internamente e usa seu papel internacional para consolidar sua posição doméstica. Esta política em duas dimensões inclui muitos riscos, pois a pressão interna excessiva para buscar objetivos externos pode causar resistência, e a busca pelo favorável interno pode levar a conflitos com outros Estados. Ela indica, porém, sem falha, que para determinada sociedade a dimensão internacional é importante.
+
+Muito nas relações internacionais pode ser uma internacionalização de conflitos internos; o Estado, nestes conflitos, tem uma vantagem distinta. A teoria marxiana da internacionalização das classes se aplica bem, também, à classe dominante.
+
+A perspectiva sociológica, como em Hintze, estuda como as atividades internacionais do Estado afetam-no domesticamente. A formação internacional do Estado parece ser demonstrada pelo papel interno de elementos militares. Isto pode ser exemplificado pelo aumento do poder do presidente dos EUA e a ascenção das novas burocracias internacionais (CIA, Conselho de Segurança Nacional) são emexplos do impacto internacional da Guerra Fria na formação doméstica dos Estados Unidos.
+
+O internacional afeta a relação do Estado com a sociedade nas quatro dimensões do Estado de Michael Mann - a ideológica, a militar, a administrativa e a política. A ligação das operações secretas no exterior com os interesses internos, o papel dos *lobbies* militares, a atuação estatal dos Estados Unidos em intervenção à economia e proximidade aos *contractors* militares são bons exemplos.
+
+Tanto o Estado quanto a sociedade buscam apoio internacional para seus conflitos internos, e o Estado recruta seções da sociedade para suas atividades internacionais. **A existência da relação Estado-sociedade permite toda sorte de relações internacionais alternativas** - como o apoio a golpes no estrangeiro, a promoção de agitação social, levante étnico, entre outras medidas.
+
+A interação entre a *sociedade internacional* e a *específica* **não depende** exclusivamente da mediação do Estado, nem se limita a influenciá-lo. As transformações nas prioridades americanas pelo declínio do nordeste em favor do *sun belt* explicam muitas mudanças acentuadas de política entre 1970 e 1980.
+
+O internacional pode impactar a composição social de uma sociedade assim como pode impactar um Estado, por dominação colonial, fortalecimento de certo grupo social, e redução de influências. O internacional afeta o equilíbrio de poder entre grupos internos não-estatais.
+
+O Estado, em si, está a todo tempo reagindo e subordinado aos interesses influentes em sua sociedade correspondente - aí está a força da teoria "estrutural" do Estado. Isto é outro argumento contra a visão "opaca" do Estado pelas RI - como quando a nacionalização da IT&T pelo Chile levou a retribuições pelo Congresso quando a empresa pediu ajuda à Casa Branca.
+
+A relação sociedade-estado é também importante para o estudo do efeito internacional da revolução. Skocpol inter-relaciona o impacto revolucionário nacional e internacional, incluindo o apoio internacional à revolução impacto internacional na consolidação do Estado pós-revolucionário. A revolução também tem, em si, impactos internacionais, como na resposta contrarrevolucionária provocada nos poderes hegemônicos e nos próprios objetivos internacionais (de aliados militares e ideologia) da revolução.
+
+De outro lado, perder um Estado aliado para uma revolução enfraquece a situação doméstica - assim os Estados tendem a preferir a homogeneidade legitimizante, o que por si só indica a importância de fatores internacionais. Historicamente, tanto a revolução quanto a contrarrevolução tendem a falhar em seus objetivos declarados.
+
+A relação sociedade-Estado também tem efeitos sobre a natureza do sistema internacional. Os realistas desconsideram o caráter socioeconômico deste sistema, enquanto os marxistas subestimam a importância do Estado (numa totalidade econômica única, por que os Estados existem?). Estes pontos sugerem a necessidade de entender até que ponto cada item do sistema determina o sistema em si.
+
+Esta teorização também indica a existência de uma **história alternativa** do sistema internacional. Os realistas, como Bull, definem a "aceitação e multiplicação" de Estados e instituições como o ponto central de desenvolvimento deste sistema; apesar do pessimismo realista, sua história tende a ser benigna e ignorar a dominação, imposição e resistência no mundo colonial e subdesenvolvido. As abordagens desta "história alternativa", em Wallerstein e Wolff, permitem ver o desenvolvimento do sistema como a disseminação internacional - por vezes violenta - de um sistema social, no contexto da homogeneidade capitalista pós-Guerra Fria.
+
+Por fim, questiona Many no que concluiu que a política externa não tem relação com o socioeconômico. Destacar o capitalismo nas RI não significa afirmar "transnacionalismo" raso - significa questionar qual o papel do estado num ente ontologicamente "transnacional" - o sistema internacional - dentro de um contexto socioeconôcimo. Conclui que a forma de superar a imobilidade das RI a respeito do Estado será redefinir o próprio Estado.
+
 # A sociedade internacional como homogeneidade
+
+(p.107)
 
 # A "sexta grande potência": as revoluções e o sistema internacional
 
