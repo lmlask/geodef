@@ -2,7 +2,7 @@
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain
-geometry: margin=3cm
+geometry: margin=2.5cm
 indent: false
 numbersections: false
 fontfamily: crimson
@@ -87,7 +87,7 @@ A Rússia, ainda que muito menos poderosa que a URSS, se manteve como um parceir
 
 Importantes países asiáticos têm buscado cooperar com o Terceiro Mundo, particularmente com a África meridional e com o Mercosul, tornando o Oceano Índico uma espécie de ligação sul-sul. O impacto econômico de curto prazo é limitado, e o foco está no potencial promissor de longo prazo e no elemento estratégico. Sendo o espaço asiático *em desenvolvimento*, existe amplo espaço para parcerias estratégicas entre nações *em desenvolvimento*. O Fórum de Cooperação China-África desde 2006 é um exemplo de protagonismo global chinês.
 
-# A Organização da Cooperação de Xangai constitui um bloco "antiocidental"?
+# Organização da Cooperação de Xangai: um bloco "antiocidental"?
 
 O foco dos primeiros esforços de cooperação na ásia pós-soviética eram pela busca de estabilidade regional, e criou um contrapeso oriental como reação à projeção de interesses americanos. Formada em 1996, hoje ela inclui a China, Rússia, Cazaquistão, Tadjiquistão, Quirguistão, Uzbequistão (admitido em 2001), Índia e Paquistão (2016), Mongólia, Irã e Afeganistão (observadores).
 
