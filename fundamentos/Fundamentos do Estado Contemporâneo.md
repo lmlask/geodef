@@ -149,7 +149,7 @@ A teorização liberal de Estado tem seu lastro original nas teorias contratuali
 
 Este Estado é neutro e uma forma de árbitro que se apresenta como garantidor, e assim se apresenta também sua materialidade institucional.
 
-## Contratualistas
+### Contratualistas
 
 A perspectiva de Estado de Thomas Hobbes, no Leviatã, parte da premissa que os homens em seu estado natural se jogam uns contra os outros na busca de poder e riquezas, e percebem a necessidade de estabelecer uma espécie de acordo que dá origem a uma entidade de poder absoluto e irrevogável, como forma de garantir a própria proteção contra conflito e guerra.
 
@@ -177,9 +177,66 @@ Weber viu no Estado um tipo muito específico de dominação, que chamou de domi
 
 Estes autores também colocam em evidência a perspectiva liberal do Estado, associado à criação e manutenção de determinada ordem, baseada em seu papel enquanto força de coerção.
 
-Morgenthau apresenta o Estado como um.fator responsável pela manutenção da ordem e da paz social.
+Hans J. Morgenthau (1904-1980), em *A política entre as nações* apresenta o Estado como o poder supremo num território, um fator responsável pela manutenção da ordem e da paz social. Ele menciona três fatores chave.
+
+O primeiro tem a ver com a identidade nacional. O primeiro tem a ver com a **identidade nacional**, cuja *criação* amortece os conflitos sociais e legitima o Estado como garantidor da ordem interna inclusive perante interesses externos. O segundo é a **expectativa de justiça** - a ideia de que o Estado nacional providencia a oportunidade de ter suas reivindicações satisfeitas. O terceiro é o **poder avassalador**, de forma que a violência física, perante qualquer órgão, é de fato um monopólio efetivo diante da impossibilidade de subjugá-lo - fundado em lei e como conjunto institucional separado da sociedade que organiza.
+
+Karl W. Deutsch (1912-1992) é claro, ao afirmar que o Estado é um mecanismo organizado para tomar decisões políticas, de sua visão funcionalista do Estado, como providenciador de tarefas fundamentais para sociedade.
+
+Nosso objetivo geral foi mostrar a ênfase que estes autores dão à dimensão institucional do Estado, dissociada da dinâmica sociopolítica da sociedade. Adotando esta perspectiva institucionalista com foco no governo, se afasta do foco a possibilidade de olhar para o Estado em sua dinâmica relativa às defasagens interioras, e a possibilidade de analisar as contradições e conflitos da sociedade que também estão presentes no acionário do Estado, gerando constrangimentos e oportunidades.
 
 ## Vertente marxista
 
 A vertente marxista, ao atrelar o tratamento do estado a uma dimensão sociopolítica, não vê o conjunto institucional do estado separado das dinâmicas sociais, mas *marcado* por relações de dominação conflitiva entre classes e grupos. O estado, aqui, é visto mais como uma **arena de conflito** e menos como uma entidade neutra ou árbitro institucional. Mantém margens de atuação própria, porém sem perder a associação com os interesses sociopolíticos dos grupos em conflito - que se integram na atuação de seus diversos órgãos.
 
+### Clássicos do marxismo
+
+Os clássicos utilizados por esta vertente são Karl Marx, Friedrich Engels e Vladimir Lenin. Estes teóricos pensaram o Estado analisando seu caráter econômico e o relacionando ao desenvolvimento do próprio sistema capitalista. Evidentemente o capitalismo e o Estado têm dinâmicas próprias; porém, para os autores marxistas, elementos co-constituintes de uma realidade social mais ampla.
+
+Marx contestava a ideia hegeliana de dominação racional do Estado baseada em interesse coletivo, sobrevivência e interesse social. Para Marx, o elemento explicador da sociedade não era o Estado; e sim os elementos materiais da sociedade os explicadores do Estado. Uma sociedade, assim, se utilizaria do Estado para sujeitar seus membros às vontades de seu braço político-administrativo.
+
+Marx correlaciona o desenvolvimento do Estado e do capitalismo, concluindo que o Estado garante as estruturas de produção capitalista. Para além de representar os interesses sociais que diz representar, seria fundalmentalmente a *expressão política* de uma ordem socioeconômica na qual a classe capitalista é a dominante.
+
+A partir dessas reflexões, Engels fez também importantes contribuições, na *Origem da família, da propriedade privada e do Estado*. A ideia estruturante desta obra é que numa sociedade estratificada, atravessada por interesses e antagonismos econômicos conflitantes, é a existência do Estado que evita a autodestruição da sociedade, amortecendo conflitos e construindo a ordem e coesão sociais.
+
+Enfatiza que estas instituições cívico-militares são em aparência um árbitro imparcial, mas na prática garantindo a ordem que beneficia um grupo específico de pessoas. Ainda que em algum momento esta ordem possa criar atritos com a classe dominante, as instituições em última instância agem dentro dos limites da reprodução da ordem capitalista.
+
+Já para Lenin, o Estado, mesmo no capitalismo mais avançado, não deixa de ser um órgão de dominação de classe - não instrumentalizado diretamente pela  classe dominante, que continua na esfera "privada" - mas que, por trás de sua apresentação, age em favor do *status quo* e das condições de reprodução capitalista, aliçerçado na divisão do trabalho, na acumulação do capital, no trabalho assalariado, e assim por diante.
+
+Isto determina o Estado como um aparelho repressivo a serviço da classe dominante. Isso foi reformulado no século XX nos autores a seguir.
+
+### A contribuição de Gramsci
+
+Antonio Gramsci (1891-1937) elaborou uma teoria original para pensar o Estado de seu tempo, que não era o Estado do Marx de 80 anos antes. Seu objetivo era superar a ênfase coercitiva e instrumentalizada do Estado que os marxistas anteriores utilizavam.
+
+Distinguiu, para tal, o Estado *em sentido estrito* - o conjunto de instituições repressivas - e o Estado *em sentido amplo*, o que chamou de *Estado Integral*. Para além do conjunto de aparelhos de coerção que a classe dominante impõe, o Estdo abrangeria também processos consensuais de dominação social pela via do convencimento, não apenas pela via da repressão.
+
+O conceito de Estado também se amplia para incluir, então, a *função dirigente* - a **hegemonia**, voltada à disseminação de ideias, valores e visões de mundo, com o objetivo de levantar aceitação das massas populares como ideia de interesses gerais, bem como a prestação de serviços públicos que de fato garantem o bem estar mínimo das classes populares.
+
+A ideia de Gramsci é ressaltar esta arena de ideias, este palco de conflito de projetos políticos. O conceito de Estado apresenta dimensões analíticas, que dissociamos para fins analíticos, mas que convivem.
+
+### As conceituações de Poulantzas, Hirsch e Jessop
+
+Nicos Poulantzas (1936-1979), em *Poder político e classes sociais*, afirma que o Estado cumpre um papel estruturante na sociedade capitalista atravessada pelo antagonismo de classe. Para além dessa função de coesão social, o Estado capitalista cumpre a função essencial que diz respeito à garantia do interesse da classe dominante e da manutenção do sistema capitalista.
+
+Para Poulantzas, o Estado opera por dois grandes meios. O primeiro é a desorganização das classes populares e a organização das classes dominantes. A ideia seria impedir a união dos trabalhadores num coletivo contra a classe proprietária. Este Estado se apresentaria como um representante e garantidor, criando um Estado nacional popular.
+
+A desorganização das classes populares também acaba por atingir as classes dominantes, e aí está a segunda função do Estado: assegurar uma certa segurança das classes economicamente dominantes, obtendo sua hegemonia e possibilitando a manutenção da ordem capitalista conforme "vende" o interesse da classe dominante como o interesse de todos diante do conflito de interesses, buscando um equilíbrio **estável** de forças.
+
+Se refere ao Estado, portanto, como uma **condensação material de uma relação contraditória** numa sociedade de classes. Poulantzas avança no sentido de ver a atividade do Estado como produto de uma série de conflitos e defasagens no interior do próprio Estado, respondendo aos conflitos e defasagens da própria sociedade.
+
+Joachim Hirsch (1938-), derivacionista alemão, em *Teoria materialista do Estado*, enxerga o Estado como uma forma política **derivada** das relações sociais capitalistas; seriam as relações capitalistas as responsáveis por **conferir ao Estado** sua forma moderna (soberania, aparência de neutralidade...).
+
+Assume a característica de lugar de articulação de compromissos sociais; reflete na heterogeneidade de suas entidades os próprios conflitos e desequilíbrios presentes na sociedade capitalista. Para Hirsch, a própria estrutura do Estado é presa às relações de força da sociedade que disputam recursos, interesses, visões e projetos.
+
+Em termos internacionais, Hirsch apresenta as RI também como relações de classe e de forças - o Estado, como materialização institucional de uma relação de força local, e as RI como uma rede internacional dessas materializações, que por sua vez condensam relações de classe[^1].
+
+[^1]: N.E.: Não posso deixar de notar que a concepção de RI como rede internacional de Estados é fundamentalmente realista.
+
+Bob Jessop (1946-), sociólogo inglês, parte de Poulantzas e representa o Estado como um **campo de luta** de classes e grupos sociais, o exercício do poder remetendo a uma disputa de forças nessa arena.
+
+A capacidade de uma classe de realizar seu interesse em detrimento do interesse de outra é o que define o poder para Jessop, num caráter estratégico-relacional: o Estado seria um sistema de seletividades estratégicas, e operaria seletivamente, mais acessível para um grupo que para outro, de acordo com as estratégias desses grupos e buscando o equilíbrio de forças.
+
+O Estado representaria portanto uma *arena* - chamando atenção para a *conflitividade social*. Mesmo sob a dominação de uma determinada classe, haveriam disputas que tornam esse Estado pouco transparente no sentido de sua tendência a beneficiar um ou outro grupo - relacionam-se a estas disputas e conflitos as defasagens internas e constrangimentos tanto no Estado quanto na sociedade.
+
+Esta definição tem consigo um caráter de classe vinculado ao sistema capitalista, mas enseja um sistema conflitivo muito mais complexo que simplesmente um "aparelho da classe dominante". Ela demanda certo cuidado na pesquisa para vencer a aparência opaca do Estado moderno.

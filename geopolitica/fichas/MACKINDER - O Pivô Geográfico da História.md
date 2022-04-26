@@ -1,11 +1,12 @@
 ---
 documentclass: extarticle
+classoption: twocolumn
 pagestyle: plain
 geometry: margin=3cm
 indent: false
-numbersections: true
-fontfamily: cormorantgaramond
-fontsize: 14pt
+numbersections: false
+fontfamily: crimson
+fontsize: 12pt
 output: pdf_document
 ---
 # Geografia total, história global
