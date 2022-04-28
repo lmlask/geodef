@@ -4,7 +4,7 @@ classoption: twocolumn
 pagestyle: plain
 geometry: margin=3cm
 indent: false
-numbersections: false
+numbersections: true
 fontfamily: crimson
 fontsize: 12pt
 output: pdf_document
@@ -83,7 +83,7 @@ Após a guerra, os Estados Unidos reassumiram a visão realista de Spykman como 
 
 # A gepolítica do poder continental: a Alemanha e a geopolítica
 
-A geopolítica alemã morreu em 1946, com o suicídio de Karl Haushofer e de sua esposa, após ter a ciência que desenvolvera à justificação da ideologia do *lebensraum* e com o expansionismo nazista da década anterior e ser removido da Universidade de Munique.
+A geopolítica alemã morreu em 1946, com o suicídio de Karl Haushofer e de sua esposa, após ter a ciência que desenvolvera associada com justificação da ideologia do *lebensraum* e com o expansionismo nazista da década anterior.
 
 A história da geopolítica alemã se inscreve na historicidade de seu tempo - a Alemanha guilhermina de Ratzel e a hitleriana de Haushofer. Analisá-la é refletir sobre as relações sobre estes autores e o contexto local e temporal de suas Alemanhas.
 
@@ -113,35 +113,61 @@ O cientismo, em 1890-1914, está em crise diante dos conceitos inexplicáveis, e
 
 As noções sociopolíticas de Ratzel tendem a escorregar para um misticismo naturalista, em que as ações humanas resultariam de **pulsões vitais**, obedecendo a dinâmicas elementares.
 
-#### Os temas diretores da geografia política de Ratzel
-
 Ratzel busca responder às preocupações do Estado prussiano, propondo uma solução político-científica verdadeiramente útil e instrumental. Isto se baseia:
 
 1. **Estado e solo** -  O Estado deveria se desenvolver no território, assim como o homem não se concebe como tal sem o solo terrestre, sendo o Estado sua maior obra sobre ele. Todo Estado obedeceria a uma dinâmica orgânica buscando a independência, assegurando recursos. Privados disso, se reduziriam a "órgãos" (na concepção orgânica). Assim o Egito, como colônia de Roma, é apenas um fornecedor de trigo, este que impede que a população de roma se rebele. Por fim, cada espaço teria propriedades desconhecidas, favorecendo ou impedindo o crescimento de Estados, assim como faz com os indivíduos e famílias.
 
-2. **O crescimento espacial dos Estados** - 
+2. **O crescimento espacial dos Estados** - Para Ratzel, a disputa política dos Estados estava na luta pelo espaço, a materialização da reivindicação do *lebensraum*. Para tal, faz três referências: (1) a China e suas migrações, rssaltando a emigração chinesa como colonização pacífica e pelo comércio. Ressaltava a necessidade de consolidar a conquista pelo trabalho, comércio, ocupação efetiva; (2) os Estados Unidos, na figura da conquista do Oeste, como um protótipo de Estado do futuro, se desenvolvendo sobre espaços imensos; e (3) a Grã-Bretanha, na figura da formidável expansão colonial, industrial e comercial, expandindo-se sobre todos os continentes.
 
 ### Ratzel e a Alemanha
 
-### Os geógrafos alemães e a Primeira Guerra Mundial
+Ratzel se pergunta sobre a identidade de seu país e sua posição no mundo. Tenta, assim, explicar uma "imperfeição" geopolítica da Alemanha em relação à Grã-Bretanha.
+
+O primeiro fator é o polimorfismo, incluindo a Alemanha os Alpes, as montanhas médias e a planície do Norte. Seria um "império do meio", no centro da Europa, ameaçado por ambos os lados cuja sobrevivência depende da colonização paciente. Daí a ideia de geramanização dos poloneses e da Alsácia-Lorena a partir de 1871.
+
+O segundo é a intenção de potência mundial (*Weltmacht*). Para tal, acreditava ser necessário estar presente em *todas as partes do universo conhecido*, especialmente nas estratégicas, seguindo o exemplo do Império Britânico. Daí as reivindicações de "compensações" por Guilherme II e por Hitler, como requisito fundamental para o desenvolvimento pleno da Alemanha.
+
+Por último, a Alemanha de Bismarck não incluiria todos os alemães (*germânicos*), estando excluídos os da Áustria. Já a partir de 1848 se discutia a "Grande Alemanha", um estado integralmente nacional e pan-germânico - um programa que o próprio Ratzel presidiu por algum tempo, alimentando o programa hitleriano de *Anschluss* e da conquista dos Sudetas com a Checoslováquia. 
+
+Ratzel morreu em 1904, logo antes da violenta rivalidade marítima entre a Alemanha e a Grã-Bretanha encabeçada pelo almirante Tirpitz, pelo controle do Marrocos.
+
+A guerra ofereceria um excelente terreno de análise para definir relações entre espaço e poder. Durante a Grande Guerra, a revista *Geographische Zeitschrift* propôs análises das operações; mas sua abordagem não se afastou da geografia física. Tampouco vê os inimigos da Alemanha como "atores" com real volição e reação, impedindo qualquer visão estratégica.
+
+O sonho de geógrafos de se tornarem conselheiros dura pouco; são rejeitados pelo *top brass* como "saber professoral".
 
 ## Karl Haushofer e a Alemanha de 1918 a 1945
 
+Este, que talvez seja o geopolítico mais conhecido, é indissociável da história da Alemanha, especialmente de seu período violento e trágico da derrota de 1918 ao apocalipse de 1945.
+
 ### Haushofer, um alemão do seu tempo
 
-#### De 1869 a 1933
+**De 1869 a 1933** - Karl Haushofer (1869-1946), como oficial de carreira (1887), nãõ empreendeu nada de especial. Em missão diplomática no Extremo Oriente (1908), suas impressões sobre o Japão e sobre a Manchúria influenciaram seu trabalho posterior. Seu primeiro livro, sobre o Japão, foi escrito enquanto doente em 1912. 
 
-#### De 1933 a 1946
+Participou de duros combates na Grande Guerra. Em 1900, leu os trabalhos do inventor do termo "geopolítica", Rudolf Kjéllen - *a ciência do Estado enquanto organismo geográfico, tal qual se manifesta no espaço* - país, território, e império. Convenceu-se da geopolítica como um "objetivo final" (1917), e neste momento já manifestava forte nacionalismo.
+
+Após a derrota de 1918 multiplicou sua atividade e se pôs a serviço da política do *Volkstum*, a comunidade alemã por completo, além das fronteiras da República de Weimar. Nos anos 20 e 30 produziu muito e se impôs como autoridade até 1939.
+
+**De 1933 a 1946** - Em 1919 Haushofer conheceu Rudolf Hess, com o qual estabeleceu ligação muito forte. Quando Hitler é nomeado chanceler, em 1933, já havia encontrado Hitler muitas vezes - conversas das quais não resta nenhum registro.
+
+A Alemanha nazista ilustra bem as contradições de regimes que não toleram qualquer desvio. Por um lado, Hitler, até 1939, encarnava, para Haushofer, a alemanha grande e forte que este desejava; por outro lado, a Alemanha de Haushofer era a guilhermina, aristocrática, burguesa, hierárquica. De acordo com Jacobsen, Haushofer, em sua ingenuidade, confiança cega e desconexão com o mundo real, pode ter não reconhecido seu enorme erro.
+
+Ele aparece à margem da Alemanha de Hitler. Nos primeiros anos do Terceiro Reich, tem certa responsabilidade nas ações que visam os alemães de origem e que vivem fora do Estado alemão (*Volksdeutsche*). A partir de 1939 é uma "testemunha impotente", entregue a suas pesquisas. Em 1949, um de seus filhos foi implicado em negociações secretas de paz germano-inglesa. Em 1941 Hess, seu protetor, voou para a Inglaterra, onde permaneceu preso até o fim da guerra.
+
+Tem dificuldade em publicar em sua revista qualquer coisa "neutra" num Estado não apenas em guerra, mas totalitário. O que foi escrito após 1933 foi, em geral, escrito sob constrangimento.
+
+A partir da Operação Valquíria começou seu inferno; suspeito de cumplicidade, foi detido pela Gestapo por um mês. Enquanto ele condena as ações de Stauffenberg, seu filho está entre os conspiradores, e foi executado em abril de 1945. Com a capitulação da Alemanha, foi capturado pelos americanos; ouvido como testemunha em Nuremberg; e confrontado com Hess, de quem foi mentor, que finge não o conhecer.
+
+Em 10 de março de 1946, se suicidou, acompanhado de sua mulher, Martha Doss, que o havia acompanhado por toda a vida, inclusive na elaboração de suas reflexões, após ser expulso da universidade de Munique e ter sua imagem atrelada ao projeto expansionista nazista.
 
 ### A geopolítica de Haushofer
 
-#### Continuidades e evoluções de Ratzel a Haushofer
+### Continuidades e evoluções de Ratzel a Haushofer
 
 1. **A noção de espaço vital** 
 2. **Uma grande atenção às dinâmicas de constituição de grandes conjuntos (pan-ideias)**
 3. **Potência continental, potência marítima**
 
-#### A geopolítica haushoferiana: ciência nazista?
+### A geopolítica haushoferiana: ciência nazista?
 
 1. **A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945**
 2. **Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico**
