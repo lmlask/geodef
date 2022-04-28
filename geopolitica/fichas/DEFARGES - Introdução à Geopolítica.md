@@ -80,3 +80,70 @@ Após a guerra, os Estados Unidos reassumiram a visão realista de Spykman como 
 1. O antagonismo leste-oeste exprime o eterno confronto entre a terra e o mar, mas agora os governantes não raciocinam em dias e meses, mas em dias e segundos. Estas novas realidades **não abalam** as realidades geopolíticas, pois a MAD manteve os conflitos geopolíticos por procuração como relevantes.
 
 2. A necessidade de opor-se à unificação da *heartland* de toda forma, retomando o raciocínio britânico de Mackinder, pois desta oposição depende qualquer possibilidade de equilíbrio geopolítico de poder.
+
+# A gepolítica do poder continental: a Alemanha e a geopolítica
+
+A geopolítica alemã morreu em 1946, com o suicídio de Karl Haushofer e de sua esposa, após ter a ciência que desenvolvera à justificação da ideologia do *lebensraum* e com o expansionismo nazista da década anterior e ser removido da Universidade de Munique.
+
+A história da geopolítica alemã se inscreve na historicidade de seu tempo - a Alemanha guilhermina de Ratzel e a hitleriana de Haushofer. Analisá-la é refletir sobre as relações sobre estes autores e o contexto local e temporal de suas Alemanhas.
+
+## Friedrich Ratzel e a Alemanha de Guilherme II
+
+Friedrich Ratzel (1844-1904) foi influenciado por Haeckel, inventor da palavra *ecologia* (a investigação da interação entre o homem e seu meio). Sua visão é evolucionista e nacionalista, e serviu ao exército alemão que combateu a França de Napoleão III. Se tornou geógrafo ao observar os Estados Unidos, e em *Die Chinesische Auswanderung* desenvolveu sua relação entre a população e o planeta e a invasão ("antropogeografia").
+
+Defensor da construção de um império colonial, estabeleceu um dos primeiros mapas da África e obras sobre espaços políticos, solo, geografia política, comércio e guerra. Seu grande equívoco foi a tentativa de apreender cientificamente seu paós natal e identificar ali "leis científicas" de desenvolvimento geográfico - confundindo ciência e paixão.
+
+Em *Die Erde und das Leben, Eine vergleichende Erdkunke*, de 1902, relacioionou a biogeografia e a geografia humana, analisando as dinâmicas vitais, biológiivas, orgânicas, políticas, culturais e econômicas da vida humana - estas que seriam regidas pelos mesmos princípios de "crescimento, declínio e decomposição" que as plantas.
+
+### A Alemanha de Ratzel
+
+Para Hegel, o homem é, em primeiro lugar, filho se sua época. Ratzel viveu a guerra  franco-alemã, e pertence às elites que se acreditavam superiores por raça e nacionalidade, tendo, porém, a consciência da Terra como um espaço único. Os geopolíticos desta época opõe o alargamento do trem e do navio a vapor à consciência da pequenez dos territórios europeus. Esta Alemanha, bismarckeana e guilhermina, tem três traços essenciais.
+
+1. **Uma Alemanha em pleno crescimento** -  Após a unificação sob Bismarck, e sua vitória sobre o "colosso terrível" da França consagra-a como potência. Sua população cresce muito, e a revolução industrial dá muitos frutos. Às vésperas da da Grande Guerra, é o principal Estado industrial europeu - superando em muitos aspectos a força da Inglaterra.
+
+2. ***Die verspäete Nation (a nação atrasada)*** - A Alemanha se unifica séculos depois da Inglaterra e da França, que ocupam já um mundo dividido e ocupado. Os ideólogos alemães veem um mundo já repartido, e sem um grande espaço interno como compensação (como nos Estados Unidos ou na Rússia). Esta frustração aumenta em suas fronteiras, apertadas entre as plutocracias ocidentais e a multidão eslava. Isto lhe faz vulnerável, conforme o projeto de Bismarck é a oposição direta a uma coligação europeia que lhe faça frente. Chegado Guilherme II, o sonho alemão de *Weltpolitik* tem uma chance de desenrolar-se, precisando para tal de uma frota e se opondo à Grã-Bretanha.
+
+3. **A nação da ciência** - O atraso da Alemanha não é apenas internacional, é interno em seu sistema sociopolítico. Não conta com um sistema de deliberação coletiva, e proliferam os comunitarismos e feudalidades, a ponto de levar Weber a justificar seus atrasos coloniais por sua estrutura interna. Na Grande Guerra, viu apego às marcas de prestígio, aos estatutos, ao respeito e consciência de uma grande missão a cumprir; nesse contexto quer ser o país da ciência e das certezas demonstradas, encarnadas por Marx em sua rebeldia acadêmica e sua busca por leis objetivas e científicas. A geografia é também atingida pela pretensão do saber absoluto.
+
+### A geografia política de Ratzel
+
+Ratzel veiculou imagens de sonhos alemães da época em geografia política. Sua "biogeografia" vê o Estado como uma extensão das formas de vida da Terra.
+
+O cientismo, em 1890-1914, está em crise diante dos conceitos inexplicáveis, e leva à busca por correspondências entre a natureza e o ser humano. Herbert  Spencer (1820-1903) desenvolve nesse contexto o darwinismo social, enquanto Henri Bergson (1859-1941), na França, desenvolve uma teoria espiritualista entre a vida e a consciência.
+
+As noções sociopolíticas de Ratzel tendem a escorregar para um misticismo naturalista, em que as ações humanas resultariam de **pulsões vitais**, obedecendo a dinâmicas elementares.
+
+#### Os temas diretores da geografia política de Ratzel
+
+Ratzel busca responder às preocupações do Estado prussiano, propondo uma solução político-científica verdadeiramente útil e instrumental. Isto se baseia:
+
+1. **Estado e solo** -  O Estado deveria se desenvolver no território, assim como o homem não se concebe como tal sem o solo terrestre, sendo o Estado sua maior obra sobre ele. Todo Estado obedeceria a uma dinâmica orgânica buscando a independência, assegurando recursos. Privados disso, se reduziriam a "órgãos" (na concepção orgânica). Assim o Egito, como colônia de Roma, é apenas um fornecedor de trigo, este que impede que a população de roma se rebele. Por fim, cada espaço teria propriedades desconhecidas, favorecendo ou impedindo o crescimento de Estados, assim como faz com os indivíduos e famílias.
+
+2. **O crescimento espacial dos Estados** - 
+
+### Ratzel e a Alemanha
+
+### Os geógrafos alemães e a Primeira Guerra Mundial
+
+## Karl Haushofer e a Alemanha de 1918 a 1945
+
+### Haushofer, um alemão do seu tempo
+
+#### De 1869 a 1933
+
+#### De 1933 a 1946
+
+### A geopolítica de Haushofer
+
+#### Continuidades e evoluções de Ratzel a Haushofer
+
+1. **A noção de espaço vital** 
+2. **Uma grande atenção às dinâmicas de constituição de grandes conjuntos (pan-ideias)**
+3. **Potência continental, potência marítima**
+
+#### A geopolítica haushoferiana: ciência nazista?
+
+1. **A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945**
+2. **Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico**
+
+A geopolítica alemã foi extremamente dominada pelo destino do povo alemão. Cabe questionar se uma ciência "a-histórica" pode ser sequer cogitada. Como cientistas humanos, políticos geográficos, Ratzel e Haushofer não poderiam tê-lo feito de seus laboratórios. Ao tentar superar Ratzel, Haushofer afastou-se do ideal científico de neutralidade que Ratzel valorizava, mesmo que não o tenha atingido; como poderiam, afinal, os saberes humanos serem reduzidos a saberes sobre coisas?
