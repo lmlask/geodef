@@ -119,8 +119,6 @@ Ratzel busca responder às preocupações do Estado prussiano, propondo uma solu
 
 2. **O crescimento espacial dos Estados** - Para Ratzel, a disputa política dos Estados estava na luta pelo espaço, a materialização da reivindicação do *lebensraum*. Para tal, faz três referências: (1) a China e suas migrações, rssaltando a emigração chinesa como colonização pacífica e pelo comércio. Ressaltava a necessidade de consolidar a conquista pelo trabalho, comércio, ocupação efetiva; (2) os Estados Unidos, na figura da conquista do Oeste, como um protótipo de Estado do futuro, se desenvolvendo sobre espaços imensos; e (3) a Grã-Bretanha, na figura da formidável expansão colonial, industrial e comercial, expandindo-se sobre todos os continentes.
 
-### Ratzel e a Alemanha
-
 Ratzel se pergunta sobre a identidade de seu país e sua posição no mundo. Tenta, assim, explicar uma "imperfeição" geopolítica da Alemanha em relação à Grã-Bretanha.
 
 O primeiro fator é o polimorfismo, incluindo a Alemanha os Alpes, as montanhas médias e a planície do Norte. Seria um "império do meio", no centro da Europa, ameaçado por ambos os lados cuja sobrevivência depende da colonização paciente. Daí a ideia de geramanização dos poloneses e da Alsácia-Lorena a partir de 1871.
@@ -161,15 +159,30 @@ Em 10 de março de 1946, se suicidou, acompanhado de sua mulher, Martha Doss, qu
 
 ### A geopolítica de Haushofer
 
-### Continuidades e evoluções de Ratzel a Haushofer
+A gepolítica alemã é filha da derrota de 1918 e o *diktat* que a seguiu. Seus geopolíticos, portanto, buscam elaborar ferramentas que ajudariam a Alemanha a obter seu lugar de direito no munto, ultrapassando a geografia política de Ratzel pela geopolítica - a "atividade políitica num espaço natural". A geografia política observaria as formas do ser estadual; a geopolítica se interessaria pelos processos políticos em geral, como uma consciência geográfica para conduzir ao ato político.
 
-1. **A noção de espaço vital** 
-2. **Uma grande atenção às dinâmicas de constituição de grandes conjuntos (pan-ideias)**
-3. **Potência continental, potência marítima**
+Haushofer reformulou as formulações de Ratzel: qual o lugar da Alemanha no mundo? Ratzel o fez a partir da vitória "inacabada" de 1871; Haushofer o fez a partir do trauma de 1918. Se guia por três preocupações:
+
+1. **A noção de espaço vital** - Esta continua central para um homem muito sensível a densidades geográficas e revoltado com 1918, de forma que acreditava que o espaço cultural alemão deveria reencontrar sua unidade, se expandindo para a Europa Central (sua área de expansão "natural").
+
+2. **Uma grande atenção às dinâmicas de constituição de grandes conjuntos (pan-ideias)** - Duplamente representante de sua época (o período entre guerras), via o futuro nos espaços unidos por princípios comum. Os EUA e a Rússia se apoiariam nesses princípios - na ideia pan-americana e pan-pacífica. Esta temática se encontra nas potências do Eixo em sua busca de autossuficiência espacial - o Japão da Segunda Guerra Mundial quer ser o coração de uma esfera de prosperidade pacífica e asiática; a Alemanha quer uma comunidade econômica europeia.
+
+	As colônias seriam simultaneamente a força e a vulnerabilidadee do modelo do qual a Alemanha foi privada. Existia ali um sentimento de "ligação" entre a Alemanha e o Terceiro Mundo - a oposição ao peso esmagador dos imperialismos anglo-americanos.
+
+	Isto ascendeu como o sonho de uma frente comum da Alemanha e povos oprimidos, por iniciativas ponduais (como a ferrovia Berlim-Bagdá e o apoio ao governo antibritânico do Iraque) para quebrar o cerco à Alemanha, controbuindo para a destruição da imensa cintura colonial.
+
+3. **Potência continental, potência marítima** - Mackinder é um grande inspirador de Haushofer. Após o pacto Ribbentrop-Molotov, Haushofer acreditou que a formação de um grande bloco eurasiano - a *heartland* unificada - havia se realizado. Este bloco não tem alicerces - o Japão, furioso com esta aliança e signatário do Antikomintern, acabava de concluir um pacto de não agressão com Moscou, e a Operação Barbarossa destruiu qualquer perspectiva de aliança real.
+
+	Sua geopolítica subestima os Estados Unidos. No período entre guerras o EUA é visto como um continentn exótico, fechado, isolado, decadente e individualista. Aos olhos de Hitler, são uma "plutocracia judaicizada", sem o sentido da guerra. O pensamento de Haushofer seguia esta ideia de uma América acabada - e sua formação militar não aprecia os fatores industriais, financeiros, científicos e sua grande capacidade de mobilização, além de sua invulnerabilidade afastada.
 
 ### A geopolítica haushoferiana: ciência nazista?
 
-1. **A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945**
-2. **Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico**
+1. **A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945** - os escritos de Haushofer sustentam a juventude nazista, e sua revista não soube escapar às tensões políticas entre nacionalistas conservadores e nazistas. O próprio Haushofer é entusiasmado pela ascenção da Alemanha a partir de 1933 e pela liderança de Hitler; nestes anos foi um conferencista muito convidado. Sua Europa é também atingida por paixões extremas, em luta de ideologias e de Estados - como poderia sua geopolítica não estar comprometida?
+
+2. **Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico** - não há evidência de consideração racional do espaço por Hitler. Se obcecado pelo Leste, é por seus recursos (trigo, carvão, petróleo do Cáucaso) e porque ideologicamente *precisa* destruir a escória marxista-leninista. Aos seus olhos, produz uma revolução, e só retém da geopolítica o que vai de encontro à sua "missão". O *Mein Kampf* não tinha nada a ver com geopolítica.
+
+	Inseparável de sua esposa meio judia, Haushofer ele mesmo está impregnado de um ambiente antissemita; ao mesmo tempo, considera-se um cientista construtor de uma disciplina não-ideológica. Hitler se vê como o único porta-voz legítimo de sua ideologia. O intelectual que sonha ser conseleheiro do príncipe pouco pensa sobre o imenso preço a pagar.
+
+	Uma ciência que explica o que a realidade exige dos homens precisaria ser capaz de compreender tal realidade objetivamente. Isto é uma impossibilidade. 
 
 A geopolítica alemã foi extremamente dominada pelo destino do povo alemão. Cabe questionar se uma ciência "a-histórica" pode ser sequer cogitada. Como cientistas humanos, políticos geográficos, Ratzel e Haushofer não poderiam tê-lo feito de seus laboratórios. Ao tentar superar Ratzel, Haushofer afastou-se do ideal científico de neutralidade que Ratzel valorizava, mesmo que não o tenha atingido; como poderiam, afinal, os saberes humanos serem reduzidos a saberes sobre coisas?
