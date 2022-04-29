@@ -1,4 +1,6 @@
 ---
+title: O Pivô Geográfico da História
+author: Halford J. Mackinder
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

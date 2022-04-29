@@ -1,4 +1,6 @@
 ---
+author: Tatiana Berringer
+title: Nicos Poulantzas e os Estudos de Relações Internacionais
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

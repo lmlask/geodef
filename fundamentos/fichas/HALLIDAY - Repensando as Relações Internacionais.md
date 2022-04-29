@@ -1,4 +1,6 @@
 ---
+author: Fred Halliday
+title: Repensando as Relações Internacionais
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

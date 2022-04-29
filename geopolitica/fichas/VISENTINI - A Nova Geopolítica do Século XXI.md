@@ -1,4 +1,6 @@
 ---
+title: A Nova Geopolítica do Século XXI
+author: Paulo Visentini
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

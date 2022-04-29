@@ -1,4 +1,6 @@
 ---
+title: Introdução à Geopolítica
+author: Philippe Moreau Defarges
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

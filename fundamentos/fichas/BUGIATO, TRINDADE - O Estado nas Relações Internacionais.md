@@ -1,4 +1,6 @@
 ---
+author: Caio Bugiato, Thiago Trindade
+title: O Estado nas Relações Internacionais
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain
