@@ -53,7 +53,23 @@ Os sérvios controlavam a maioria do território porque eram uma população rur
 
 O primeiro mito criado pela mídia é a demonização dos sérvios. Todas as etnias iugoslavas expulsaram populações e realizaram massacres; os croatas e albaneses do Kosovo, assim como os sérvios, tentaram retificar fronteiras para acomodar todo o seu povo; e os bósnios tentaram controlar uma república inteira na qual eram minoria. O segundo mito era a teoria da "bela adormecida", que afirmado que o conflito étnico era impedido pelos comunistas e teria despertado com seu enfraquecimento - os povos iugoslavos têm poucas diferenças. A teoria nacionalista é uma tentativa de ocultar a responsabilidade de líderes e partidos regionais e nacionais, bem como de potências estrangeiras.
 
+Em 1992 a Macedônia também se separou, após negociações em Belgrado, e as repúblicas da Sérvia e Montenegro criaram a Terceira Iugoslávia, por plebiscito, unindo suas etnias e repúblicas. A Europa socorreu somente as repúblicas separatistas, ignorando e abandonando sérvios e montenegrinos à própria sorte, negando, inclusive, a permanência do ideal multiétnico e federativo.
+
+As imagens dos combates na Bósnia foram espalhadas pela Europa para convencê-los da manutenção da OTAN, que era questionada desde o fim da Guerra Fria. Em 1995 a ONU retirou suas forças e os enclaves sérvios foram facilmente conquistadas. A população sérvia foi inteiramente expulsa e suas casas queimadas; ao mesmo tempo, os croatas e os bósnios passaram à ofensiva, com apoio aéreo da OTAN. Abandonados pelo governo sérvio, os sérvios sofreram uma derrota completa, um milhão deles convertidos em refugiados.
+
 ## Kosovo: a OTAN e o fim da Iugoslávia
+
+Milosevic foi esgotado pelo embargo econômico e forçado a assinar os Acordos de Dayton, que transformaram a Bósnia-Herzegovina numa confederação com 49% de seu território habitado por sérvios. O embargo ainda não foi totalmente levantado, sob o pretexto dos desmandos políticos de Milosevic contra a oposição. O ICTY e o ICC julgaram e condenaram os grandes líderes sérvios, e somente os croatas e bósnios de menor hierarquia foram julgados. Nenhuma providência foi tomada para repatriar os sérvios expulsos da Croácia e da Bósnia.
+
+O foco das potências passou a ser os albaneses de Kosovo e a oposição interna, dois focos possíveis de conflito. Milosevic mostrou enorme flexibilidade política, controlando nacionalistas, contendo protestos e estabelecendo um governo de coalizão. Montenegro não ousou tentar uma guerra civil; a OTAN procurou outros meios, enquanto fortalecia a gerrilha albanesa no Kosovo.
+
+Os pequenos guerrilheiros antigos de Kosovo foram unidos ao contrabando e ao narcotráfico, dando origem ao Exército de Libertação do Kosovo em 1996, financiado também por comunidades albanesas no exterior e pela máfia kosovar, que transporta heroína da Turquia à Europa.
+
+Ataques se intensificaram em Kosovo contra os sérvios e contra os kosovares moderados de Rugova. A reação iugoslava produziu propaganda facilmente utilizável pela Europa, desacreditando os kosovares moderados e majoritários. A OTAN impôs conversações de paz, onde ofereceram condições inaceitáveis aos sérvios; este impasse tinha o objetivo de precipitar um conflito preparado, e salvar o ELK, prestes a ser eliminado.
+
+Quando as conversações foram interrompidas, a OTAN iniciou uma ofensiva aérea imensa, atacando inclusive fábricas e zonas residenciais. A estratégia se radicalizou quando os bombardeios se mostraram infrutíferos frente à unidade nacional da Iugoslávia.
+
+Após três meses de bombardeios, Milosevic aceitou um acordo para retirar suas tropas da província, que continuaria na Iugoslávia, e permitiria tropas russas e da OTAN na região. Em eleições diretas, recebeu 40% dos votos, contra 48% de seu opositor (Kostunica), o que implicaria num segundo turno; o Ocidente apoiou uma revolução, e Kostunica foi levado a assumir o poder sem um segundo turno. Em 2001, Milosevic foi preso a 
 
 # A Grande Guerra Inter-Africana
 
