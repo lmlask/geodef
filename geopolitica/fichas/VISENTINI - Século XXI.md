@@ -10,6 +10,8 @@ numbersections: false
 fontfamily: crimson
 fontsize: 12pt
 output: pdf_document
+header-includes:
+	- \pagenumbering{gobble}
 ---
 O fim da Guerra Fria e suas consequências aceleraram a globalização e encobriram em seu rastro a transformação da geopolítica - durante os conflitos pós-soviéticos, inclusive, caiu em desuso e viu certos efeitos desprezados, como a abertura do *grande espaço eurasiano* e do acelerado crescimento da Ásia.
 
@@ -71,8 +73,6 @@ Quando as conversações foram interrompidas, a OTAN iniciou uma ofensiva aérea
 
 Após três meses de bombardeios, Milosevic aceitou um acordo para retirar suas tropas da província, que continuaria na Iugoslávia, e permitiria tropas russas e da OTAN na região. Em eleições diretas, recebeu 40% dos votos, contra 48% de seu opositor (Kostunica), o que implicaria num segundo turno; o Ocidente apoiou uma revolução, e Kostunica foi levado a assumir o poder sem um segundo turno. Em 2001, Milosevic foi preso, a ajuda ocidental foi condicionada a sua entrega no TPI e foi retirado ilegalmente do país e levado ao centro de detenção da Haia.
 
-No tribunal, negou sua legitimidade e acusou-o de uma condenação anterior ao julgamento, e denunciou o fato de ter sido sequestrado ilegalmente da Iugoslávia, com base numa autoridade hierarquicamente inferior e ameaça de cancelamento de ajuda econômica.
-
 Foi julgado em território da OTAN, por juízes majoritariamente de países da OTAN. Sua saúde se deteriorou e pediu para ser tratado por médicos russos, o que lhe foi negado. O julgamento estava longe de conseguir condená-lo. Foi encontrado morto em sua cela em 2006, num caso suspeito e nunca investigado. Foi enterrado em sua aldeia natal como um herói nacional que defendeu uma Iugoslávia federal e socialista até o fim.
 
 Em 2002, por pressão da UE, o país teve que abandonar o nome Iugoslávia e aceitar o de República da Sérvia e Montenegro, que ocorreu por plebiscito com escassa maioria em 2006. A partir de então a pressão ocidental se direcionou à independência de Kosovo, apesar das incessantes acusações ao líder do ELK por integrar organizações criminosas e executar prisioneiros sérvios. Após 2012, os Bálcãs se tornaram novamente um agregado de pequenos principados satelizados por potências europeias.
@@ -109,7 +109,7 @@ O Zaire de Mobutu caiu muito rápido. Os conflitos na região dos Lagos criaram 
 
 Durante a GF, a África fora uma área de influência predominantemente europeia, com grande influência e proteção francesa. Quando os antigos estados marxistas se voltaram para os EUA, estes abriram um espaço de influência direta. Apesar do fracasso na Somália, os EUA incorporaram a Etiópia, Eritreia, Uganda, Angola e Moçambique, além do Quênia. Como resultado do conflito hutu-tutsi, esta influência se esteendeu a Ruanda, Burundi e o leste do Zaire, em detrimento da influência francesa - exercendo mais pressão sobre o velho continente.
 
-No novo governo da RDC, o inglês tornou-se idioma oficial e as concessões de mineração foram transferidas de empresas europeias a norte-americanas. Seu governo logo foi criticado por violações de direitos humanos, e estava desconfortável com a presença externa - logo destituiu todos os tutsi do governo e expulsou as tropas ruandesas e ugandenses.
+No novo governo da RDC, o inglês tornou-se idioma oficial e as concessões de mineração foram transferidas para empresas norte-americanas. Seu governo logo foi criticado por violações de direitos humanos, e estava desconfortável com a presença externa - logo destituiu todos os tutsi do governo e expulsou as tropas ruandesas e ugandenses.
 
 Diante disso, os ruandeses instigaram a população minoritária de Banyamulenge a atacar o governo central - a Segunda Guerra do Congo. A Ruanda invadiu o Congo, "para proteger os tutsi da região". A Uganda também investiu contra o Congo, e no início a invasão foi bem sucedida.
 
@@ -123,7 +123,7 @@ Em 1989 Omar Al-Bashir perpetrou um golpe de Estado no Sudão. Seu Exército Pop
 
 Em 1991, na Somália, grupos apoiados pela Etiópia derrubaram o governo de Siad Barre, falharam em manter a unidade nacional e fragmentaram o país em quatorze regiões de clãs. A Somalilândia declarou independência; no resto do país a situação rapidamente se deteriorou. O CSNU logo estabeleceu a UNOSOM.
 
-Com a dificuldade da tarefa, a liderança dos EUA foi aceita na Força Tarefa Unificada (UNITAF), buscando criar um ambiente seguro para ajuda humanitária e forte presença de tropas internacionais. O resultado foi insuficiente e os americanos sofreram baixas, se retirando do país.
+Com a dificuldade da tarefa, a liderança dos EUA foi aceita na Força Tarefa Unificada (UNITAF), buscando criar um ambiente seguro para ajuda humanitária. O resultado foi insuficiente e os americanos sofreram baixas, se retirando do país.
 
 Em 1993 se estabelemeu a UNOSOM II, que obteve certo sucesso humanitário, mas não político, recebendo muita resistência de diversas facções, sem sucesso na formação de um governo nacional. A UNOSOM II abandonou o território em 1995.
 

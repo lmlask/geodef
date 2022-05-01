@@ -10,6 +10,8 @@ numbersections: false
 fontfamily: crimson
 fontsize: 12pt
 output: pdf_document
+header-includes:
+	- \pagenumbering{gobble}
 ---
 # Introdução
 

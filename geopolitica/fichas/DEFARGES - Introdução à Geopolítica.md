@@ -10,6 +10,8 @@ numbersections: true
 fontfamily: crimson
 fontsize: 12pt
 output: pdf_document
+header-includes:
+	- \pagenumbering{gobble}
 ---
 # A Geopolítica da Potência Marítima
 
@@ -179,12 +181,12 @@ Haushofer reformulou as formulações de Ratzel: qual o lugar da Alemanha no mun
 
 ### A geopolítica haushoferiana: ciência nazista?
 
-1. **A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945** - os escritos de Haushofer sustentam a juventude nazista, e sua revista não soube escapar às tensões políticas entre nacionalistas conservadores e nazistas. O próprio Haushofer é entusiasmado pela ascenção da Alemanha a partir de 1933 e pela liderança de Hitler; nestes anos foi um conferencista muito convidado. Sua Europa é também atingida por paixões extremas, em luta de ideologias e de Estados - como poderia sua geopolítica não estar comprometida?
+**A geografia política de Ratzel e a de Haushofer constituem componentes importantes do clima intelectual alemanha de 1890 a 1945** - os escritos de Haushofer sustentam a juventude nazista, e sua revista não soube escapar às tensões políticas entre nacionalistas conservadores e nazistas. O próprio Haushofer é entusiasmado pela ascenção da Alemanha a partir de 1933 e pela liderança de Hitler; nestes anos foi um conferencista muito convidado. Sua Europa é também atingida por paixões extremas, em luta de ideologias e de Estados - como poderia sua geopolítica não estar comprometida?
 
-2. **Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico** - não há evidência de consideração racional do espaço por Hitler. Se obcecado pelo Leste, é por seus recursos (trigo, carvão, petróleo do Cáucaso) e porque ideologicamente *precisa* destruir a escória marxista-leninista. Aos seus olhos, produz uma revolução, e só retém da geopolítica o que vai de encontro à sua "missão". O *Mein Kampf* não tinha nada a ver com geopolítica.
+**Há uma incompreensão trágica entre o empreendimento hitleriano e o geopolítico** - não há evidência de consideração racional do espaço por Hitler. Se obcecado pelo Leste, é por seus recursos (trigo, carvão, petróleo do Cáucaso) e porque ideologicamente *precisa* destruir a escória marxista-leninista. Aos seus olhos, produz uma revolução, e só retém da geopolítica o que vai de encontro à sua "missão". O *Mein Kampf* não tinha nada a ver com geopolítica.
 
-	Inseparável de sua esposa meio judia, Haushofer ele mesmo está impregnado de um ambiente antissemita; ao mesmo tempo, considera-se um cientista construtor de uma disciplina não-ideológica. Hitler se vê como o único porta-voz legítimo de sua ideologia. O intelectual que sonha ser conseleheiro do príncipe pouco pensa sobre o imenso preço a pagar.
+Inseparável de sua esposa meio judia, Haushofer ele mesmo está impregnado de um ambiente antissemita; ao mesmo tempo, considera-se um cientista construtor de uma disciplina não-ideológica. Hitler se vê como o único porta-voz legítimo de sua ideologia. O intelectual que sonha ser conseleheiro do príncipe pouco pensa sobre o imenso preço a pagar.
 
-	Uma ciência que explica o que a realidade exige dos homens precisaria ser capaz de compreender tal realidade objetivamente. Isto é uma impossibilidade. 
+Uma ciência que explica o que a realidade exige dos homens precisaria ser capaz de compreender tal realidade objetivamente. Isto é uma impossibilidade. 
 
 A geopolítica alemã foi extremamente dominada pelo destino do povo alemão. Cabe questionar se uma ciência "a-histórica" pode ser sequer cogitada. Como cientistas humanos, políticos geográficos, Ratzel e Haushofer não poderiam tê-lo feito de seus laboratórios. Ao tentar superar Ratzel, Haushofer afastou-se do ideal científico de neutralidade que Ratzel valorizava, mesmo que não o tenha atingido; como poderiam, afinal, os saberes humanos serem reduzidos a saberes sobre coisas?
