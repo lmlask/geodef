@@ -240,3 +240,35 @@ A capacidade de uma classe de realizar seu interesse em detrimento do interesse 
 O Estado representaria portanto uma *arena* - chamando atenção para a *conflitividade social*. Mesmo sob a dominação de uma determinada classe, haveriam disputas que tornam esse Estado pouco transparente no sentido de sua tendência a beneficiar um ou outro grupo - relacionam-se a estas disputas e conflitos as defasagens internas e constrangimentos tanto no Estado quanto na sociedade.
 
 Esta definição tem consigo um caráter de classe vinculado ao sistema capitalista, mas enseja um sistema conflitivo muito mais complexo que simplesmente um "aparelho da classe dominante". Ela demanda certo cuidado na pesquisa para vencer a aparência opaca do Estado moderno.
+
+# Conferência Síncrona
+
+O objetivo da disciplina foi oferecer um referencial teórico para pensar o ator por excelência no campo das RI, o Estado. Essa atividade analítica de compreensão do Estado em sua dimensão conceitual busca defini-lo até seus limites e também no campo do debate político, em seus aspectos mais visíveis.
+
+Os aspectos mais visíveis são seu conjunto de instituições públicas, civis e militares; e geralmente esta definição remete a como a instituição se apresenta, uma entidade político-administrativa superior - ente soberano por excelência também no sistema internacional, com personalidade para agir e atuar "sem constrangimentos".
+
+Inicialmente fica claro que este referencial conceitual busca de alguma forma evitar algumas expressões genéricas, vagas; remetendo não a uma noção atemporal, nem a "qualquer Estado". Por exemplo, um sistema de tomada de decisões políticas sempre existiu, e esta definição seria portanto excessivamente vaga.
+
+Pensar no Estado é pensar no Estado moderno, surgido num determinado tempo histórico, e no surgimento do excedente econômico (o que ocorreu, na Europa, a cerca de 10 mil anos). 
+
+A partir do Século XV, surgiu um poder mais centralizador, que buscou concentrar o poder dentro de certas fronteiras numa nova etapa de transição - a transição do feudalismo ao capitalismo. Este Estado evolui junto à configuração e evolução do sistema capitalista, garantindo a contstrução da ordem social dentro das fronteiras nacionais.
+
+Esta é a ordem que melhor tem se acoplado ao processo de acumulação do capital, o que de certa forma explica sua prevalência. Este modelo foi transplantado à América Latina.
+
+Esta retomada histórica é útil no processo de recuperar uma noção de Estado - numa forma não descritiva, mas crítica e analítica. Não apenas definimos o Estado como se apresenta comumente a partir do que vemos como instituição, mas problematizar estes aspectos e, assim, enriquecê-los.
+
+Busquemos, pois, extrair os elementos mais estruturais da disciplina.
+
+Definido o Estado como esse conjunto de instituições assentadas no território, é necessário **explicitar** o que é o Estado, e explicitar o que entendemos quando empregamos esta palavra - e que existem *outras dimensões* de compreensão que podem ser empregadas.
+
+A primeira crítica que se faz é a do *Estado neutro*, baseado em princípios de igualdade, isonomia, legalidade, acima da sociedade e assumindo um papel de árbitro acima do conflito social, mas também como provedor de serviços públicos vitais. Isto se identifica com o que chamaríamos de *corrente teórica liberal*.
+
+Esse Estado moderno nascido no século XV, inicialmente, se limitava a garantir liberdades individuais, mas logo assumiu novas tarefas de garantia de bem-estar, assumindo contornos mais amplos. No entanto, é claro que estamos falando de um Estado capitalista, que produz a partir de sociedades marcadas por antagonismos e desigualdades. Isso é também reconhecido pela corrente liberal.
+
+Podemos, porém, enxergar este Estado que não está acima da sociedade, mas *inserido* também no conflito social. Este Estado cumpre um determinado papel de provimento de serviços, mas também *representa* uma relação de dominação que incorpora as exigências da produção capitalista. Aqui conseguimos ver relações antes ocultas.
+
+Assim como o Estado representa o interesse nacional e geral, administra também o conflito entre classes e frações de classe. Utiliza-se de ferramentas repressivas, mas também consensuais, e nisso a forma como ele se apresenta à sociedade é relevante.
+
+O questionamento ao caráter supostamente neutro, técnico e racional dos processos estatais nos permite identificar como o processo decisório se vincula aos conflitos intrassociais - beneficiando ou limitando certos segmentos que, eles próprios, estão envolvidos na atividade estatal. Nisso, conseguimos **conectar** a dinâmica política e estatal à dinâmica econômica e aos interesses econômicos dos grupos de interesse e das classes sociais.
+
+Reconhecer esta relação e inclusão do Estado nos conflitos sociais permite desconstruir a noção de Estado como um **todo coerente**, homogêneo - que, sendo heterogêneo e composto ele próprio de conflitos, atua *condicionado e constrangido* por uma multitude de fatores ocultos e aparentes.

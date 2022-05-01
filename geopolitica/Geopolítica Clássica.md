@@ -221,3 +221,109 @@ Seu desenvolvimento econômico e social é médio ou baixo. Às vezes os dois na
 3. **América Latina** - Indefinição estratégica. O continente corre o risco de se atrasar - é possível um quadro argentino (que foi a oitava economia do planeta, e hoje é empobrecido e irreconhecível).
 
 4. **Ásia Meridional** - Apesar de seus problemas, tem governos assertivos, com noção de projetos de desenvolvimento. Está recebendo investimentos, há crescimento e modernização econômica reais - e veem também uma espécie de equilíbrio de poder (entre Índia, China, EUA), o que lhes permite "barganhar" sua posição de disputados.
+
+# Conferência síncrona
+
+## Introdução
+
+A geopolítica é uma teoria, que sempre é mais pobre que a realidade. Ela dificilmente pode ser compreendida na sua totalidade - a teoria é uma simplificação e um prisma pelo qual vemos a realidade, e assim é a geopolítica.
+
+Observamos, porém, que a geopolítica só surgiu no final do século XIX como uma área de conhecimento. A geografia do mundo mudou muito pouco desde o início da humanidade - o que aumentou a relevância da geografia nas relações de poder foi um período de intensa industrialização, oposta à época de dominação industrial inglesa.
+
+A situação difere também porque no final do século XIX muitas conexões terrestres começam a se formar, com a construção de ferrovias - como a andina, as ferrovias americanas de costa a costa, e as ferrovias euroasiáticas, com a famosa transsiberiana. Este espírito de revolução no transporte e na conexão fez com que potências terrestres pudessem ter conexões mais efetivas, como na Rússia, que, embora tenha muitos litorais, são litorais não navegáveis ou controlados por potências concorrentes.
+
+A geopolítica se apresenta como uma forma pela qual as elites compreendiam a configuração dos grandes espaços. Por fim, esta época de transição é muito parecida com a que vivemos hoje.
+
+É importante compreender o mundo como um geoide tridimensional. Por exemplo, a compreensão do supercontinente euro-afro-asiático é importante como uma enorme concentração de terras contínuas. As américas aparecem nos mapas como verticais, mas a América do Norte está mais a oeste. Sua ponte geográfica é muito frágil, sendo quase impossível sair dos EUA e chegar à Argentina por terra.
+
+Não apenas a topografia faz uma potência, mas a economia e história de cada país. O Japão viu os oceanos como isolamento, antes da industrialização, e conexão, durante a era Meiji.
+
+As potências marítimas e as regionais (França, Japão) percebiam que seu poder estava projetado a partir dos mares. Qualquer potência interior teria muitas dificuldades - um país terrestre, como o Afeganistão, foi capaz de derrotar invasões de três grandes potências.
+
+Na ásia vive 55% da população do mundo. Além disso, a profundidade estratégica da Sibéria e da Ásia Central é enorme, diante da resistência que oferecem às potências marítimas. Isto se verificou no chamado Grande Jogo, entre os impérios britânico e russo, pelo controle da Ásia Central. Durante a era soviética, esta massa de terra se concentrou ao redor da superpotência soviética, e a possibilidade da conquista alemã também ameaçou a unificação da eurásia.
+
+A geopolítica, portanto, explica certas decisões geopolítica que de outra forma parecem contraditórias - como o apoio americano e inglês à URSS durante sua Grande Guerra Patriótica pelo programa *lend-lease*.
+
+Os problemas não foram resolvidos, e se tornaram mais complexos, com a instabilidade da região e com a convergência entre Rússia, China e outros países da Ásia Central. Estes elementos estão em jogo hoje.
+
+O fato de sermos constantemente bombardeados por mídias sociais é um problema. Alguns anos atrás só se falava no Afeganistão e nas consequências da retirada americana - conforme os assuntos morrem, somos privados de uma compreensão real sobre os assuntos internacionais e geopolíticos.
+
+Por exemplo, a Lituânia considerou reconhecer Taiwan como representante da China ao mesmo tempo em que haviam tensões na Ásia, em Taiwan, em Hong Kong e no leste da Ucrânia. Um pouco antes das olimpíadas de inverno da China, a Rússia assinou com a China um acordo para resolver certos problemas e disputas de defesa e de economia. Todas essas ocorrências estavam e estão em jogo ao mesmo tempo em que a mídia se concentra exclusivamente, por exemplo, no Afeganistão ou na Ucrânia.
+
+A Guerra da Ucrânia, em si, é uma sucessão de mensagens e imagens. Os russos nunca pretenderam capturar Kiev - e sim ameaçar, assustar, desestabilizar e forçar os ucranianos a um acordo de paz que beneficie a Rússia.
+
+As correlações de força estão sendo redesenhadas. Este momento mundial é muito importante e muito interessante à pesquisa.
+
+## Q & A
+
+### A geopolítica brasileira está presa na Guerra Fria?
+
+Nossa geopolítica prestou atenção à formação de nosso espaço como américa portuguesa e maior país da américa latina. Nossa geopolítica trabalhou incessantemente para controlar os acessos ao interior, pelos rios Amazonas e da Prata. Temos uma geopolítica própria: a tentativa de Golbery é excessivamente "da guerra fria", na esfera americana, como se estivéssemos na linha de frente - o que nunca estivemos. Hoje, porém, estamos fazendo reflexões importantes sobre o Atlântico Sul e a Ásia, ainda que um sentido central não tenha mudado: evitar que, no nosso entorno, tenhamos grandes potências metidas, especialmente com ativos militares, nas questões latino-americanas.
+
+### Qual foi o papel do Império do Brasil?
+
+Uma das razões do Império Espanhol se manter como império terrestre é sua concentração em áreas ricas em recursos naturais. A agricultura não era importante, diferente das colônias portuguesas. Isso levou os portugueses à necessidade por terra e mão de obra - o que foi mantido e ampliado pelo Império, assim como a unidade nacional. Naquele momento, o principal perigo veio da competição com os estados hispânicos do sul, alguns dos quais eram, inclusive, apoiados pelas grandes potências marítimas.
+
+### Qual o papel da ESG e do Ministério da Defesa?
+
+No Brasil, o pensamento de defesa e geopolítico é excessivamente fragmentado - entre universidades, institutos, a ESG e a ESCEME. Dito isto, para buscar que o interesse brasileiro amadureça, a ESG tem um projeto de ser um *think tank* nessa área, o que requeriria mais integração com outras escolas e institutos. Se não temos sucesso reflexivo, não teremos uma grande estratégia - ou seja, é necessário que tenhamos uma reflexão geopolítica acadêmica própria. Temos muitas fundações, mas nenhuma com suficiente conexões.
+
+### Onde entra a Rússia na relação China-Ocidente?
+
+Se houver um bloqueio da economia chinesa, teremos uma divisão do mundo. É difícil que haja uma separação grande entre poder militar e poder econômico - a Rússia, por exemplo, tem maior tecnologia de produção militar, mas a China tem uma capacidade econômica e produtiva muito superior. A Rússia tem uma aliança desconfiada com a China porque conhece a necessidade de expansão chinesa, e que, se não se afirmar, se tornará uma fornecedora de matérias primas estratégicas, combustíveis, minérios raros e tecnologia aeroespacial para a China. A Sibéria tem um vasto espaço e uma população pequena, dez vezes menor que das províncias chinesas pequenas a seu lado. Kissinger advertiu que seria necessário trazer a Rússia para o lado do Ocidente, para evitar sua aliança com a China.
+
+A Europa está incerta de seu papel. A Alemanha tem um papel econômico enorme, mas suas elites tem medo de dar um passo grande, e sua situação política ainda contém resquícios da derrota de 1945. A França e a Rússia são países que de fato tem controle de seu território, mas a França não tem um rumo estratégico - nesse sentido, está perdida há muito tempo. Enquanto a Etiópia se torna uma potência regional, construindo uma ferrovia interafricana, vemos a volta do crescimento dos meios de expansão terrestre, após o foco excessivamente aeronaval da Guerra fria.
+
+### Qual a situação atual de corredores de comunicação entre espaços e potências?
+
+O Reino Unido não é só a Inglaterra - é um elemento fundamental do eixo de poder anglo-saxão e do remanescente da *Commonwealth*. A partilha das estruturas de informação, por exemplo, é uma característica da situação estratégica unificada das potências marítimas, que estão buscando evitar a convergência nipo-chinesa, e fazer alianças de potências marítimas para se opor ao crescente poder terrestre.
+
+Recentemente a China assinou um acordo com as ilhas Salomão que incluía a possiblidade de deslocar tropas pela região. A reação foi fortíssima. No Cazaquistão, de imensa importância estratégica, houve uma tentativa de golpe. Há muito ocorrendo, especialmente nos **corredores** de comunicação marítima e terrestre. A China agora conta também com um corredor de comunicação com o Oriente Médio, após seu acordo com o Taliban.
+
+### Como está a relação entre o Brasil e os países do BRICS?
+
+Antigamente o Brasil conseguia se comunicar com facilidade entre muitos polos de poder. Desde a última eleição, nos afastamos dos países do BRICS e nos aproximamos novamente dos EUA e das potências marítimas.
+
+O Brasil costumava ter relações dipolmáticas com todos os países do mundo, e isso não mudou. Muito da política internaiconal não foi senão um reflexo da política interna - a relação Brasil-EUA já não é exatamente a mesma, por exemplo, desde a eleição de Biden.
+
+Isso é algo cíclico na história diplomática brasileira, que tem mais atividade quando se torna "defensiva". Isto parece ser o que aconteceu. Houve uma crise geral muito ampla, que acabou impactando nossa política externa - sofremos muita interferência externa num momento em que estávamos mal organizados. Não chegou a haver uma grande modificação.
+
+### Qual a situação externa e estratégica do Brasil?
+
+O Brasil sempre jogou de forma múltipla. Os investimentos costumam vir naquilo que está melhor, e precimamos deles naquilo que está pior.
+
+Nosso papel na América do Sul, porém, é um de âncora - e este é um papel que precisamos tentar manter. Os países sul americanos, se não tiverem integração com o Brasil, se abrirão a interesses externos, que poderão acabar minando o desenvolvimento de toda a região se não forem bem equilibrados e balanceados.
+
+Este processo será um pouco prejudicado pela corrida eleitoral, momento no qual as pessoas buscam o mais teatral e menos pragmático.
+
+### Qual a relação entre os ciclos hegemônicos das grandes potências?
+
+A China tem um projeto um pouco diferente do processo de desenvolvimento das grandes potências ocidentais. Ela improvisa e adapta. Já foi a maior economia do mundo, até o século XVIII, e conta com 22% da população do mundo.
+
+Está fazendo algumas coisas para buscar se desenvolver sem grandes confrontos, pelo *Business as Usual* - vender coisas baratas. Tudo é feito ou na China ou em países parceiros onde a China investe (como Bangladesh, onde investem, melhoram a infraestrutura e recebem um excelente retorno).
+
+Vale mencionar sua presença na África e na América Latina. Nessas regiões, ela aparece nos países mais vulneráveis, com propostas atrativas que são pagas com recursos naturais - o que significa que o país não fica endividado. É a mesma relação que teve com o Japão durante a crise do petróleo. Estes acordos estão chegando a regiões novas, o que requer uma análise das diferenças locais deste processo.
+
+As sociedades estão mudando, como na desindustrialização americana e europeia. Há algo novo no ar - a China é capaz de buscar uma alternativa conforme tem poder para bloquear as decisões internacionais que não lhe interessam.
+
+Antes de dar nome a este novo processo, precisamos compreendê-lo, e não é possível teorizar sem conhecer a realidade. A China não é apenas um enigma, é uma metamorfose, conforme revisa seus modelos ocidentais, enquadra seus bilionários, estende o mandato de seu presidente e assim por diante, sinais de instabilidade do mundo. 
+
+O partido único não necessariamente significa heterogenia de estratégias. A China tem, e sempre teve, muitas estratégias concorrentes no Partido.
+
+### Qual a situação da pressão antirrussa em Moçambique e na África?
+
+Moçambique já estava sob pressão antes da guerra russo-ucraniana. O que chamamos de Comunidade Internacional são os EUA, Canadá, a Europa, Austrália e Nova Zelândia - os dois primeiros eixos se alinham e assumem o nome. A maioria dos países não adotaram medidas antirrussas.
+
+Moçambique tem sido visado por suas riquezas, principalmente de gás, e outros países, que não são os parceiros escolhidos, passam a criar uma narrativa contra o país. Quanto mais estudamos mais identificamos os interesses econômicos por trás das narrativas políticas.
+
+O Brasil muito tentou defender o direito internacional sem se envolver na esfera política dos confrontos. A pressão internacional para que "todos" os países tenham a mesma posição dos que estão envolvidos é negativa.
+
+Esta pressão se vê por todo o terceiro e quarto eixos. O primeiro ministro britânico imediatamente visitou a Índia assim que esta se recusou a tomar medidas antirrussas e comprou armamento russo. Os países tem certos interesses, e estas sanções tiram do mercado internacional beneficiam certos concorrentes.
+
+Alguns países europes inclusive tomaram posições contra seu interesse. A Alemanha está numa posição muito difícil, porque seus interesses econômicos estão no Leste, e suas alianças militares e políticas estão no Oeste.
+
+### Qual a posição geopolítica da África do Sul?
+
+A maior parceria brasileira é com os países africanos, mas não tivemos o avanço que poderíamos ter tido. Somos diferentes dos outros BRICS - não precisamos de minérios e produtos agrícolas. O desmantelamento das mega-empresas internacionalizadas brasileiras com a Lava Jato deixará a cooperação com a África bastante enfraquecidas.
+
+O problema da África do Sul é um problema do pacto que encerrou o *apartheid*. Há uma população holandesa mais antiga, e este grupo tem um histórico racista muito forte. O acordo é que deveriam se respeitar os "direitos da minoria", o que significa manter a vantagem socioeconômica e de capital da elite branca. Nesse contexto, o país também é uma vítima de interesses internacionais e fuga de capitais. É ainda um caso mal resolvido, um país muito dividido.
