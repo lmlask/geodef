@@ -180,9 +180,9 @@ Este eixo seria *semissoberano* por possuir em seu território bases militares e
 
 Seus recursos militares também são militares - a Alemanha só recentemente começou a estudar a eliminação da tecnologia militar americana que utiliza, e o Japão nem sequer o cogita.
 
-Há uma exceção, a França - potência nuclear, membro permanente do CSNU e possuidora de uma indústria aeroespacial avançada[^1]. A França não tem, porém, um projeto estratégico.
+Há uma exceção, a França - potência nuclear, membro permanente do CSNU e possuidora de uma indústria aeroespacial avançada[^10]. A França não tem, porém, um projeto estratégico.
 
-[^1]: Menciona que só existem três grandes polos aeroespaciais - a tecnologia americana, a russa e a francesa. 
+[^10]: Menciona que só existem três grandes polos aeroespaciais - a tecnologia americana, a russa e a francesa. 
 
 Estes países, ainda que desenvolvidos e, em certa medida, poderosos, não competem com o primeiro eixo mencionado.
 
