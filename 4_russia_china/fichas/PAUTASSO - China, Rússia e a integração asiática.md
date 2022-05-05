@@ -1,5 +1,5 @@
 ---
-title: "China, Rússia e a Integração Asiática: O sistema sinocêntrico como parte da transição sistêmica"
+title: China, Rússia e a Integração Asiática
 author: Diego Pautasso
 documentclass: extarticle
 classoption: twocolumn
