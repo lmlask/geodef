@@ -12,6 +12,7 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage[portuguese]{babel}
 ---
 # A Geopolítica da Potência Marítima
 

@@ -8,6 +8,9 @@ numbersections: true
 fontfamily: crimson
 fontsize: 12pt
 output: pdf_document
+header-includes:
+    - \usepackage[portuguese]{babel}
+---
 ---
 \begin{titlepage}
 

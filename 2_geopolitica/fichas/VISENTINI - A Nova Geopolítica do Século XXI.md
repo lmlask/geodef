@@ -12,6 +12,7 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage[portuguese]{babel}
 ---
 O desaparecimento da URSS e desenvolvimento asiático trouxeram a geopolítica de volta ao debate acadêmico e diplomático-securitário. Discute-se o retorno dos grandes Estados continentais, a oposição ao predomínio dos impérios marítimos e a situação estratégica das áreas periféricas como fornecedoras de recursos naturais e centros de crescimento econômico.
 

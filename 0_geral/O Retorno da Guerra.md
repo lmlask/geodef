@@ -7,6 +7,9 @@ numbersections: true
 fontfamily: cormorantgaramond
 fontsize: 14pt
 output: pdf_document
+header-includes:
+    - \pagenumbering{gobble}
+    - \usepackage[portuguese]{babel}
 ---
 \begin{titlepage}
 

@@ -12,6 +12,7 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage[portuguese]{babel}
 ---
 O marxismo não ocupou um lugar importante no debate acadêmico. Os realistas limitaram sua aplicação, tratando-o como mera ideologia ou limitado às questões econômicas. Morgenthau afirmou que, para os marxistas, todos os problemas políticos são resultado das forças econômicas, e nos relembrou dos erros teleológicos do marxismo, "acreditando que o socialismo internacional acabará com a luta pelo poder no cenário internacional". Bobbio, por sua vez, afirmou que não existe teoria marxista de RI, pois seu objeto de reflexão seria não a guerra, mas a revolução, de teoria reducionista e economicista.
 

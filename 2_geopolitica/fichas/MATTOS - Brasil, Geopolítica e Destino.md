@@ -12,6 +12,7 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage[portuguese]{babel}
 ---
 A relação entre a terra e o homem já era tratada antes da geopolítica, pela antropogeografia e pela geografia política. Com o conceito atual, surgiu no final do Séc. XIX, criada por Rudolf Kjellén, que pretendia marcar o estudo entre homem e território com a marca política da escola alemã. A geografia política ficou entre as ciências geográficas, enquanto a geopolítica se aproximou das ciências políticas indicadoras de soluções governamentais.
 

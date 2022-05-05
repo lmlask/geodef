@@ -12,6 +12,7 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage[portuguese]{babel}
 ---
 O fim da Guerra Fria e suas consequências aceleraram a globalização e encobriram em seu rastro a transformação da geopolítica - durante os conflitos pós-soviéticos, inclusive, caiu em desuso e viu certos efeitos desprezados, como a abertura do *grande espaço eurasiano* e do acelerado crescimento da Ásia.
 
