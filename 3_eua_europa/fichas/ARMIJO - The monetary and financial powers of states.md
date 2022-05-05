@@ -1,5 +1,5 @@
 ---
-title: "The Monetary and Financial Powers of States: Theory, Dataset, and Observations on the Trajectory of American Dominance"
+title: "O poder monetário e financeiro dos Estados: teoria, dados e observações sobre a trajetória de dominação americana"
 author: "Leslie E. Armijo, Daniel C. Tirone & Hyoung-kyu Chey"
 documentclass: extarticle
 classoption: twocolumn
