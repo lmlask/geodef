@@ -2,7 +2,6 @@
 title: "O poder monetário e financeiro dos Estados: teoria, dados e observações sobre a trajetória de dominação americana"
 author: "Leslie E. Armijo, Daniel C. Tirone & Hyoung-kyu Chey"
 documentclass: extarticle
-classoption: twocolumn
 pagestyle: plain
 geometry: margin=3cm
 indent: false
@@ -12,8 +11,10 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
+	- \usepackage{xtab}
 	- \usepackage[portuguese]{babel}
 ---
+
 # Introdução
 
 A ideologia da economia neoclássica torna difícil "ver" o poder estatal nos mercados financeiros, sugerindo que mercados apolíticos e descentralizados respondem à oferta e procura. Economistas neoclássicos explicam que conceitualizar o "tesouro de guerra" estrangeiro encoraja países a racionar o capital e bloquear seu fluxo, impedindo ganhos em potencial, o que é verdade.
@@ -140,16 +141,88 @@ A fração do restante do G7 diminuiu muito, de 41 a 25 por cento; e a China sub
 
 ## Países de moeda dominante
 
+O GMFPS tem dois indicatores de força de moeda: a fração de toda a reserva internacional oficial e sua importância em ativos corporativos negociados globalmente. É de se esperar certa contradição entre esses indicadores: bancos centrais têm uma obrigação fiduciária de investir conservadoramente, além de evitar qualquer ação que poderia sabotar a própria moeda; enquanto investidores privados têm incentivos claros para sair rápido em caso de medo sobre o valor de alguma moeda. Utilizamos o peso de 0.6 para a importância de uma moeda em reservas oficiais e 0.4 para sua fração em denominar ativos mobiliários internacionais, refletindo a ideia de que ações de bancos centrais são politicamente mais importantes.
+
+País         MD/1995        MD/2013
+---------  -------------  -----------
+EUA           62.9           59.7
+G6            31.2           32.5 
+Japão         10.3           3.8
+Alemanha      17.0           22.4
+R. Unido      1.8            2.5
+G7            94.1           92.2
+G12[^3]       0.0            1.1
+
+[^3]: G20, excluídos o G7 e a China.
+
+As moedas do G7 possuem uma fração absolutamente dominante da capacidade de moeda - quase 99% da reserva internacional e 85% de ativos da dídida internacional. No entanto, a fração de empréstimos negociais em esterlina é minúscula, e o Brexit diminuniu tanto a capacidade de rede quanto a de moeda do Reino Unido. É possível que a ascenção do populismo e da direita nacionalista sejam uma ameaça tanto para a moeda nacional quanto para o mercado comum europeu.
+
+Até 2013 nenhum mercado emergente havia feito qualquer diferença na demanda global por moedas. A China tem sido acompanhada de perto, porém, inclusive pelo IMF, que anunciou que a partir de 2016 coletaria dados no renmimbi (RMB)[^4] para incluí-lo no conjunto de moeda de sua quasi-moeda, o SDR, inicialmente alocando a ele um peso de 10.9%. Em 2017 o RMB era 1.2% da reserva total.
+
+[^4]: O código de moeda do renmimbi é CNY, mas na China por vezes se utiliza o RMB. A unidade básica do renmimbi é o Yuan.
+
 ## Clubes e instituições de governança, e os países que as dominam
+
+Há diversas instituições de governança financeira no mundo, especialmente o IMF e o WB. Embora sua influência se limite a seus devedores em crise, exercitam enorme poder ideológico sobre a visão internacional sobre gerenciamento de crise, política macroeconômica e desenvolvimento econômico. O G7 é o grupo informal mais importante para discussão de coordenação econômica, mas desde a crise de 2008 e o papel americano em seu desenvolvimento o G20 se tornou também essencial nessas discussões. Há também muitas instituições regionais (ADB, AIIB, BCBS, IOSCO, FSB); buscamos construir um índice sucinto, global e razoavelmente acurado em sua indicação de poder de governança monetária e financeira, baseado em membresia em organizações globais e em seu poder nelas exercido.
+
+País         GV/1995        GV/2013
+---------  -------------  -----------
+EUA           17.2            14.5
+G6            47.5            37.2
+China         1.9             4.1
+G14           6.5             12.5
+G20           77.6            77.0
+
+Este indicador subestima o poder financeiro estrutural exercido pelos EUA, com seu poder *de facto* de veto em Bretton Woods e o Consenso de Washington. No entanto, as tendências ao longo do tempo tendem a ser confiáveis. A tabela revela uma redistribuição modesta de poder para fora dos EUA e do G6, com frações de potências emergentes e do Japão crescendo consistentemente, e a mudança de poder de planejamento e gerenciamento de crise para o G20 é um fator especialmente relevante.
 
 # Um aplicação ilustrativa: o futuro da hegemonia financeira americana
 
+Quais são, então, as implicações de nossos indicadores? Nossas conclusões preliminares encontram quatro caminhos: (i) a comparação de capacidades de poder tradicional com especificamente financeiras; (ii) a pocibilidade de um ciclo de vida financeiro de grandes potências; (iii) a natureza da mudança nos mercados financeiros; e (iv) a questão da solidez e permanência do poder americano como líder global financeiro e monetário.
+
 ## Capacidades financeiras diversas e o equilíbrio de poder interestatal
+
+Como as mudanças em nossos quatro pilares se comparam ao longo do tempo? A seguinte tabela compara os quatro pilares de poder financeiro em seus valores em 1995 e 2013.
+
+País     Material        Crédito         Rede         Moeda       Governança
+------ -------------- ------------- ------------- -------------  -------------
+EUA     20.8 - 18.4    02.7 - 00.6   23.1 - 24.7   62.9 - 59.7    17.2 - 14.5
+G6      31.8 - 17.9    39.4 - 27.5   48.6 - 35.2   31.2 - 32.5    47.5 - 37.2
+China   06.9 - 14.4    02.7 - 16.3   00.9 - 05.8   00.0 - 00.0    01.9 - 04.1
+G14     07.0 - 10.1    05.8 - 08.7   03.1 - 04.7   00.0 - 01.1    06.5 - 12.5
+G20     74.8 - 71.7    53.8 - 58.0   77.4 - 74.8   94.1 - 93.3    77.6 - 77.0
+
+A redistribuição das capacidades materiais diretas (CMD) sugerem que os EUA são uma potência em declínio, mas politicamente cooperativos com a Europa Ocidental e uma China em ascenção, o que sugere um futuro algo tripolar. Os grandes países ao redor da China (Japão, Rùssia, Índia, Austrália) têm selecionado seus parceiros com base numa mistura estranha de inclinações naturais e pragmatismo, como se prevê diante da redistribuição das capacidades de *hard power*.
+
+Os outros quatro componentes, porém, sugerem que capacidades diferentes evoluem independentemente. Os EUA mantiveram seu mesmo quinto da CMD global, mas perderam quase todo seu pequeno poder de crédito. Suas capacidades de rede e de moeda permaneceram imensas. O G6 manteve sua capacidade de moeda, mas declinou em todos os outros indicadores. A China teve uma ascenção notável em todos os indicadores exceto em sua moeda; e os países do BRICS e demais emergentes do G20 viram também aumentos da CMD, poder de crédito, rede e governança. No entanto, a redistribuição do poder de moeda é ainda muito pequena.
 
 ## Um ciclo de vida financeiro para grandes Estados?
 
+Seria possível analisar um período histórico maior e buscar padrões voluntarísticos no ciclo de vida de grandes potências: o desenvolvimento de uma capacidade inicial de crédito, e o desenvolvimento das outras capacidades que reduz a capacidade inicial de crédito, e a base de ascenção.
+
+Muitas potências históricas emergiram de sua capacidade de crédito. A Grã-Bretanha substituiu os Países Baixos como credor mundial no fim do Século XVIII; até o fim do Século XIX, foi líder em todas as quatro capacidades financeiras, a esterlina sendo o centro do padrão ouro emulado nas Américas e pela Europa. A expansão de sua rede financeira e poder de moeda, porém, erodiram sua capacidade de crédito, sendo substituída pelos EUA na primeira metade do Século XX. O Reino Unido conseguiu manter certa força na esterlina no período entre-guerras buscando reestabelecer a paridade de ouro pré-guerra. Após as extensas operações americanas de crédito aos Aliados durante a Segunda Guerra Mundial, a Grã-Bretanha só manteve certa relevância financeira buscando valorizar as necessidades do setor financeiro londrino em sua política interna e externa, e por sua proximidade a Bretton Woods e ao novo líder mundial.
+
+Os EUA seguiram um caminho similar. No início da Guerra Fria suas capacidades materiais não tinham igual, também com enormes superávits de comércio e conta corrente, acumulando um enorme conjunto de ativos financeiros estrangeiros. Conforme suas outras capacidades se expandiram, a de crédito diminuiu, e em 1971 e anos seguintes os *Nixon shocks* impuseram um enorme custo ao sistema financeiro global ao unilateralmente revogar sua obrigação de trocar dólares por ouro. Seu superávit de conta corrente desapareceu em 1981; sua reserva positiva de ativos estrangeiros, em 1991. Em 1995 a pequena capacidade de crédito dos EUA dependia do desejo de bancos estrangeiros de possuírem dólares, não necessariamenet para gastá-los em produtos americanos. Hoje seu enorme peso financeiro em redes e governança permanece; no entanto, prevemos que estas capacidades também serão desafiadas.
+
+A China, diferente da escolha do Japão nos anos 1970, parece estar permitindo que sua moeda se internacionalize e que seu poder de crédito se converta em outras capacidades (ex. a enorme *Belt and Road Initiative*). Suas elites, porém, ainda temem que o fluxo estrangeiro e o comércio exterior enfraqueçam sua capacidade de controle político doméstico.
+
 ## Observações sobre a natureza da mudança nas finanças internacionais
+
+Mercados são estruturas sociais. Podem manter estabilidade por longos períodos, mas a percepção e ideias do coletivo são importantes na construção e manutenção do valor nesses mercados. "Reputação" é tudo - e estes mercados podem mudar gradualmente ou em resposta a uma crise aguda. Crises econômicas muitas vezes envolvem mudanças súbitas de crenças e ideias - e a popularidade de uma moeda para manter reservas e fazer negócios depende de qualidades muito efêmeras e socialmente determinadas.
+
+Não devemos inferir permanência futura da estabilidade passada. Os mercados evoluíram para um caráter extremamente interligado - de forma que a os ativos de um ator são dívidas de outro. Assim, a falha de um ator "médio" (como os *Lehman Brothers* em setembro de 2008) podem contagiar muitos mercados e levar a uma crise de grande porte. A baixa probabilidade de outra crise nesses moldes depende da vontade de governos importantes de cooperar para evitá-la - e a vontade do G20 era muito maior em agir contra a Crise de 2008 do que é hoje em implementar mudanças para garantir a estabilidade do *status quo*.
 
 ## O futuro da atual hegemonia financeira
 
+Muitos concluem que a dominação financeira e econômica dos EUA está como antes, ou até mais forte - o grande poder no centro dessa dominação é o dólar americano e o poder estrutural. Oatley (2015) afirma que as regras normais da interação financeira internacional não se aplicam aos EUA, por serem um país de moeda dominante - enquanto a grande dívida externa é normalmente uma vulnerabilidade, ela revela e amplifica seu poder. Neomarxistas concordam que é difícil ameaçar a hegemonia financeira americana.
+
+Nós discordamos. Subramanian (2011), Kirshner (2014) e Layne concluem que o declínio americano e a ascenção chinesa são inevitáveis. Se analisarmos um único pilar, ele provavelmente indicará a continuidade do poder americano, mas se desagregarmos poder financeiro e monetário algumas dimensões financeiras revelam um declínio claro.
+
+Os EUA não têm sido cuidadosos com seu caráter, empregando sanções financeiras de forma ampla - como à aplicada à China por comprar aeronaves militares russas. A Rússia afirmou que esta medida descreditava o sistema do dólar; e até mesmo aliados que são prejudicados por essas medidas (como a Alemanha, a França e a Índia) são levados a buscar redes alternativas, diminuindo a centralidade americana futura.
+
+Além disso, afirmar que os EUA podem manter seu déficit indefinidamente é falaciosa - os EUA não são imunes a *bank runs* e outros fenômenos psicológicos que levam a crises financeiras. Assim como a Grã-Bretanha negou o papel de liderança financeira e monetária no período entre guerras, os EUA têm sido distantes de instituições, o que poderá sabotar suas capacidades de rede e de governança. Esta tendência é acompanhada do desejo chinês de expandir sua influência e poder estrutural na governança global, incluindo com o uso de seu crescente poder de crédito.
+
 # Conclusões: capacidades estatais e os meios financeiros do Estado
+
+Em primeiro lugar, apresentamos a capacidade de governança financeira como não um único potencial, mas um conjunto de capacidades financeiras. Segundo, que estas capacidades se movem independentemente e são tidas por países e conjuntos diferentes, cruzando linhas regionais, políticas e de blocos de defesa e finanças. Terceiro, teorizamos as bases destas conclusões, observando que a hegemonia não é eterna.
+
+Especulamos sobre a possibilidade de um ciclo de vida financeiro, que se desenvolve de forma voluntarística, e que nos lembra da natureza súbita de mudanças sistêmicas; por fim, concluímos que o uso imprudente da governança financeira pode causar malefícios, prejudicando não apenas os EUA, mas aliados de longa data - que podem então delicadamente reduzir sua vulnerabilidade futura às ações americanas, diversificando suas opções e conexões nas finanças internacionais.
