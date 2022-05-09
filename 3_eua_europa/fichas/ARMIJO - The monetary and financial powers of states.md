@@ -11,7 +11,6 @@ fontsize: 12pt
 output: pdf_document
 header-includes:
 	- \pagenumbering{gobble}
-	- \usepackage{xtab}
 	- \usepackage[portuguese]{babel}
 ---
 
