@@ -84,9 +84,15 @@ Nos anos 1990 havia um ambiente muito claro de "vitória" de valores americanos.
 
 O que o Peterson Institute tem chamado de *slowbalization* e outros institutos tem chamado de *desglobalização* é um processo que seus autores afirmam que se iniciou quase que exatamente na crise de 2008. Isto nos mostra que o processo globalizatório não é "natural" ou "inevitável" - foi resultado de uma combinação de questões práticas tecnológicas **e** de um ambiente político que existiu no pós-guerra, mas que vem entrando em crise. Será mais fácil observar esta crise em retrospecto.
 
-# Crise financeira global de 2007-2009 na estratégia de poder global dos EUA
+# A crise financeira global de 2007-2009 na estratégia de poder global dos EUA
 
+O mundo pós-GF foi marcado pela ascenção unipolar dos EUA. Este poder se manifestou de diversas maneiras, nas mais diversas esferas. Na esfera da segurança, por exemplo, se expressou na expansão da OTAN[^1]. 
 
+A era pós-comunista foi marcada por uma ampla confiança na capacidade do livre mercado (ou minimamente regulado) para aumentar a riqueza dos EUA e do mundo. O poder americano se propagou com a expansão do ideal neoliberal, pelas políticas do Consenso de Washington - medidas que incluíam a desregulamentação econômica, acordos de livre comércio e a privatização de ativos estatais. Nesse contexto os EUA e seus aliados propagaram este modelo, utilizando inclusive as organizações multilaterais do pós-guerra e de Bretton Woods como ferramentas para sua propagação no sul global e nos países emergentes. Estes países são dependentes de crédito, e essas organizações condicionavam a concessão de crédito à adoção de políticas liberalizantes. 
+
+[^1]: A OTAN foi criada para lidar com o objetivo da ONU no contexto da rivalidade leste-oeste. A OTAN é uma *aliança*, não necessariamente uma OI. A OTAN, numa possível ativação do Artigo 5, comunicaria o CSNU para que as medidas adequadas fossem tomadas; mas se reserva o direito de responder à situação até que essas medidas sejam adotadas. Isso acaba "subordinando" a ONU à OTAN. Com o fim da ameaça soviética, o fim da OTAN fazia sentido, mas com a reunificação da Alemanha isso era difícil, pois uma Alemanha unificada fora da OTAN preocupava a Europa. Assim a OTAN se expandiu para a Alemanha (o que certamente desagradou a Rússia); porém continuou a se expandir, incluindo muitos membros do antigo Pacto de Varsóvia.
+
+As crises dos anos 1990 expuseram certas contradições no novo sistema. A crise do México foi seguida de uma crise mais severa, no leste asiático, na Rússia, no Brasil em 1999, na Argentina e na Turquia; em todas essas crises o FMI surgiu como provedor de recursos para resgatar economias, condicionados à adoção de valores financeiros e econômicos americanos.
 
 ## O Euro e sua crise na estratégia de poder global da Europa
 
