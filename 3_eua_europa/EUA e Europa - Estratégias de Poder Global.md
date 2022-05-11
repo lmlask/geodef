@@ -94,13 +94,43 @@ A era pós-comunista foi marcada por uma ampla confiança na capacidade do livre
 
 As crises dos anos 1990 expuseram certas contradições no novo sistema. A crise do México foi seguida de uma crise mais severa, no leste asiático, na Rússia, no Brasil em 1999, na Argentina e na Turquia; em todas essas crises o FMI surgiu como provedor de recursos para resgatar economias, condicionados à adoção de valores financeiros e econômicos americanos.
 
+Houve, logo após o fim da GF, um período no qual foi teorizado que o mundo todo se conformaria ao modelo "vencedor" da democracia liberal ocidental, o "fim da história" de Fukuyama. Houve uma crença, desde os anos 1990 até as crises de 2001 e 2008, no modelo hegemônico americano - que o mundo havia entrado numa nova etapa, de incontestada liderança e moderação americana. A ideia era que os ciclos de negócios haviam reduzido sua volatilidade, e que isso reduzia a necessidade da influência de políticas monetárias e financeiras - a busca pela "ultraliberalização do ultraliberalismo".
+
+Esta confiança foi muito abalada com a Crise Financeira Global. Essa crise já vinha se manifestando desde as crises nos países emergentes dos anos 1990 - mas a resposta a essas crises menores eram culpar as políticas domésticas dos países nos quais as crises se manifestavam, apontando o Consenso de Washington como a resposta ideal. Isso caiu por água abaixo quando a crise de 2008 nos moldes das crises dos países emergentes nasceu nos próprios EUA. Não podemos dizer que este modelo caiu, porque não há alternativa poderosa - mas o ponto é que um modelo incontestado entrou em crise.
+
+As instituições financeiras internacionais e organizações multilaterais foram incapazes de lidar com a crise. Foi o *Federal Reserve* que ficou responsável por resgatar não apenas os EUA, mas o resto do mundo - o Banco Central Europeu não foi capaz de ter a celeridade necessária para aprovar medidas de resposta. Os países emergentes, por sua vez, não tinham liquidez suficiente para responder; e os EUA emitem o dólar, moeda de reserva mais importante do mundo, o que permitiu sua resposta[^2].
+
+[^2]: Esta posição de emissor de moeda chave traz diversas vantagens - entre elas, o grande desejo pela moeda-chave em momentos de crise. Ironicamente, apesar da crise ser nos EUA, o mundo correu para o dólar e para os produtos denominados em dólar, causando uma enorme valorização; isso está também relacionado à confiança subjetiva no poder americano que lastreia o dólar.
+
+Em 2008 o Brasil estava numa de suas melhores fases macroeconômicas, com excelente grau de investimento. Isso não teve efeito nenhum na variação cambial - num momento no qual os EUA desabavam e o Brasil estava bem, os investidores internacionais ainda tiraram o dinheiro do real e buscaram o dólar.
+
+O dólar é de longe a moeda mais utilizada no mundo - 2/3 das transações internacionais em dólar, seguido pelo Euro (com 1/4). O Remimbi tem um uso muito pequeno. Das moedas trocadas no mercado cambial, o dólar é o mais trocado, e os 10 pares mais trocados são entre o dólar e outras moedas. Essa dominância contrasta muito com o peso da economia americana, que é muito pequena, especialmente em comparação com o enorme papel do dólar. O uso de moeda por outros países é claramente uma fonte de poder para o país emissor - um "privilégio exorbitante", expressão de *De Gaulle* para se referir às vantagens americanas por emitir a moeda central de *Bretton Woods*.
+
+Quando Bretton Woods termina, a conversibilidade do dólar em ouro termina, junto com o arranjo anterior de taxas de câmbio fixas. Alguns analistas apostavam que, com o fim da obrigatoriedade de manter as moedas fixas em relação ao dólar, haveria uma melhor distribuição do poder de moeda - pelo contrário, o poder do dólar se ampliou ainda mais. Isso é uma fonte de tensão, pois a China, ainda que supere os EUA em diversos aspectos, não tem poder de moeda algum. Esta hierarquia, portanto, é rígida e difícil de mudar - a última vez foi a mudança da libra e do padrão-ouro para o dólar. A ideia de que "grandes potências têm grandes moedas" cria a expectativa de uma grande moeda chinesa - mas isso demora para se concretizar[^4].
+
+[^4]: Benjamin Cohen, em *Currency Statecraft*, explora melhor o desejo chinês de internacionalizar sua moeda e a resistência americana na proteção do dólar.
+
 ## O Euro e sua crise na estratégia de poder global da Europa
 
+A União Europeia é integração, que foi vista como necessária pelos países europeus no pós-guerra. Uma das principais motivações para tal foi a prevenção de uma nova guerra entre França e Alemanha, fundamentada na ideia de Montesquieu que o comércio internacional tende a gerar paz. Churchill não se via como parte dessa união, mas era muito favorável a sua manutenção para fortalecimento da paz. Outra motivação era a união de países europeus para tentar se contrapor aos EUA, esta que talvez tenha sido a grande motivação francesa. O Euro é também um contrapeso que reduz a dependência da Europa ao dólar; e o terceiro motivo é a promoção do livre comércio interno, enquanto externamente se observa um certo protecionismo.
 
++ 1951 - Criação da Comunidade Europeia do Carvão e do Aço pelo Tratado de Paris, assinado pela França, Itália, Países Baixos, Alemanha Ocidental, Bélgica e Luxemburgo.
++ 1957 - Criação da Comunidade Econômica Europeia, pelo Tratado de Roma.
++ 1992 - Criação da Comunidade Europeia, pelo Tratado de Maastricht - o desejo de criar um "Estado federado" europeu.
++ 1999 - O Euro entrou em circulação nos mercados financeiros mundiais. Logo antes, o primeiro movimento das moedas europeias foi substituir o dólar pelo marco alemão na referência do câmbio de suas moedas.
++ 2002 - O Euro se tornou moeda corrente no mercado europeu. Esta união monetária e de política monetária única não é acompanhada por uma política de união fiscal - esta é uma das principais fontes de atrito entre países europeus também no pós-2008. A política fiscal e a monetária estão muito conectadas, então a união monetária e não fiscal causa certos problemas.
++ 2007 - Tratado de Lisboa como uma espécie de retrocesso - dá um passo atrás no arranjo de integração de Maastrich, quando os primeiros países começam a fazer referendos sobre a constituição europeia com resultados contrários.
++ 2008 - Crise financeira global, que foi um grande abalo também à Europa. Nem todos os países da UE adotam o Euro - existem requisitos e voluntarismos. Aos países que o adotaram, a gestão do pós-crise foi complexa, porque a política monetária fixa significa que tudo precisava ser acordado entre países com necessidades financeiras e monetárias diferentes.
++ 2020 - *Brexit*.
+
+A crise financeira global esteve na origem da crise da Zona do Euro de 2009. Nesta crise os países membros da união monetária se encontraram incapazes de pagar ou financiar dívidas públicas, ou de resgatar bancos internacionais sob seu controle sem ajuda externa. O fato desses países não terem controle de política monetária dificultou muito a resposta a essas dificuldades.
+
+Uma situação de colapso financeiro exige mecanismos institucionais que permitam agilidade na tomada de decisões e respostas - esses mecanismos não existiam em 2009. Alguns países eram mais afetados que outros, e foi preciso encontrar um denominador comum - não era suficiente que cada país olhasse somente para si, por sua grande interdependência financeira.
+
+Apesar das muitas fragilidades institucionais da moeda única, a administração da Zona do Euro sempre buscou salvar a moeda única, e não abandoná-la. Nesse sentido, a resposta foi uma vitória do projeto de integração europeia, e isso se repetiu em outras crises europeias, como a crise de migração e o *Brexit* - uma saída que não levou a um efeito cascata, além de se observar que o Reino Unido não foi bem sucedido em desenvolver relações bilaterais com membros individuais da União. O bloco se manteve coeso em suas negociações. Nesse sentido, a União Europeia tem avançado em sua integração - o que Eric Johns chama de *failing forward*.
+
+[^5]: Sua teorização é que, nesse tipo de integração, por haver poucas similaridades entre membros, são criadas estruturas institucionais incompletas, que abrem o caminho para crises; e que a resposta a essas crises força uma integração maior através de instituições reformadas, num ciclo de crise e reformação integrativa.
 
 ## Brexit, *America First* e a crise do mulilateralismo
 
-
-
 ## Impactos das estratégias de poder global dos EUA e da Europa para o Brasil
-

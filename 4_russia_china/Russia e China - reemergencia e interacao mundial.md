@@ -76,3 +76,11 @@ Esta modernização militar chinesa começou, inclusive, a avançar em setores m
 Além da cooperação no setor militar, outro elo de cooperação entre os países é a segurança energética. A China tem vulnerabilidades importantes no setor energético. Por outro lado, a Rússia é um dos maiores produtores de hidrocarbonetos (forte nos três: petróleo, gás natural e carvão) e tem visto, no mercado chinês, uma possibilidade de diversificação de seus mercados de hidrocarbonetos, de forma a ficar menos dependente do mercado europeu e voltando-se, então, aos mercados asiáticos (China, Coreia do Sul e Japão, principalmente).
 
 A construção do gasoduto Força Sibéria é uma prova do volume de investimento presente na projeção de longo prazo da cooperação sino-russa, dado que seu contrato prevê vendas de gás natural russo para a indústria chinesa por décadas a seguir.
+
+# As relações sino-russas no processo de integração asiático
+
+A China tem projetado seu comércio e influência para o leste na ASEAN, e para o oeste na OCX. Esse processo de cooperação e crescente influência chinesa pode ser chamado de reconstituição de um sistema sinocêntrico[^2], buscando supremacia econômica, cultural e até "civilizacional".
+
+[^2]: N.E.: Em praticamente todos os materiais acadêmicos que li a respeito - aulas, artigos, cursos e qualquer outro que aborde o crescimento chinês - é mencionado e reforçado que a China já foi a maior economia do mundo e o centro do sistema asiático. Sob um ponto de vista constitucional, isso é irrelevante - aquela China era outro Estado, outra economia, outro povo, outro sistema político, outra formação social e outro governo. É relevante, porém, sob o ponto de vista cultural, e buscando ressaltar que a própria China se vê como buscando um "lugar de direito" que já ocupou.
+
+O que podemos levantar como hipótese e que a iniciativa OBOR (*One Belt, One Road*), também conhecida como a "nova Rota da Seda", é um grande projeto de integração asiático com fundamental participação russa - **mas também um projeto chinês de expansão global**.
