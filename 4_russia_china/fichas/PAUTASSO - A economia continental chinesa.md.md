@@ -60,3 +60,26 @@ A China expandiu sua presença na Ásia com a saída dos EUA do Vietnã; com o A
 
 # A estratégia internacional chinesa e a transição sistêmica
 
+Se o desenvolvimento americano moldou a história do Século XX, o desenvolvimento chinês moldará a do Século XXI. Se a transição é irrefreável, resta acompanhar e compreender como a ordem mundial vai acompanhar e se adaptar à China e suas novas soluções.
+
+A transição é caracterizada pelo rearranjo de forças e abertura de espaços para países emergentes. Desde a década de 1970, em especial desde a Guerra Fria, a expansão sistêmica americana coincidiu com grande competição internacional entre suas unidades, diante da multiplicação de Estados e descolonização e ascenção de novos polos de poder. A crescente competição é parte da transição.
+
+A China tem tido uma inserção internacional cada vez maior, além da ampliação de suas capacidades materiais. Suas ações diplomáticas costumam ser voltadas à estabilidade e reforma - a defesa do *status quo* permite tempo para acumular forças. A diplomacia chinesa busca (i) integrar o sistema internacional; (ii) envolver-se mais expressivamente com o Sul; e (iii) a condição de líder do espaço regional. Nesse sentido, desde a liderança de Deng Xiaoping, a China aderiu aos regimes de controle de armamentos, se envolveu em operações de paz, apoiou a maior parte das resoluções do CSNU, realizou concessões para ingressar na OMC, integrou o Banco Mundial, se tornou o maior tomador de crédito e assinou pactos voltados à defesa de direitos civis e políticos.
+
+Até os anos 1990, a China via a atuação multilateral com ceticismo, diante de manipulações dos EUA e do Japão; desde então tem se envolvido em atuação multilateral para melhorar sua imagem e reduzir os riscos do isolamento, diversificar a interdependência, e buscar melhor equilíbrio nas organizações multilaterais numa atuação mais assertiva - também em organismos multilaterais regionais securitários (OCS) e ações direcionadas ao combate de ameaças não tradicionais.
+
+A China tem se afirmado como país subdesenvolvido, semicolônia e se apresentado como uma alternativa ao Ocidente tradicional. Buscando esse espaço próprio, defende um modelo de "ganhos mútuos", seguindo um "mundo harmonioso" ou o Consenso de Beijing. O desafio dos EUA é que a China se beneficia tanto de seus modelos alternativos quanto da aderência aos modelos tradicionais ocidentais. A atuação na África é um exemplo de cooperação Sul-Sul executada conforme a Europa perdia ímpeto e os EUA se concentravam em outras regiões.
+
+O espaço regional é particularmente importante para iniciativas mais ousadas diante da capacidade limitada de atuar na arena internacional - como o foco central na Ásia em engajamento e cooperação para dirimir ameaças à segurança e impulsionar a integração regional.
+
+Essa transição tem certa peculiaridade. O sistema americano é denso e hierárquico, inclusive no poder nuclear, de forma que deslocá-lo conflituosamente não é uma opção interessante - mas favorecendo também a acomodação dos EUA. Não interessa à China subverter uma ordem que a beneficia, e sim deslocá-la para ocupar uma posição protagonista porém segura. Tem tentado evitar a tese da "ameaça chinesa" e do isolamento proposto pelo Ocidente, se apresentando como uma potência cooperativa.
+
+O desafio chinês é lidar com as incertezas do pós-Guerra Fria. Os EUA tem expandido seus domínios militares e sua esfera de defesa sobre a Ásia Central, Europa Oriental, Oriente Médio e ampliação de infraestrutura militar. Economicamente, isso incentivou a resistência e os regimes de centro-esquerda; diplomaticamente, a situação tem recrudescido a certa arbitrariedade com "intervenções humanitárias", "ataques preventivos" e "direito de proteger" que fragilizaram as instituições e fortaleceram as resistências.
+
+A dificuldade dos EUA não está apenas em lidar com a China, mas renovar sua liderança por meio de instituições cuja legitimidade eles próprios fragilizaram. A China apenas explora essas contradições buscando as linhas de menor resistência - ampliando seu espaço sabendo que o declínio americano não é um colapso, preservando muitas vantagens e primazias. A China tem se engajado e, simultaneamente, rejeitado as tentativas de normatizar o desenvolvimento e as ameaças a sua segurança.
+
+# Conclusões
+
+A inserção chinesa não foi apenas uma mudança de discurso. A partir dos anos 1970, mudou sua diplomacia, superou o isolamento e os percalços internos. Aproximou-se temporariamente dos EUA e reagiu às drásticas mudanças do final dos anos 1980; tem optado pelo **fortalecimento do multilateralismo**, buscando o envolvimento em organismos consagrados pelo sistema antigo quanto em novos organismos regionais e Sul-Sul; diversificou alianças, instrumentos e evitou isolamentos artificiais. Sua estratégia é o amálgama dos desenvolvimentos nacionais e promoção de novas parcerias internacionais, buscando **maximizar os benefícios da interdependência**.
+
+Não busca formar um único poder global, nem eliminar a importância e poder das economias nacionais. E imprescindível descifrar o nexo entre o desenvolvimento nacional e a estratégia internacional da China e seu impacto num mundo em transformação onde economias nacionais começam a ser capazes de liderar imensos esforços de integração regional.

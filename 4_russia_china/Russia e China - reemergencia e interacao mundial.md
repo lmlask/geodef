@@ -11,7 +11,6 @@ output: pdf_document
 header-includes:
     - \usepackage[portuguese]{babel}
 ---
----
 \begin{titlepage}
 
     \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
@@ -83,4 +82,18 @@ A China tem projetado seu comércio e influência para o leste na ASEAN, e para 
 
 [^2]: N.E.: Em praticamente todos os materiais acadêmicos que li a respeito - aulas, artigos, cursos e qualquer outro que aborde o crescimento chinês - é mencionado e reforçado que a China já foi a maior economia do mundo e o centro do sistema asiático. Sob um ponto de vista constitucional, isso é irrelevante - aquela China era outro Estado, outra economia, outro povo, outro sistema político, outra formação social e outro governo. É relevante, porém, sob o ponto de vista cultural, e buscando ressaltar que a própria China se vê como buscando um "lugar de direito" que já ocupou.
 
-O que podemos levantar como hipótese e que a iniciativa OBOR (*One Belt, One Road*), também conhecida como a "nova Rota da Seda", é um grande projeto de integração asiático com fundamental participação russa - **mas também um projeto chinês de expansão global**.
+O que podemos levantar como hipótese e que a iniciativa OBOR (*One Belt, One Road*), também conhecida como a "nova Rota da Seda", é um grande projeto de integração asiático com fundamental participação russa - **mas também um projeto chinês de expansão global**. Esta iniciativa está ancorada em capacidades chinesas muito sólidas. 
+
+A primeira delas é um *enorme estoque de capital para financiar as obras de infraestrutura*. A China recentemente criou o Banco Asiático de Investimento em Infraestrutura; é um dos promotores do novo Banco dos BRICS; e utiliza seus bancos de fomento, como o *China Development Bank*, como um grande instrumento de financiamento de obras. A segunda é a *capacidade industrial chinesa*, que é uma precondição para a realização de grandes obras de infraestrutura. A China tem uma indústria de base e de bens de capital muito dinâmica e com uma enorme capacidade ociosa, principalmente de aço, cimento e máquinas. Um terceiro aspecto é que a China tem muito *know-how* em serviços de engenharia.
+
+Nesse sentido, a iniciativa resolve problemas de excedente de capital chinês e de capacidade ociosa; além disso, ao invés da construção de arranjos diplomáticos e acordos complexos de cooperação, trabalha em projetos muito específicos de infraestrutura, que em geral são do interesse de qualquer país e dispensa a necessidade de grandes consensos.
+
+É importante destacar que essa rota tem caminhos territoriais que atravessam a Eurásia pelo norte - pela Rússia - mas também pelo centro, pela Ásia Central e pelo Oriente Médio. Além desse cinturão terrestre, há também um cinturão marítimo pelo estreito de Málaca, Mar Vermelho, Mar de Suez e Mediterrâneo.
+
+Falando de geopolítica e segurança, este objetivo chinês está fortemente amparado do ponto de vista econômico, e as capacidades para implementar o projeto estão presentes. No entanto, os desafios securitários não são pequenos. No Mar do Sul da China há uma quantidade relevante de litígios - que são explorados também pelos Estados Unidos - criando ou fomentando conflitos entre a China e os demais países que pleiteiam ilhas e áreas de mar continental na região. No Oriente Médio e na Ásia Central existem regiões vulneráveis (como Afeganisão, Paquistão, Turquia, Iraque, Irã) e aproximações com os EUA. Trata-se, portanto, de um tabuleiro muito complexo - mas um tabuleiro que envolve a China e a Rússia na liderança da maior região do mundo.
+
+Os grandes projetos chineses de infraestrutura podem ser um grande desafio à projeção norteamericana porque (i) os anglo-saxões sempre tiveram medo das potências territoriais, daí a percepção mackinderiana de *heartland* e as políticas americanas de contenção e cerco; (ii) esse cinturão, no final das contas, pretende integrar a Eurásia a partir da China, constituindo um grande *heartland* a partir do qual ampliar sua influência para o Chifre da África, Europa e, a partir daí, as Américas; e (iii) os interesses chineses em construir ferrovias que liguem o Atlântico e o Pacífico na própria América são relevantes. Nota-se, portanto, um grande **projeto chinês de globalização**, baseado em *infraestrutura e financiamento de obras*. 
+
+Uma questão que deve ser destacada é que, para a China, este projeto é uma oportunidade enorme de resolver seus problemas de capacidade industrial ociosa; e para a Rússia e China, é uma oportunidade para atacar os "três males" que afetam a Ásia Central e a instabilidade que afeta, inclusive, regiões separatistas dentro da China e da Rússia. Sem dúvida é uma oportunidade importante para modernizar a infraestrutura de transportes da Eurásia; ao mesmo tempo, diversifica as fontes e rotas de importação de recursos naturais, energéticos e de alimentos.
+
+Isso permite à China apoiar a *internacionalização de suas empresas*, primeiramente de engenharia e maquinário, ou seja, as associadas às obras de infraestrutura; mas também a *internacionalização do Renmimbi*, uma pré-condição para que possa exercer um protagonismo global em maior escala.
