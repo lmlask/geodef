@@ -22,7 +22,7 @@ A ordem econômica americana do pós-guerra incluiu ideias liberais em seu centr
 
 A segunda ordem econômica americana substituiu o caráter keynesiano dos anos 50 e 60, reificou mercados, diminuiu o papel do Estado e instaurou um multilateralismo *restritivo* que promovia a convergência aos valores econômicos americanos. A ordem limitou a autonomia nacional e reforçou a unipolaridade americana amplificando o papel e poder das BWIs[^3]. Esta ordem promoveu a supremacia do modelo financeiro americano ultraliberal como o ideal global.
 
-[^3]: Bretton Woods Institutions, como o FMI e o Banco Mundial.
+[^3]:*Bretton Woods Institutions*, como o FMI e o Banco Mundial.
 
 Uma série de crises expuseram as contradições internas deste modelo. As crises dos anos 1990 e a crise global de 2008 ameaçaram as estruturas centrais do modelo econômico predominante e da arquitetura da governança financeira global. Ela gerou efeitos contraditórios, ferindo o regime financeiro americano ao mesmo tempo em que reforçava o papel central dos EUA.
 
@@ -38,7 +38,7 @@ Alguns riscos da incoerência são particularmente perigosos: dívidas crescente
 
 A incoerência pode ser, também, produtiva e transformadora. Hirschman acentua o papel vital da experimentação, pragmatismo, solução de problemas frente a desafios imprevistos ou subestimados, a centralidade de aprender fazendo e aprender de outros, e as virtudes da "bagunça" em relação à coerência e parcimônia real ou percebida. Este "*mindset* de Hirschmann" informa nossas conclusões.
 
-A incoerência produtiva toma várias faces: a criação e ampliação de espaços alternativos nos quais os valores, práticas, ferramentas e objetivos associados com o liberalismo podem ser rearticulados; "vazamentos" de um ambiente tóxico de políticas globais e nacionais que seria ele próprio mais nocivo sem eles. Atores ágeis, pragmáticos, elásticos, conectados e autônomos são os em melhor posição para crescer neste ambiente. A China é exemplar. As instituições de Bretton Woods, reinventadas, estão também criando estratégias que desafiam a estagnação teórica.
+A incoerência produtiva toma várias faces: a criação e ampliação de espaços alternativos nos quais os valores, práticas, ferramentas e objetivos associados com o liberalismo podem ser rearticulados; "vazamentos" de um ambiente tóxico de políticas globais e nacionais que seria ele próprio mais nocivo sem eles. Atores ágeis, pragmáticos, elásticos, conectados e autônomos são os em melhor posição para crescer neste ambiente. A China é exemplar. As instituições de *Bretton Woods*, reinventadas, estão também criando estratégias que desafiam a estagnação teórica.
 
 O objetivo aqui não é ignorar o negativo, mas se afastar do que Hirschmann chamava de "futilismo": a tendência de pronunciar a inadequação de experimentos sociais novos. Esta narrativa sabota iniciativas que poderiam sem ela florescer. A queda do sistema americano está criando estas oportunidades; um mundo sem roteiro permite que atores, para bem ou mal, criem papéis novos.
 

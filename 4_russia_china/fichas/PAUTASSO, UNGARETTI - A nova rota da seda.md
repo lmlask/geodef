@@ -120,3 +120,29 @@ De acordo com Len (2015), a China percebe que sua crescente demanda por recursos
 Percebe também a necessidade de modernização naval, militar e civil, para protegers seus integesses nas linhas de comunicação oceânicas. Há preocupações securitárias no Mar do Sul da China e com Taiwan e a presença americana na região, revelando competições sino-americanas (GLASER, 2012); e o crescente engajamento chinês na Ásia não permite abrir mão de suas reivindicações territoriais e marítimas (PANDA, 2016), ao mesmo tempo em que precisa preservar sua liderança e evitar disputas que prejudiquem seus esforços e atraiam ingerência externa.
 
 # A iniciativa OBOR e a consolidação do sistema sinocêntrico
+
+A Iniciativa é uma visão estratégica de longo prazo da diplomacia chinesa que reforça a integração euroasiática, aprofunda e alarga o sistema sinocêntrico. Seu potencial decorre de articular *capacidades* chinesas com *demandas* de vizinhos.
+
+As capacidades chinesas decorrem de (i) um enorme estoque de capital; (ii) uma indústria de base com grande capacidade produtiva (aço, cimento, máquinas); e (iii) um impressionante *know-how* em serviços de engenharia. A exportação de capital é uma alternativa a suas reservas internacionais - o AIIB é o pontapé inicial de um banco de desenvolvimento de grandes proporções. Citam-se também o Banco de Desenvolvimento China-África, o Banco de Desenvolvimento da China, o NDB/BRICS e o Fundo da Rota da Seda, que complementam os mecanismos de financiamento de infraestrutura no mundo e na Ásia.
+
+A criação dessas novas instituições demonstra a busca por uma nova arquitetura financeira internacional - nas contestações a *Bretton Woods* depois da Crise de 2008 e na proatividade propondo novos espaços de cooperação econômica. Nove dos doze membros do Conselho de Diretores do AIIB são obrigatoriamente destinados a Estados asiáticos - o que sinaliza o compromisso da China com a região e com o assinado na Cúpula do G20 - a necessidade da representatividade dos países pobres na governança econômica internacional.
+
+O *know-how* de engenharia tem se mostrado na realização de obras de infraestrutura incluindo ferrovias de alta velocidade, o que é por si o núcleo de uma estratégia de inserção internacional chinesa. Essa estratégia se expande com a oferta de infraestrutura de transporte, energia e comunicação - indispensáveis a qualquer projeto de desenvolvimento, o que apresenta o aporte chinês como uma grande oportunidade.
+
+O AIIB assegura o compromisso regional e contra choques financeiros externos; já apresenta alguns resultados concretos, operando como promoção indireta da Iniciativa OBOR. Assim, tanto o AIIB quanto a Iniciativa são elementos centrais da diplomacia chinesa.
+
+Enquanto a ênfase chinesa em infraestrutura reitera a política *win-win*, os EUA e seus aliados reiteraram uma política de força em diversos países, levando a efeitos humanitários catastróficos (BANDEIRA, 2016). Não se trata de escolhas ideais ou morais, mas de analisar as alternativas em tela e as diferenças entre elas.
+
+A infraestrutura leva à integração física; a integração física leva à integração econômica,  eesta tende a levar ao desenvolvimento integral e compartilhado dos setores financeiro, energético, de comunicações, logística e turismo ao longo da Rota. Além disso, a integração proposta alude à *conectividade de ideais, instutuições e do próprio comportamento diplomático* (CALLAHAN, 2016), buscando estabelecer sinergias entre o Sonho Chinês e o "Espírito da Rota da Seda", promovendo também as concepções de "sonho asiático" e "comunidade de futuro compartilhado".
+
+O potencial da OBOR é tão grande quanto sua ambição. As capacidades chinesas suprem as demandas de seus vizinhos, e agora passam a ultrapassar sua "periferia" (ZHAO 2004) e seus "círculos concêntricos" de atuação externa.
+
+O transbordamento do desenvolvimento e integração asiáticos - centrados na China - são sintomas de disputas sobre os caminhos da globalização. A estratégia busca os caminhos de menor resistência, mas tende a encontrar desafios proporcionais a sua ousadia. Os EUA tem tentado evitar o ressurgimento da Rússia e a ascensão chiensa por políticas de *regime change*, guerras por procuração e expansão do intervencionismo da OTAN. As contradições, os conflitos, o terror, o extremismo e as catástrofes humanitárias, também, tendem a estar presentes.
+
+# Considerações finais
+
+A política externa chinesa se enraiza em princípios, como os Cinco Princípios da Coexistência Pacífica, se revelando, também, cada vez mais assertiva. O novo pensamento diplomático do *sonho chinês* e do *rejuvenescimento* da China, bem como novas ambições de *soft power*, tem novos desafios e demandas provocados também pela Iniciativa.
+
+Por si, a iniciativa OBOR auxilia no enfrentamento desses desafios. Reduz assimetrias entre regiões costeiras e interioranas; combate os "três males"; moderniza os transportes na Eurásia; fomenta mercados regionais; cria demanda para um excesso de capacidade industrial ociosa da China; atende carências ao longo do Cinturão e da Rota; favorece a diversificação das fontes e rotas de importação de recursos energéticos, naturais e de alimentos; apoia a internacionalização de estatais e não-estatais; apoia e é apoiada pelo surgimento de novos mecanismos de financiamento, bem como da internacionalização do RMB; e confere à China um maior envolvimento na coordenação das dinâmicas políticas eurasiáticas.
+
+Considerando que a Iniciativa está comprometida com o processo de "nova normalidade econômica", provavelmente continuará no centro da inserção externa da RPC. Constitui um projeto, portanto, que se propõe a reposicioinar a China no plano internacional e reedfinir elementos da ordem internacional.
