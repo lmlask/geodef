@@ -133,4 +133,33 @@ Apesar das muitas fragilidades institucionais da moeda única, a administração
 
 ## Brexit, *America First* e a crise do mulilateralismo
 
+Os processos históricos que analisamos têm marcos - que só podem ser bem apontados em retrospecto. Dificilmente um único evento é responsável por uma mudança - processos são mais comuns.
+
+A crise dos valores da hegemonia americana já começou nos anos 1990 com as crises da década, que denunciaram contradições sociais, políticas e econômicas de ordem neoliberal. Os países passaram a enfrentar uma dissociação grande entre as promessas da teoria e a experiência prática.
+
+A teoria neoliberal buscaria uma abertura financeira, buscando que não-residentes pudessem estabelecer ativos e passivos no estrangeiro. Os países que seguiram esta recomendações, porém, tiveram aumento muito grande das crises financeiras, e não viram crescimento ou aumento do bem-estar.
+
+Diante dessa realidade o FMI e os neoliberais afirmaram que o problema era com as instituições domésticas desses países, ainda que alguns estudos começassem a aparecer questionando a teoria.
+
+O discurso de culpar os receptores das crises fica muito difícil de sustentar com a crise de 2008, que ocorreu no centro de todo o sistema e atingiu muito fortemente a Europa e outros países desenvolvidos. Isso gerou uma crise de legitimidade e liderança dos EUA - a partir daí é que se começa a falar de problemas estruturais e sistêmicos da ultraliberalização no contexto das crises financeiras.
+
+A Crise aprofundou as fissuras já existentes no regime liderado pelos EUA - mas ao mesmo tempo reforçou o papel central dos EUA, conforme estes lideraram o resgate da crise e viram um grande aumento na demanda pelo dólar.
+
+A economia internacional entrou numa fase menos instável - a integração da China ajuda a entender esta mudança, demandando muitos produtos de países emergentes (numa alta do ciclo das *commodities*) que levou a grandes superávits. Essa situação significa que os países em desenvolvimento têm menos restrições no acesso a moeda externa, podendo acumular reservas internacionais. Estas reservas não resolvem sua vulnerabilidade, mas a reduzem (em 2006-2007).
+
+No pós-crise, os EUA, em parte, abdicam de seu papel tradicional de coordenação e disciplina, numa situação bastante diferente da do pós-guerra. Isto está relacionado ao progressivo esvaziamento do sistema multilateral e econômico, ao *Brexit* e à eleição de Trump.
+
+Grabel define como "interregno" um período de ordem em crise no qual ainda não há ordem alternativa. Neste período, o discurso do Centro ainda é muito influente - mas menos hegemônico. Há mais espaço para experimentação em termos de políticas e ideias (inclusive no crescimento de novas potências, novas fórmulas de crescimento e controle de capitais).
+
+Um dos pilares da estratégia de poder americana é o **neoliberalismo**, que está em forte crise desde 2008. Outro pilar é a **globalização** - e após a Crise a globalização também entrou em crise, num elemento "antiglobalização". Este elemento está também relacionado com a *distância entre as promessas neoliberais e os resultados práticos* (com aumento da desigualdade, desemprego e outros problemas econômicos) - e à *busca por culpados pela situação interna, o que leva à polarização, preconceitos e isolamento*.
+
+Nesse contexto, o elemento antiglobalizante está também em outros países, na ascenção de nacionalismos e direitas na Europa e em outras regiões. Os americanos anti-globalização culpam, por exemplo, o México, a China, as etnias não-brancas e as religiões não-cristãs. A UE estaria "explorando" a relação com o Ocidente, e a agenda do *America First* e do *MAGA* ressoa também com outras partes do mundo.
+
+Um terceiro elemento que caracteriza este período é a falha da aposta de **fim da história**. A estratégia da China, principal competidor, *não convergiu para a democracia neoliberal*, além de envolver *mais Estado*, não menos. O "modelo de desenvolvimento anterior", portanto, entra em crise conforme vê poucos resultados, além de modelos alternativos que dão bons resultados.
+
+As relações EUA-China se acirraram a partir da gestão Trump. Uma série de medidas comerciais, chamada às vezes de "guerra comercial", foi adotada, e a China retaliou com barreiras comerciais. A percepção da China como um grande concorrente se mantém na gestão Biden - e faz com que outras partes do mundo também vejam o avanço chinês como um risco.
+
+Quando chega a pandemia, estas tensões aumentam ainda mais, expondo dependências nos EUA e em outros países a fornecedores chineses. Isso revela a China como rival estratégico.
+
 ## Impactos das estratégias de poder global dos EUA e da Europa para o Brasil
+
