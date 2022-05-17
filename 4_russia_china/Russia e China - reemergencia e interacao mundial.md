@@ -97,3 +97,47 @@ Os grandes projetos chineses de infraestrutura podem ser um grande desafio à pr
 Uma questão que deve ser destacada é que, para a China, este projeto é uma oportunidade enorme de resolver seus problemas de capacidade industrial ociosa; e para a Rússia e China, é uma oportunidade para atacar os "três males" que afetam a Ásia Central e a instabilidade que afeta, inclusive, regiões separatistas dentro da China e da Rússia. Sem dúvida é uma oportunidade importante para modernizar a infraestrutura de transportes da Eurásia; ao mesmo tempo, diversifica as fontes e rotas de importação de recursos naturais, energéticos e de alimentos.
 
 Isso permite à China apoiar a *internacionalização de suas empresas*, primeiramente de engenharia e maquinário, ou seja, as associadas às obras de infraestrutura; mas também a *internacionalização do Renmimbi*, uma pré-condição para que possa exercer um protagonismo global em maior escala.
+
+# Desafios securitários da China
+
+O primeiro grande desafio que a China terá de enfrentar é a **escalada intervencionista do Ocidente**. Isso inclui as revoluções coloridas no entorno da Rússia; as primaveras árabes e guerras indiretas, que desestabilizaram toda a região; as guerras indiretas, como o uso de *drones* no espaço aéreo do Yemen; a coerção e cerco econômico contra a Rússia e o Irã, entre outros; a promoção de guerras por procuração; e o intervencionismo direto, como no Afeganistão e Paquistão.
+
+Este quadro de intervencionismo repercute por toda a eurásia. Quase 80% dos refugiados que a Europa teve que acolher são resultado de políticas agressivas de intervenção.
+
+A partir da consolidação do projeto chinês, algumas perguntas precisam ser respondidas. A primeira é uma identificação de quem seriam as potências do século 21. Certamente haverá um deslocamento do sistema mundial do Atlântico Norte para a Ásia-Pacífico e Eurásia, caso o projeto de integração euroasiática se consolide. A segunda é uma busca pelo tipo do sistema mundial presente a partir do ciclo euroasiático. A crise do neoliberalismo e de 2008 colocaram em cheque a perspectiva de "fim da história", e a capacidade chinesa mostra ser muito difícil pensar em desenvolvimento sem instrumentos de poder que dependem de uma estrutura de Estado sólida, profissionalizada e autofinanciada.
+
+# China, Rússia e América Latina
+
+A Rússia tem buscado se aproximar da América em função da dificuldade de convivência com a Europa Ocidental e os Estados Unidos, e tem buscado amigos na América Latina. A Rússia está sob embargo ocidental, o que levou o presidente Putin a buscar novas parcerias. Em seu último giro na América, visitou Cuba e abateu mais de 90% da dívida da Guerra Fria; visitou Nicarágua, firmando a construção do canal interoceânico em parceria com a China; no Brasil, firmou parceria no setor atômico, petrolífero e, na Argentina, de telecomunicações, veiculando a RT na Argentina. Este acordo foi firmado no governo Kirschner.
+
+No Brasil, no governo Rousseff, firmou acordos de defesa, com a compra de material antiaéreo, mas também no setor de petróleo e de saúde. Nos últimos 20 anos o comércio Brasil-Rússia se multiplicou 10 vezes - mas os números ainda são muito modestos considerando o crescimento do Brasil e o tamanho das economias.
+
+A China tem multinacionais poderosas no Brasil, como Sinopec, Lenovo, Huawei, Stategrid, Cherry, Jac, entre outras. Do lado chinês esta parceria está relacionada com alimentos e recursos energéticos, diante da valorização das commodities - que foi inclusive causado pelo efeito China e teve efeitos importantes sobre a economia brasileira.
+
+Aqui também há um risco - o risco da especialização exportadora primária, ou risco de desendustrialização. Este risco é uma explicação incompleta - porque se a China tem muita competitividade no setor industrial, quem determina as políticas internas é o Brasil. É a falta dessas políticas de desenvolvimento e infraestrutura que limita a condição internacional mais competitiva brasileira, ataque mais forte recentemente a empresas de construção civil, petróleo e agronegócio.
+
+O comércio China-América Latina cresceu de 12bi para 260bi em uma única década, um valor muito mais expressivo do que com a Rússia.
+
+# Análise de conjuntura geopolítica e geoeconômica
+
+Quando se analisam os fatores sem a história estruturante, fica-se muito refém de notícias efêmeras e enviesadas. Por isso os pontos anteriores se focaram na contextualização histórica.
+
+O primeiro assunto é a guerra da Ucrânia. Ela não pode ser entendida sem buscar os elementos históricos recentes e profundos - pelo menos desde 2004 (Revolução Laranja) e de 2014 (Maidan) diante das regiões de Donbas. Mais importante, também, é o cerco, agressão e *holdback* contra a Rússia de Putin, que foi respondido com a invasão, diante da expansão da OTAN e ameaças de sanções e do escudo antimísseis.
+
+A Rússia frágil dos anos 90, que permitiu a expansão da OTAN, deixou de existir. A influência sobre sua esfera tradicional é muito importante para a Nova Rússia, e justifica porque a Ucrânia não pode se voltar militarmente contra a Rússia. A intervenção na Geórgia já sinalizou que não se toleraria um alijamento ucraniano dos interesses russos no Mar Negro e na região.
+
+Os embargos sofridos não são novidade - quando o Malaysian Airlines foi derrubado, antes da conclusão de investigações se instituíram embargos contra a Rússia, e foram intensificados em 2014. Os esforços chineses e russos para "desdolarizar" a economia mundial também não são novidade. A China já tinha esforços de construção de um sistema interbancário que apresente alternativa ao SWIFT há muito tempo. Com a guerra, este processo se acelera - a Rússia e a Índia sinalizaram que estabelecerão comércio em rublos e rúpias.
+
+Assim, a política intervencionista aprofundam os esforços russos para furar o cerco do dólar e do Ocidente desde a Síria. Isso nos leva à ideia de transição sistêmica, na qual a guerra da Ucrânia é mais um elemento constitutivo.
+
+A transição sistêmica é muito permeada por conflitos e outros movimentos disruptivos. As ações americanas têm causado também "efeitos *boomerang*", que aceleram a transição sistêmica - durante a guerra comercial os EUA atacaram a Huawei, causando a aceleração do *Made in China 2025*, e que tem precipitado o desenvolvimento de microeletrônicos chineses. A política de cerco, portanto, tem um grande risco de causar efeitos contrários incontroláveis por Washington.
+
+O *holdback* contra a Rússia também acelera a independência russa, como na exigência do pagamento de petróleo russo em rublos. A **orientalização da infraestrutura de gases e petróleo** é um fenômeno de que já se falava em 2019, com o Força Sibéria e outras iniciativas. 
+
+O cerco à Rússia é um cerco que integra os desafios securitários da Rota da Seda. Não se trata de predição - se trata de encontrar lógica nos novos elementos geopolíticos e geoeconômicos. O ALCUS e o QUAD, pactos militares voltados a cercar a China se utilizando dos aliads americanos, integram também este relacionamento, que tem prejudicado também as relações China-Austrália - as Ilhas Salomão já sinalizaram sua posição anti-chinesa.
+
+Apresentamos também a ideia de que o projeto da Rota é um projeto de globalização, se iniciando em seu entorno regional e se estruturando por transporte, industrialização e energia, mas que é principalmente um projeto para integrar o mundo a partir do Eixo sino-russo como alternativa à hegemonia americana e ao modelo econômico neoliberal. A rota já está na África, Oriente Médio, Índico, e já chegou à América - a Argentina assinou um acordo de 24bi de dólares para investimento em infraestrutura, num contexto de desarticulação da economia da América Latina. Diante do recuo da política externa brasileira e desmonte de empreiteiras, a China vem ocupando o espaço deixado pelo Brasil na fragmentação e desintegração sulamericana.
+
+A necessidade de infraestrutura na América Latina é histórica - nosso desafio é a integração física. Embora a IIRSA (*Iniciativa para la Integración de la Infraestructura Regional Sulamericana*) sinalizasse a direção desde 2000, os processos não tem tido continuidade, inclusive em face das transformações político-diplomáticas.
+
+A China tomou a Rota como vetor central de sua projeção global. Em 2021, investiu 60bi de dólares na Rota. O país que mais recebeu foi o Iraque, saído de uma guerra devastadora. Esta é outra característica importante - a China tem buscado as linhas de menor resistência, os países que sofreram com embargos e cercos americanos para crescer globalmente. Em 2021, já na pandemia, assinou acordo com o Irã - e já foi mostrado como o cerco americano tem empurrado cada vez mais os países periféricos para a integração com a china e os grandes acordos com Beijing.
