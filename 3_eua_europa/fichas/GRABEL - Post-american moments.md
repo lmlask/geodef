@@ -1,6 +1,6 @@
 ---
-title: Confluência na Ásia? As Relações Rússia-China
-author: Maria Raquel Freire
+title: Momentos Pós-Americanos na Governança Financeira Global Contemporânea
+author: Ilene Grabel
 documentclass: extarticle
 classoption: twocolumn
 pagestyle: plain

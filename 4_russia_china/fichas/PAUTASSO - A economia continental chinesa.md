@@ -1,5 +1,5 @@
 ---
-title: China, Rússia e a Integração Asiática
+title: A Economia Continental Chinesa
 author: Diego Pautasso
 documentclass: extarticle
 classoption: twocolumn
