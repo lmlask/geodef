@@ -161,5 +161,20 @@ As relações EUA-China se acirraram a partir da gestão Trump. Uma série de me
 
 Quando chega a pandemia, estas tensões aumentam ainda mais, expondo dependências nos EUA e em outros países a fornecedores chineses. Isso revela a China como rival estratégico.
 
-## Impactos das estratégias de poder global dos EUA e da Europa para o Brasil
+## Impactos das estratégias de poder global dos EUA e Europa para o Brasil
 
+O Brasil faz parte da periferia do sistema internacional. É um país que responde a estrutura de forças, não as molda; ainda que sua condição tenha se transformado ao longo do tempo, permanece periférica.
+
+Tradicionalmente, está na zona de influência dos EUA, e sua economia sempre foi influenciada pelos valores neoliberais, considerando também os principais cargos executivos e de grandes empresas. Em torno de 2008, houve certa contemplação sobre seguir ou não as recomendações neoliberais, mas não houveram grandes desvios.
+
+Em 2009 a China passou a ser o principal parceiro comercial do Brasil, relacionado também ao epicentro da Crise nos Estados Unidos. Esse comércio continuou aumentando, e foi importante para a recuperação imediata do Brasil no pós-crise pelo ciclo das *commodities*. Isso ajudou o Brasil a colocar certas políticas em prática.
+
+Na relação com a China o Brasil também assume uma posição periférica - de exportação de produtos básicos e importação de produtos manufaturados.
+
+O alinhamento do Brasil com os EUA foi sempre automático, especialmente nas gestões Bolsonaro e Trump, ainda que o Brasil não tenha tido benefícios concretos desse alinhamento automático.
+
+A UE é um parceiro estratégico importante para o Brasil. Nos anos recentes houve o avanço do acordo comercial entre a UE e o Mercosul - a conclusão em princípio em 2019, mas ainda não assinado/ratificado. A retomada das negociações, em 2016, aconteceu num contexto de aumento da desglobalização, com aumento de medidas protecionistas. 
+
+Em momentos de crise os países tendem, de fato, a se fecharem e focarem no aspecto interno. O acordo poderia ter sido um bom exemplo do comércio baseado em regras e multilateralismo, mas acabou não acontecendo por problemas internos (como resistência de agricultores europeus, questões ambientais, questões indígenas, etc).
+
+Cabe notar também a posição periférica do Mercosul - exportando produtos primários e importando produtos manufaturados, como máquinas, equipamentos, produtos químicos, etc.
