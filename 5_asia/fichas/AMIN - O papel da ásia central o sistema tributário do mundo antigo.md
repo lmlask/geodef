@@ -14,9 +14,7 @@ header-includes:
 	- \pagenumbering{gobble}
 	- \usepackage[portuguese]{babel}
 ---
-O autor inicia remetendo a um esquema relativo ao modo tributário, que contrasta com o capitalismo moderno, e que havia sido planejado com base de volumes de trocas entre centros e periferias, num sistema duradouro de vinte séculos.
-
-No decorrer desses vinte séculos e até 1800, a China foi a região mais avançada em todos os sentidos - produtividade agrícola, cidades, qualificações e visão como "modelo". Os Europeus, ao descobri-la no "século de seu esplendor", nela se inspiram. Assim, o autor atribui ao volume de trocas exteriores chinesas o índice 100 (diante de um excedente total 1000), como base de referência, durante um período no qual a população chinesa foi de 50 a 330 milhões de pessoas - sempre ao redor de 30% da população do mundo.
+Até 1800, a China foi a região mais avançada em todos os sentidos - produtividade agrícola, cidades, qualificações e visão como "modelo". Os Europeus, ao descobri-la no "século de seu esplendor", nela se inspiram. Assim, o autor atribui ao volume de trocas exteriores chinesas o índice 100 (diante de um excedente total 1000), como base de referência, durante um período no qual a população chinesa foi de 50 a 330 milhões de pessoas - sempre ao redor de 30% da população do mundo.
 
 A China manteve relações estreitas com o centro médio-oriental, estimado este volume de trocas em 2/3 do total chinês; 20% com o Japão; 5% com a Ásia do Sudeste e 10% com a Europa.
 
@@ -36,23 +34,18 @@ A partir do Séc. XIII houve um breve período de intensa troca com a China pela
 
 As estimativas dos excedentes da África subsaariana e Ásia do Sul são similares ao europeu - pouco dinâmicas e produtivas. A fraca produtividade significa que o excedente é menor, em relação à população. Por trocar este pequeno excedente por produtos de luxo, as trocas distantes são mais importantes que as próximas. Assim, colocamos sua troca em 20%, contra 10% para a China e 6% para a Índia - e cremos que, na África do Sudeste, possa chegar a 30%.
 
-Volume médio de trocas externas de 50 EC até 1800 EC
-
- 			Excedente 	Trocas Ext.
-
-China 		1000		100
-
-Índia 		1000 		60
-
-OM 			800			140
-
-Europa 		100 		20
-
-África 		50 			10
-
-SA 			60 			20
-
-A áfrica subsaariana não é uma periferia mais miserável que a Europa no século XI - seu atraso é posterior, quando a Europa decola, e é agravado pela destruição do tráfico negreiro - seus efeitos devastadores sobre a demografia e a degradação política que ele traz.
+\begin{center}
+\begin{tabular}{ l | c | c }
+Região & Excedente & Trocas Ext.\\
+\hline
+China & 1000 & 100\\
+Índia & 1000 & 60\\
+OM & 800 & 140\\
+Europa & 100 & 20\\
+SA & 60 & 20\\
+África & 50 & 10\\
+\end{tabular}
+\end{center}
 
 A Ásia do Sudeste parte de uma posição periférica comparável à Europa e África subsaariana. Inicia certo progresso antes que a Europa, com a hinduização e islamização a partir do Séc. VII, com trocas intensas com Índia e moderadas com a China e OM. Este impulso é brutalmente interrompido pela hegemonia marítima europeia, mas sua posição não se degrada como a da África, talvez pela ausência da devastação da escravatura sistemática.
 
