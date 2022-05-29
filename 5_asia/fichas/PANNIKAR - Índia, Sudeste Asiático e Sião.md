@@ -73,6 +73,50 @@ Esse sistema continental incluía policiais sikhs na concessão de Xangai, na fl
 
 # O Sudeste Asiático
 
+Entre 1747 e 1850 a França tentou sem sucesso instalar-se na península indochinesa, por todos os métodos - cada governante que ascendia ao trono resistia ainda mais à dominação francesa. A França, então, tomou como pretexto a proteção da Igreja e voltou-se inteiramente à violência. Os cristãos do país não lhes deram ajuda alguma - a expedição conseguiu tomar Turã em 1885, mas não projetar poder francês ao interior. Só em 1861 o exército francês, liberado pelo fim da guerra na China, pôde liberar-se do sítio de Saigon.
 
+Em 1862, o governo de Hue negociou, cedendo três províncias à França e se comprometeu a não dar territórios a outras potências ocidentais. À França, porém, interessava muito o Mekong. Em 1863 a missão de Doudart de Lagrée logrou assinar um tratado estabelecendo o país como protetorado francês, com total liberdade de circulação, missão e exploração das florestas. Em 1867 obteve o direito de navegar pelo Meking ao longo do Sião, e em 1869 obteve domínio sobre toda a região do Mekong, empurrando os anamitas para o litoral.
+
+Em 1874 a França obteve um tratado estabelecendo um protetorado sobre o Anã, mas o tratado simplesmente não foi seguido. Tomou-se Hanói, mas caiu sob os golpes do Pavilhão Negro. Iniciou-se uma guerra de conquista, e em 1883-84 o Anã reconheceu a dominação francesa.
+
+A região, porém, costumava ser vassalo da China. O imperador chinês não aceitou a proposta de divisão da região, o que levou a ainda outra guerra com o corpo expedicionário de Bouet. A guerra aumentou em intensidade e bloqueou-se o suprimento à região de Pequim. Pelo tratado de 1885 a China abdicou de seus direitos na região.
+
+Durante todo o período da conquista as forças francesas foram comandadas por almirantes que só conheciam a força, e que foram todo muito mal sucedidos na administração social da região. Ignorando as instituições já existentes, sua imposição da estrutura institucional francesa gerou verdadeiro caos social.
+
+Com seus vizinhos ingleses, aprenderam a afirmação da superioridade racial - algo extremamente mal visto pela população nativa, que se atirava frequentemente às revoltas e rebeliões. A guerra do Camboja, sob Si Valta, durou um ano e meio; a revolta de Detham durou cinco. O próprio regente do Tonquim se rebelou, massacrando a população pró-francesa.
+
+A política de assimilação foi atenuada em "associação". A nova política, implementada por Paul Bert, compreendia que era necessário deixar a administração local aos anamitas. Após sua morte, porém, morreu também sua política. A indochina francesa caiu na anarquia, e Doumer, como Curzon, pensava em glória conforme as obras de infraestrutura alimentavam suas fantasias imperiais.
+
+Tentando centralizar a administração, Doumer só fortaleceu os nacionalistas. Os anamitas viam os dominadores com cada vez mais rancor. A vitória do Japão sobre a Rússia os inflamou ainda mais, e muitos estudantes indochineses partiam para o Japão para agrupar-se em organizações nacionalistas.
+
+Este crescimento do nacionalismo após a vitória japonesa se encontra em muitos países asiáticos. Na Índia, Tilak, Lajpat Rai e outros criaram um nacionalismo francamente agressivo; os métodos terroristas encontraram também partidários na indochina. A França foi obrigada a utilizar inclusive o exército para tarefas policiais cotidianas.
+
+Até a Primeira Guerra Mundial, a França acreditava que estava perpetuamente instalada na indochina. Os círculos sociais de colonizadores e colonos estavam persuadidos de sua dominação eterna. Isto se materializou também em imensas obras infraestruturais entre 1900 e 1930 - período no qual a França se mostrou também muito respeitosa com as tradições indochinesas.
+
+Esta boa administração não produziu bons resultados, diante da irritação dos nativos, que compreendiam que um governo "bom" não pode substituir um governo nacional. A criação de Conselhos Comunais eleitos ou o aumento de representação indochinesa em 1922 eram apenas remendos. O governador socialista Alexandre Varenne entendeu a situação - e num discurso em 1925 afirmou sutilmente que o caminho da Indochina desenvolvida era a emancipação. Por pressão da metrópole, logo teve que mudar de ideia.
+
+Mas algo mudara. Pierre Pasquier, governador de 1927 a 1934, entendeu as concessões que devia fazer para não perder sua colônia.
+
+Houve certa influência do nacionalismo indiano à indochina - mas nem de perto tanto quanto o do *Kuomintang*, que reorganizou o Conselho dos Notáveis e a pretensa Câmara dos Representantes do Povo, onde opiniões políticas eram estritamente proibidas.
+
+O plano era o da corrupção de notáveis e representantes atrás de uma fachada de representatividade. Os franceses tinham uma ilusão de que as "pessoas do lugar" poderiam dirigir o povo mesmo que contra seus interesses, ilusão comum a outros governos coloniais.
+
+O que os nacionalistas pretendiam era a independência completa, muito antes da invasão japonesa em 1941. Eram auxiliados por grupos em Paris, Hong-Kong, Cantão, Tokyo.
+
+*O autor escreve de uma época na qual Vietnã, Laos e Camboja ainda eram parte da União Francesa, mas já indicava que, diante da luta do Viet Minh, o caminho só poderia levar à independência completa. O autor estava correto em ver em Ho Chi Minh uma figura importantíssima para a consolidação da indochina contemporânea.* 
 
 # O Sião
+
+Até a dominação europeia sobre a corte chinesa, as relações com o Sião haviam sido muito satisfatórias. Não havia qualquer extraterritorialidade, e um funcionário que destratasse um funcionário siamês seria excluído. Tratados similiares foram assinados com a Inglaterra em 1826 e com os EUA em 1833.
+
+Em 1855 tudo mudou, e Sir John Bowring firmou um tratado de extraterritorialidade e isenção das taxas de importação do ópio. A anexação anterior da Birmânia era, por si, uma ameaça imensa ao Sião.
+
+Ao norte logo surgiu outra ameaça, a francesa. Após o fracasso francês no século XVII, o Sião viveu uma era de paz, mas a intervenção de Napoleão III em 1858 e a ocupação do Camboja pela França mudaram a situação. O Sião sempre pretendera exercer suserania sobre o Camboja, e com a situação colonial em seu detrimento, só foi capaz de negociar com a França para obter Angkor e Batambang, em troca de sua renúncia sobre o Camboja.
+
+O direito francês de navegação por todo o Mekong custaria caro ao Camboja. Em 1890, quando a pacificação da Indochina finalmente terminou, a França se voltou ao Sião. Encontrou um incidente de fronteira como pretexto e fez uma série de reivindicações pesadíssimas, incluindo uma grande indenização e a retirada das forças siamesas dos 25 quilômetros próximos à fronteira, além do direito de abrir consulados com extraterritorialidade onde bem entendesse.
+
+O tratado de 1893 condenou o Sião ao destino do Anã. A extraterritorialidade se estendeu aos súditos asiáticos da França, mas o Sião escapou da sujeição absoluta: sabendo jogar com a rivalidade franco-inglesa, tornou-se território neutro entre as potências. O rei Chulalongkorn não teve o prazo que esperava, mas fez numerosas reformas, aboliu a escravidão e reorganizou o governo, além de modernizar seu estado com iniciativas infraestruturais. Essa modernização abriu caminho para o reconhecimento de seu estatuto - em 1908, ainda que desde 1899 as leis ocidentalizadas do Sião já permitissem que o governo britânico aceitasse uma limitação da extraterritorialidade.
+
+Pela conjuntura na Europa, porém, a Inglaterra foi forçada a se aproximar da França. O governo francês aproveitou a situação para exercer fortíssima pressão sobre Bangkok, obtendo em 1904 um vasto território e uma zona neutra, que em 1907 obteve definitivamente. A compensação ao Sião, além de uma minúscula restituição territorial, foi a supressão ao longo de 10 anos da extraterritorialidade dos súditos da França.
+
+A Inglaterra não se opôs, mas compensou a situação com a anexação de Kalantã, Tringanu, Perlis e Kedah. O Sião foi ambutado pela França e Inglaterra - mas pôde, por esse preço, viver, diante das novas preocupações dos lobos da Europa. O rei do Sião, Rama VI, vendo para onde soprava o vento, foi capaz, além de manter as reformas modernizantes de Chulalongkorn, declarar guerra à Alemanha em 1917 - o que lhe garantiu mesmo um assento na Conferência de Versalhes.
