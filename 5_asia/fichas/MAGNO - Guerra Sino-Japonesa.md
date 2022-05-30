@@ -16,7 +16,7 @@ header-includes:
 ---
 # Introdução
 
-O principal fenômeno antecedente à Guerra Sino-Japonesa foi a disputa imperialista por novas áreas de domínio econômico exclusivo - que pressionou as nações asiáticas a buscar soluções autóctones para seu desenvolvimento e inserção.¬
+O principal fenômeno antecedente à Guerra Sino-Japonesa foi a disputa imperialista por novas áreas de domínio econômico exclusivo - que pressionou as nações asiáticas a buscar soluções autóctones para seu desenvolvimento e inserção.
 
 O fenômeno que impulsionou a inclusão da Ásia no sistema internacional capitalista foi a consolidação do Reino Unido, através da garantia do Centro de Decisão Energético, criação de um sistema de manufaturas industrial e uso da violência organizada do exército nacional.
 
