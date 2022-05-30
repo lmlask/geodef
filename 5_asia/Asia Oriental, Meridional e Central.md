@@ -136,4 +136,92 @@ A experiência histórica condicionou os processos de formação de políticas e
 
 # As Lutas de Libertação Nacional e o desafio da construção do Estado moderno no pós-Segunda Guerra Mundial
 
+A situação do Pós-Segunda Guerra é de redistribuição mundial simbolizada pela conferência de Yalta. Com a ascenção do EUA e da URSS e declínio da Europa, há um impulso à descolonização - que ocorre já no contexto da Guerra Fria. No caso da Ásia isso teve efeitos marcantes.
+
+A Europa tentou manter sua influência na Ásia oriental, mas já sem suas capacidades anteriores. Na medida em que há uma competição entre EUA e URSS, tentam estes agir como apoiadores - como na Indonésia e Indochina. Estas lutas de libertação não são apenas por independência, mas por meios que permitam a autonomia - e, por parte das grandes potências, por esferas de defesa e influência.
+
+## Índia e Paquistão
+
+A Índia não travou uma guerra de independência, embora tenham havido algumas campanhas por parte de indianos aliados a japonesas. Essa independência foi concedida em 1947, com a definição de dois Estados - a *partition* - resultado de uma política ativa britânica de divisão de realidades políticas hindus e muçulmanas.
+
+Até hoje os Estados tem grande rivalidade, e já se desenvolveram quatro guerras. O conflito da Caxemira continua, e as guerras contaram com apoio de superpotências - a China costumou apoiar o Paquistão, e os EUA sempre oscilaram muito em relação à Índia, embora hoje sejam aparentes aliados. Na guerra de 1971, por exemplo, os EUA interviram em favor do Paquistão.
+
+A Índia seguiu em certa medida o modelo soviético, com a nacionalização de empresas, planos quinquenais, armamento e planejamento econômico - e, no plano internacional, o **não alinhamento**. Após a guerra de 1971 a Índia acabou por firmar um tratado com a URSS.
+
+## China
+
+A República Popular da China foi fundada em 1949. Nos EUA se instaurou um debate sobre a "perda da China para os comunistas", o que alterou seu tratamento da questão. Os EUA passaram a promover um cerco da China, assim como usar a chantagem nuclear em três situações - na Guerra da Coreia, que de certa forma visava retomar a China; no Vietnã, no qual a China apoiou o Vietnã; e nas crises no Estreito de Taiwan entre 1954 e 1958. Em todas estas situações os EUA ameaçaram utilizar armas nucleares contra a China.
+
+A China, pois, precisava do apoio soviético, mas a URSS tinha seus próprios interesses na relação bilateral com os EUA, e a partir da década de 60 os interesses soviéticos eram de destensionar as relações com os EUA, o que criou uma cisão entre a liderança chinesa e a liderança soviética - conforme a China tendia à confrontação e a URSS tendia à conciliação.
+
+Internamente isso levou as forças políticas chinesas a um debate sobre como responder ao desafio dos EUA. Uma das formas seria o investimento pesado em industrialização e armamento nuclear; a outra seria manter um desenvolvimento sustentável e mais estável focado em forças convencionais. O debate político chinês acabou elegendo a primeira opção, que resultou no Grande Salto Adiante.
+
+## Coreia
+
+A Coreia, em certa medida, foi uma exensão da guerra na China. Os EUA tinham de fato a intenção de reconquistar a China comunista - mas existia, é claro, um conflito interno coreano. Após a Segunda Guerra Mundial a Coreia foi dividida em duas, sob influência soviética e americana - sua rivalidade acabou levando à guerra com a invasão do Norte em 1950.
+
+A guerra teve várias fases, e culminou na intervenção dos EUA sob mandato da ONU, não só retomando o território do Sul, mas o estendendo largamento. Isso trouxe à guerra o envolvimento da China - e foi o primeiro grande confronto pós-Segunda Guerra que envolveu potências como uma guerra por procuração, ainda que fosse um conflito local.
+
+Com a entrada da China no conflito, a Coreia do Norte retomou seu território, e a disputa acabou num empasse no Paralelo 38. Após dois anos foi assinado um armistício - nunca se firmou a paz.
+
+Pode-se ver a Guerra da Coreia, na China, como continuação da guerra civil chinesa. Os conflitos entre *blocos*, após a guerra da Coreia, seriam travados em guerras locais por procuração.
+
+A Guerra da Coreia teve, também, um papel importante na reindustrialização do Japão após a Segunda Guerra Mundial. Os Estados Unidos, após a guerra, acreditavam que a China seria seu grande aliado no leste asiático - diante de todos os acontecimentos da guerra sino-japonesa e do regime de Jiang Jieshi, promovendo um cerco à URSS.
+
+A China comunista mudou completamente o cenário, e os EUA buscaram um novo aliado - seu recente inimigo mortal, o Japão derrotado. A forma de reindustrializá-lo como potência capitalista foi se utilizando da Guerra da Coreia e do Plano Colombo.
+
+## Indonésia
+
+A Indonésia travou uma guerra de independência contra a Holanda de 1945 a 1949, expulsando o colonizador holandês após a Segunda Guerra Mundial. A presença japonesa foi, portanto, ambígua - direta ou indiretamente, os japoneses enfraqueceram a presença das potências coloniais, razão pela qual alguns movimentos de independência apoiaram os japoneses.
+
+Sukarno surgiu como um grande líder da independência e organizador do Estado indonésio que surgia. Sua grande política se baseava na *Pancasila* - nacionalismo, humanitarismo, governo representativo, justiça social e islamismo secularista, princípios que até hoje se refletem, por exemplo, no secularismo e fundamentalismo em conflito na política interna indonésia.
+
+O controle político se estruturou de forma frágil entre o partido comunista indonésio e as forças armadas, e dependeu especialmente da força de Sukarno como líder da independência. A Indonésia passou a buscar um projeto autonomista e, também, **não alinhado**. Tornou-se um líder regional - mas também um alvo atraente para expansão de influências.
+
+## Terceiro mundismo
+
+Estes três Estados foram os grandes patrocinadores do movimento terceiro-mundista e da conferência afro-asiática de Bandung, na Indonésia, em 1955. Reuniu Estados que lutavam por autonomia, pelo não alinhamento e em defesa de movimentos de libertação nacional.
+
+Nessa conferência nascerma os importantíssimos **cinco princípios da coexistência pacífica** - que até hoje influenciam fortemente a esfera eurasiática. O movimento foi bastante revolucionário para as RI, num momento em que a Guerra Fria tinha muita força e haviam fortes pressões pelo alinhamento. Este movimento desafiou a ordem bipolar, mas naturalmente haviam limites ao terceiro mundismo, diante da desaprovação de ambas as superpotências.
+
+No caso da China houve uma enorme chantagem nuclear americana que a forçou a priorizar forças produtivas nacionais internas, reduzindo sua atuação no movimento; a guerra entre China e Índia em 1962 foi também um grande golpe ao movimento; e a Indonésia teve seu projeto autonomista não alinhado confrontado com a independência da Malásia, com um processo de independência muito diferente, recebendo a independência da Inglaterra de forma pacífica - a Indonésia passou a ver a Malásia como rival regional, gerando conflitos regionais e enfraquecimento das forças indonésias, bem como na queda de Sukarno em 1965.
+
+Essas transformações levaram a uma mudança de perfil do terceiro mundismo. Houve uma nova conferência em Belgrado, com a criação oficial do **movimento dos países não-alinhados**, que teve um efeito não tanto de confrontação da bipolaridade, mas na atuação organizada em instituições multilaterais (como ONU e GATT).
+
+## Vietnã
+
+A Guerra de Independência contra a França, de 1945 a 1954, foi quase que emendada com a Guerra do Vietnã, intervenção estrangeira em seu território em apoio ao Sul. A situação se assemelhava à da Coreia, com divisão entre influências após a independência.
+
+O Vietnã do Norte resistiu à invasão com forças autônomas, conseguindo atingir a centralização política, utilizar bem o apoio soviético e chinês, e fez não apenas um acordo de paz, mas venceu o Sul e conquistou todo o território.
+
+O Vietnã esgotou o modelo de influência americana até então. Os EUA investiram demais no Vietnã - e a derrota desmoralizou seu estabelecimento político doméstico, o que criou pressão para que os EUA mudassem seu modelo de liderança internacional.
+
+## Mudanças da década de 1970-80
+
+A primeira mudança é a Doutrina Guam, ou Doutrina Nixon, que afirmava que os aliados americanos deveriam responsabilizar-se por sua defesa. Isso resultou na "vietnamização da guerra do Vietnã" - colocando sobre o Vietnã do Sul maior responsabilidade sobre sua própria defesa e operações militares contra o Norte. Os demais países do Leste asiático precisariam criar meios para se defenderem de seus inimigos e da URSS. Ao mesmo tempo, os EUA se aproximaram da China, que já haviam rompido sua relação com a União Soviética.
+
+A segunda mudança foi o *dólar flexível* - a denúncia unilateral dos EUA do compromisso de trocar dólares por ouro. A queda do padrão ouro permitiu que os EUA pudessem desvalorizar sua moeda, e permitiu indiretamente que a Alemanha e o Japão aumentassem seus espaços econômicos.
+
+Nesse ponto é que o Japão se tornou importante. O Japão do pós-Guerra, depois da China comunista, se tornou um aliado preferencial dos EUA e desenvolveu-se amplamente. Suas indústrias são desenvolvidas pelos EUA; quando esses investimentos diminuem, ante o imenso custo da guerra do Vietnã e os déficits comerciais que os EUA acumulam com a Alemanha e o Japão, os EUA mudaram seu modelo de governança financeira global.
+
+Acabou-se com o padrão ouro, que impedia grandes mudanças em taxas de câmbio; o dólar flexível, sujeito a variações de câmbio, foi desvalorizado, o que permitiu que a Alemanha e o Japão valorizem suas moedas (especificamente os pares marco-dólar e iene-dólar). Assim, o Japão expandiu sua indústria em escala regional; exportou para os demais países da região as indústrias de menor valor agregado; e se concentrou em indústrias de maior valor agregado.
+
+Isso aumentou a influência econômica japonesa sobre a Ásia, e se intensificou com a **Doutrina Nixon** - que exigia autocompromissos financeiros dos aliados americanos, e levou à industrialização de parte da Ásia americana.
+
+A exportação dos capitais japoneses se inseriu num contexto de redistribuição de forças a partir da década de 1970 - com a aproximação entre China e EUA, com a criação de um "triângulo estratégico" de EUA, URSS e China; e se "dividiu o trabalho" de segurança global, pois EUA e China se focaram na contenção da União Soviética, o que aumentou os custos securitários soviéticos e diminuíram os custos americanos e chineses.
+
+Por outro lado, se criou uma divisão do trabalho no leste asiático - *a China impediria a expansão do comunismo* no leste asiático, resultando inclusive em sua invasão ao Vietnã em 1979, e o Japão seria responsável por exportar tecnologias, processo ao qual a China se uniu no início da década de 1980.
+
+Neste momento a China fez as "quatro modernizações" e iniciou seu processo de reforma e abertura, se inserindo no movimento de capacitação industrial por razões não apenas econômicas, mas políticas - o próprio Japão teve interesse na inclusão da China num modelo industrial exportador.
+
+O momento internacional era diferente - com uma *pentarquia*, com EUA, China, Alemanha, Japão e União Soviética. Esta é uma diferença muito grande do início da Guerra Fria e sua bipolaridade estrita.
+
+Tiremos algumas conclusões. Em primeiro lugar, as lutas de libertação foram afetadas pelo sistema internacional e pela ordem bipolar - mas, principalmente, produziram *efeitos* no sistema regional e internacional, principalmente a revolução chinesa, a guerra da Coreia (que mudou a forma como se travava a Guerra Fria) e as outras lutas, como a indiana e indonésia, cruciais para a formação do terceiro mundismo. O Vietnã simbolizou a mudança mais profunda no sistema, e levou os EUA a buscarem a redistribuição de poderes e competências para manterem a hegemonia a menor custo.
+
+A Ásia foi o grande protagonista do terceiro mundismo, embora o movimento envolvesse outros países e regiões. Quando China e Indonésia reduziram sua participação, o movimento também mudou, e se tornou o Movimento dos Países Não Alinhados na conferência de Belgrado.
+
+A Guerra do Vietnã alterou completamente a estrutura da Guerra Fria, e fez com que os EUA fosse forçado a compartilhar a tarefa securitária antissoviética com seus aliados e potências regionais menores. Isso levou à aproximação com a China e certas concessões para a Alemanha e o Japão, criando novos espaços econômicos na Europa e Leste Asiático.
+
+Por fim, a industrialização do Japão e a formação da *rede industrial de subcontratação japonesa* (como nos Tigres) é um processo fundamental na formação do **século do Pacífico**.
+
 # O desafio da inserção internacional autônoma no mundo pós-Guerra Fria
