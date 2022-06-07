@@ -225,3 +225,63 @@ A Guerra do Vietnã alterou completamente a estrutura da Guerra Fria, e fez com 
 Por fim, a industrialização do Japão e a formação da *rede industrial de subcontratação japonesa* (como nos Tigres) é um processo fundamental na formação do **século do Pacífico**.
 
 # O desafio da inserção internacional autônoma no mundo pós-Guerra Fria
+
+Durante a Guerra Fria, a formação de uma frente de contenção anti-soviética, especialmente com os esforços americanos e chineses, aumentou os custos de segurança da URSS. Isso teve impacto também no final da GF e no enfraquecimento e dissolução da União.
+
+Com o fim da União Soviética, uma série de efeitos pôde ser observado. O primeiro foi um vácuo de poder que gerou uma unipolaridade americana, que levou os EUA a buscar reorganizar a ordem internacional, exercendo forte pressão sobre o Leste Asiático, o que levou a uma "onda democrática" em Taiwan, na Coreia do Sul e na China, o que pode ser visto, por exemplo, no incidente da Praça da Paz Celestial. Esta onda marcou o fim da Guerra Fria na Ásia; e sinalizou, também, o fim da aliança de ocasião sino-americana que marcara a segunda metade da Guerra Fria.
+
+Outros estados ex-aliados da URSS tiveram que lidar com a nova situação de sua própria forma. A Coreia do Norte implementou um sistema autonomista e isolacionista, enquanto o Vietnã e a Índia buscaram certa liberalização econômica autonomista. 
+
+Houve também a independência de novos Estados na Ásia Central, Estados de grande fragilidade, com precário controle interno e fronteiras porosas, com potencial de terrorismo e fluxos de tráfico de drogas; ao mesmo tempo que são frágeis, estes Estados têm também uma importância muito grande em sua localização estratégica e nos recursos que contêm, especialmente energéticos, como petróleo, gás, algodão e papoula.
+
+## A década de 1990
+
+Este novo cenário levou a uma nova política para a Ásia Central pela China e pela Rússia. A China passou a se aproximar desses estados, enquanto a Rússia buscou retomar a influência que antes tinha sobre eles. Em 1996 surgiu o Shanghai 5, que depois se tornou a SCO. Ele diz respeito especialmente a questões securitárias, problemas com minorias, separatismos e terrorismos, mas se tornaram um fórum de parceria estratégica sino-russa no grande jogo global contra a pressão americana contra suas esferas de influência.
+
+A China, depois do incidente da Paz Celestial, considerou aquele movimento como uma grande ameaça a sua autoridade política, e uma tentativa de sabotagem americana. Adotou, portanto, uma política externa reativa - focada em **esconder as capacidades e aguardar o momento certo**, ou seja, não representar uma confrontação direta à unipolaridade americana.
+
+Apesar dessa mudança, a China não abandonou seu modelo de desenvolvimento, continuando com reformas, aberturas, liberalizações, manutenção do controle estatal do planejamento central e passou por um longo período de grande crescimento econômico. Este desenvolvimento se deu com alguns custos - aumento da desigualdade social, entre regiões, entre litoral e interior, e problemas ambientais.
+
+Além disso, a China tem que lidar com uma série de conflitos internos que têm também impactos regionais e globais, como o separatismo tibetano e de Xinjiang, região na qual também há problemas de terrorismo, e a Terceira Crise do Estreito de Taiwan. Todas essas disputas foram exploradas pelos rivais da China, o que levou a China a uma aceleração de seu desenvolvimento militar e ao aprofundamento de sua cooperação com outros países emergentes opostos à unipolaridade.
+
+No pós-GF, outro Estado importante é o Japão, que saiu da Guerra Fria como uma grande potência industrial, porém com projeção externa limitada, diante de sua ausência de forças armadas convencionais que operem no exterior. O Japão passou por um processo de crise política muito séria, que girou em torno do novo papel japonês e seu modelo de desenvolvimento, especialmente após a ascensão da China - competição nova. Além dessa crise, o Japão também viu sua economia estagnar. A política japonesa se tornou uma grande disputa de lideranças, com poucos ministros capazes de permanecer no poder por mais de um ou dois anos.
+
+A Coreia do Norte perdeu seu principal parceiro, e isso provocou uma mudança na dinâmica da península coreana. Buscou se aproximar da Coreia do Sul, e os dois Estados entraram na ONU em 1991. Houve um movimento pela desnuclearização da península, mas a presença militar americana levou a Coreia do Norte a cancelar sua desnuclearização e ameaçar a saída do TNPN. Isso gerou tensões fortes, e até hoje não há acordo de paz entre EUA e Coreia do Norte.
+
+Houveram negociações, e chegou-se ao acordo pelo fornecimento americano de reatores de água leve à Coreia do Norte - permitindo a troca norte-coreana de reatores capazes de enriquecer urânico por reatores unicamente energéticos. Este tratado foi assinado em 1994, mas não foi cumprido, o que levou a novas tensões na Península Coreana. Até hoje tentam-se novas aproximações.
+
+A Coreia do Sul oscila entre aproximações e confrontamentos com a Coreia do Norte, diante do fato de que a Coreia do Sul não tem controle total sobre sua política externa - os EUA têm tropas em seu interior. Entretanto, conseguiu atingir um certo grau de desenvolvimento que levou sua política externa a considerar a posssibilidade de modificar este status - retirando as tropas americanas de seu interior. Este não é um assunto simples nem pacífico, e há um grande debate político. Os EUA, por sua vez, querem continuar utilizando a Coreia do Sul como trampolim de atuação regional.
+
+Os países do Leste Asiático foram impactados pelo fim da Guerra Fria de forma visível na ASEAN. Inicialmente criada para organizar o bloco capitalista leste-asiático como resposta à presença comunista no Vietnã, após o fim da Guerra Fria passou a ganhar outra função - promoção econômica e promoção do desenvolvimento dos Estados da Região. Cria-se o Fórum Regional da ASEAN, como forma de mediar questões políticas securitárias da região, e a organização passou a discutir principalmente cooperação regional, livre comércio e desenvolvimento.
+
+Na década de 1990, com a normalização da situação do Vietnã, todos os países do leste asiático entraram na Organização, e esta passou a ter dois papéis: a busca pela **autonomia** dos Estados da região perante os gigantes (China, Japão, Coreia do Sul, Estados Unidos e Rússia) e o **ambiente de mediação**, com destaque a partir da Crise Asiática de 1997.
+
+A Crise de 1997 envolveu crise especulativa e fuga de capitais, o que teve um impacto em toda a rede econômica do Leste Asiático, que é muito dependente, especialmente diante do processo de subcontratação japonês iniciado na década de 1980. Isso levou os Estados da região a responderem de diferentes formas; alguns abriram seus mercados, e outros responderam de formas protecionistas, com a antítese do receituário ocidental. Os Estados que fecharam seus mercados tiveram resultados melhores.
+
+A ASEAN ofereceu um ambiente institucional para dar resposta à crise, ao contrário do FMI e EUA, que não ofereceu toda a ajuda necessária. A ASEAN permitiu aproximação com os gigantes asiáticos, e alguns anos depois foi criada a Iniciativa de Chiang Mai - uma espécie de fundo monetário asiático.
+
+A Índia tinha a URSS como principal parceiro econômico e comercial. A partir do fim da GF, a Índia buscou outra estratégia de inserção econômica internacional, a partir da desregulamentação. As reformas indianas desregulamentaram a indústria, mantendo, porém, controle sobre os bancos. A Índia é um exemplo de liberalização industrial, mas não bancária.
+
+O cenário regional indiano é complexo. Mantém uma relação de rivalidade com o Paquistão e outra com a China, e precisa lidar com um cenário conturbado. Frente ao Paquistão, os testes nucleares exacerbaram a situação, pois ambos os Estados não fazem parte do TNPN. A Guerra de Kargil de 1999 foi um divisor de águas - até então a Índia era afastada dos EUA, mas após a guerra a China e o Paquistão mantiveram relações mais próximas, enquanto a Índia se aproximou dos EUA. Desde então os EUA veem a Índia como parte de contenção da China, inclusive com cessão de tecnologia nuclear.
+
+Do ponto de vista regional, a Índia busca iniciativas de integração regional na Ásia Meridional, mas a iniciativa SAARC não produziu os resultados desejados, e cada vez mais é notório o interesse da Índia em se integrar à rede econômica do Leste Asiático, pela política *look east*, até de competição econômica com as potências da região.
+
+## O mundo pós-2001
+
+As relações internacionais tiveram uma grande alteração dos anos 2000, especialmente após os ataques de 2001 e da invasão do Afeganistão, que foi o primeiro capítulo da Guerra ao Terror, que depois se estendeu para o Iraque. Esta guerra teve um impacto local, conforme as potências da região continuaram vendo o Afeganistão como oportunidade para alavancagem de seus desenvolvimentos (especialmente a Rota da Seda), mas teve regionalmente dois efeitos imediatos.
+
+O primeiro é uma **cunha americana** no centro da Eurásia e Oriente Médio, mudando o foco da política externa americana (inicialmente voltada à contenção da China e Rússia) para uma *ação direta no Oriente Médio*. Isto teve uma série de consequências também na Ásia Oriental e Meridional.
+
+Quando começa o governo Bush, em 2001, o grande objetivo dos EUA era enfrentar China e Rússia - inclusive com alguns incidentes, como o incidente de Hainan, tratado como um indício de confrontação. Nessa época a China e Rússia transformaram os Cinco de Xangai na OCX (SCO). A partir da Guerra ao Terror, a política americana se modificou completamente. Isso não significa que os EUA não tivessem outros interesses além da Ásia Central e Oriente Médio, mas a forma real de atuação se modificou muito.
+
+A partir daquele momento, os EUA passaram a buscar aliados regionais, com destaque para Japão e Coreia do Sul, como formas de contenção da China, ao mesmo tempo em que apoiava movimentos que permitissem resolver questões securitárias - como as Conversas das Seis Partes, envolvendo EUA, Rússia, China, Coreia do Norte, Japão e Coreia do Sul.
+
+Nesse meio tempo, a China passou a aproveitar o grande foco americano no Oriente Médio e Ásia Central para expandir sua influência no Leste Asiático.
+
+Este cenário teve em si um novo fato que modificou as relações internacionais - a crise de 2008, somado ao fracasso americano no Afeganistão e Iraque, e, ao mesmo tempo, a ascensão de países emergentes; a ascensão do G20, diminuindo o monopólio americano e europeu sobre as decisões quanto à Crise; e a ascensão dos BRICS, que levou a um debate quanto à capacidade americana de organizar e liderar o sistema internacional, e sobre como organizar as instituições internacionais diante da ascensão desses novos atores. Uma série de debates internos também abordaram como os EUA deveriam se portar diante da ascensão chinesa e desses novos atores.
+
+A ascensão chinesa por algum tempo foi baseada na possiblidade de uma espécie de G2 junto aos EUA, entretanto os EUA optaram por outra postura - levando a cabo uma política de reforço de unipolaridade e disputa pelo poder. Uma série de acontecimentos na Ásia, como disputas no Mar do Sul da China e uma política deliberada de contenção, foram uma proposição de que os EUA fossem o centro das relações no Leste Asiático, confrontando a crescente posição chinesa. 
+
+Isso teve uma resposta chinesa, na eleição de um novo presidente e uma nova política externa - muito mais **ativa** e **assertiva** que a anterior, buscando novas instituições e um novo modelo econômico que oferecesse uma alternativa ao sistema americano. Esta é a proposta da política externa do governo Xi Jinping.
+
+O principal traço desse governo é a criação da Nova Rota da Seda, ou *Belt and Road Initiative*. Ela busca abrir espaços econômicos para a expansão da economia chinesa, e sendo baseada especialmente em investimentos fortes infraestruturais e industriais no exterior, tenta criar novas instituições de financiamento, novas instituições de organização da economia internacional, dentro da Ásia e frente aos BRICS, e bate de frente com as instituições americanas, como o sistema de *Bretton Woods*.
