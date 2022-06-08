@@ -179,10 +179,50 @@ Várias potências médias do Oriente Médio voltaram também a estabelecer rela
 
 Cuba e África costuma ser desconsiderada, mas é uma relação absolutamente crucial e uma parceria histórica. Esta relação inclui um comprometimento cubano com movimentos de libertação, e cooperação civil-militar incluindo educação, saúde e defesa.
 
-# Conclusão
-
 A África é uma das regiões que mais cresce no mundo, e uma nova fronteira comercial de investimentos, além de conter investimentos externos diretos e tender à diminuição de conflitos internos, locais e regionais. Os índices de crescimento da África subsaariana estão entre os maiores do mundo, superando todo o Ocidente, o Japão e a América Latina, bem como a Rússia, a África do Norte e o Oriente Médio.
 
 Esta imagem também estava presente em 2018, quando se observou um crescimento forte de países africanos. As dez economias que mais cresceram foram sul-asiáticas ou africanas, com destaque para Gana e a Etiópia.
 
 Pode-se, pois, considerar o deslocamento do eixo econômico mundial não necessariamente para um eixo leste-asiático ou euroasiático, mas, de fato, afroasiático, uma hipótese que pode ser defendida sem grandes esforços.
+
+# Oriente Médio
+
+Esta região serviu como uma região de passagem por milhares de anos, durante os quais interligava os três continentes da grande afroeurásia. Sua importância estratégica é portanto, histórica.
+
+Um primeiro ponto de importância é o estreito de Bab-el-Mandeb, separando o golfo do Aden e o Mar Vermelho, com suas costas no Djibouti e Iêmen. A passagem pelo estreito de Bab-el-Mandeb é necessária para acessar o canal de Suez.
+
+Outro ponto é o Estreito de Ormuz, que liga o Golfo de Omã ao Golfo Pérsico. Ali há um tráfego extremamente frequente de superpetroleiros.
+
+Por fim, mencionamos o Canal de Suez, construído no final do Séc. XIX e nacionalizado em 1956 pelo presidente Nasser. Se trata do elo mais importante entre o Mar Mediterrâneo do Mar Vermelho.
+
+Outro elemento fundamental é a riqueza energética da região, provocadora de disputas, conflitos e interferência estrangeira.
+
+Os Estados nacionais do Oriente Médio precisam ser avaliados a partir de sua importância em termos de política internacional. Foram muitos os movimentos que bloquearam seus desenvolvimentos, inclusive condições de modernização, e é necessário analisar os processos de forma mais específica.
+
+Os conflitos no Oriente Médio são, em geral, produzidos pela necessidade de desenvolvimento e modernização. O Estado no Oriente Médio é um dos elementos mais importantes para o desenvolvimento da região.
+
+A desordem produzida na região pelo fim da Guerra Fria, assim como a tentativa de protagonismo americano em regiões de influência soviética, levou a diversas situações. 
+
+Em 1991, a operação *Desert Storm* caracterizou a nova estratégia americana de **conflitos de média intensidade**, buscando exaurir forças militares de potências médias. A intervenção de 1991 permitiu que as monarquias buscassem impor uma nova ordem regional, articulada por Cairo-Washington.
+
+O petróleo passou a ser importante para recuperar a competitividade norte-americana. Nesse contexto, Israel perdeu importância, e passou a haver maior pressão para um acordo de paz entre Israel e os Estados árabes em seu entorno.
+
+A ausência de bipolaridade fez com que os conflitos extrapolassem os limites anteriores, ficando clara uma assimetria entre poder militar e poder econômico nessa nova ordem mundial, e assinalou a fragilidade das monarquias do golfo. Após a destruição parcial do Iraque, se estabeleceram grandes bases americanas no Golfo, caracterizando uma espécie de intervenção permanente.
+
+Ao longo dos anos 1990, especialmente a partir da primeira tentativa de paz árabe-israelense, o conflito israel-palestino veio sendo reduzido. A partir das eleições em Israel, porém, os processos foram interrompidos, e em 2000 conflitos emergiram novamente. Israel, desde sua criação, tem sido um ator estratégico na região.
+
+São quatro os elementos principais das relações regionais durante este período: **nacionalismo**, construção estatal via **revolução**, presença permanente de **monarquias conservadoras tradicionais** e a permanência do **conflito israelo-palestino**. Há também a emergência de novas forças políticas, que reorienta as relações regionais.
+
+## Fundamentalismo, terrorismo e reações
+
+Fundamentalismos são movimentos sociais e políticos diversos que apresentam certas características em comum. A principal é que estes movimentos buscam *derivar autoridade de um retorno aos textos sagrados*. Esta volta aos fundamentais vê neles a constituição de um Estado perfeito, e emerge perante o fracasso do Estado moderno aos moldes ocidentais. Outra característica é a aspiração ao poder político e social. Por fim, a intolerância e caráter anti-democrático desses movimentos são frequentemente demonstrados.
+
+O sentimento de fracasso do Estado modernizador foi sentido, principalmente, no Terceiro Mundo. Estas novas forças se apropriam desses fundamentos estatais de entidade social, relacionando seu caráter ao sentimento religioso e produzindo um novo e obscuro projeto político.
+
+Urbanização em massa, desemprego, dominação estrangeira. Sentimentos nacionalistas estão presentes; mas também não oferecem boas soluções. 
+
+Observamos uma série de formação de grupos que utilizam práticas terroristas como método de ação, inclusive na formação de um movimento mais amplo. Uma série de ações que configuram o termo *terrorismo* devem ser consideradas, incluindo ações estatais (terrrorismo de Estado), assim como ações individuais, terrorismo entre grupos fundamentalistas (uma espécie de guerra civil), e terrorismo psicológico, difundindo o medo global em torno de determinados assuntos ou agendas. Estes terrorismos podem permitir a formação de uma agenda de securitização, como feito pelos EUA em determinadas regiões.
+
+Por fim, a maior parte da região é composta por árabes, mas não exclusivamente. A maioria é de muçulmanos, mas também não na totalidade, e pensar na perspectiva de um "mundo islâmico" requer expandir sua perspectiva para muito além do Oriente Médio.
+
+O Oriente Médio mantém sua importância geopolítica muito grande. Os conflitos da região são fruto de um embate entre forças políticas regionais e forças políticas internacionais para buscar garantir uma nova ordem na região.
