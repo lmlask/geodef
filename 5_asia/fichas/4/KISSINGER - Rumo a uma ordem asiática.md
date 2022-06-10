@@ -54,6 +54,48 @@ Em 1949 Mao Zedong proclamou a República Popular da China, proibindo todo tipo 
 
 Mao conduzia a política externa chinesa com a mesma convicção de centralidade da China, mesmo quando esta era muito fraca. Mencionava que venceria mesmo uma guerra nuclear, ainda que as baixas estivessem nas centenas de milhões, mostrando que contemplava a equanimidade da guerra mesmo com clara inferioridade militar - especialmente fundado na população e resiliência da China frente ao caos. Em 1971 Zhou Enlai revelou ao autor que "tudo sob o céu está mergulhado no caos, a situação é excelente". A visão da China comunista se uniria à tradicional visão da corte imperial.
 
+Mao enfrentou o dilema revolucionário da resistência e inércia das instituições tradicionais, e seu Grande Salto Adiante e a Revolução Cultural foram desastres nos quais dezenas de milhões morreram - sem amor ou ódio, para acelerar um "processo histórico" - e levou ao exílio uma geração de jovens educados.
 
+Os revolucionários venceram quando o preço pago por suas realizações foi tido como inevitável, o e público aceita Mao como um unificador que trabalhou pela dignidade chinesa. Saber qual aspecto de seu legado prevalecerá - um arrogante desafio maoísta ou a determinação serena ao suportar tumultos - terá um peso importante no futuro da China.
+
+Em 1960 a China estava absolutamente isolada, a Revolução Cultural havia exaurido a resistência do povo chinês, e a União Soviética parecia prestes a atacar. Mao reagiu com uma mudança inesperada, pondo fim à Revolução, freando a ação dos Guardas Vermelhos com as forças armadas e se voltou aos Estados Unidos. A CIA acreditava que a tensão sino-soviética permitiria tal aproximação, mas que o fervor ideológico de Mao impediria que ocorresse durante sua vida, o que não se mostrou verdade.
+
+Revoluções precisam passar da exaltação á sustentabilidade, e este foi o papel de Deng Xiaoping. Embora tenha sido alvo de dois expurgos de Mao, ascendeu ao poder em 1976 e, buscando o "socialismo com características chinesas", levou a um imenso avanço chinês em menos de uma geração. A China ingressou nas instituições internacionais e aceitou as regras estabelecidas.
+
+A China não esquecera, porém, a ambivalência de sua visão de mundo e a forma como a ordem internacional inicialmente não condizia com a imagem histórica de si mesma ou com os próprios princípios manifestos do sistema vestfaliano (diante da desigualdade dos tratados abusivos). Entraram num sistema cujas regras não formularam, mas têm a real espectativa de influenciá-lo com o tempo. Conforme se aproxima do centro, a China desfrutou de muitos privilégios de potências (Olimpíadas, discursos na ONU, visitas recípricas) e reconquistou a estatura que conhecia. A única questão que permanece é a ordem mundial.
+
+Tanto a China quanto os EUA dizem respeitar o sistema internacional, conforme não concordam com certos de seus aspectos. A China não tem precedente para ser um grande estado entre outros, e os EUA nunca interagiram permanentemente com um país comparável de ordem doméstica diferente.
+
+Suas experiências são diferentes. O enfoque americano na política é pragmático, o chinês é conceitual. Os EUA nunca estiveram sob ameaça de um vizinho poderoso, a China nunca esteve sem vizinhos poderosos. Os EUA sustentam que para um problema há uma solução; os chineses, que cada solução gera novos problemas. Os EUA buscam a solução imediata, a China a evolução gradual. O modo de pensar da China não é apenas comunista, mas chinês. Os EUA não têm familiaridade com este modo de pensar.
+
+Tanto os EUA quanto a China participam da ordem internacional de forma "regular" há muito pouco tempo. A China como centro benevolente de um mundo sob o céu e sob o mandato do imperador; os EUA e o excepcionalismo americano intervencionista que lidera o mundo. Os ajustes podem levar à rivalidade ou uma nova forma de parceria.
+
+Cada geração de líderes da China buscou uma visão particular das necessidades chinesas. Mao buscou arrancar instituições consolidadas, até as construídas no início de sua vitória, para evitar uma tendência chinesa à burocracia. Deng Xiaoping entendeu que era necessário se envolver no plano internacional, não inquietando outros países, projetando influência sem ameaçar. Jiang Zemin, nomeado durante a crise na praça Tiananmen, superou o episódio pela diplomacia pessoal e ampliando a base partidária interna, transformando a China num membro pleno do sistema internacional. Hu Jintao atenuou as preocupações despertadas pelo crescente poder chinês; e criou as bases para o novo tipo de relacionamento proclamado por Xi Jinping.
+
+Xi promoveu um amplo processo de reformas, com um sistema mais transparente e com menos relações pessoais e familiares, ainda que não democrático. Hoje a formação do Politburo não é mais de *mandarins* tradicionais, nem de *revolucionários* e seu próprio estilo de revolução, mas de pós-graduados com currículo ao estilo ocidental. Os líderes conhecem e são influenciados pela história chinesa, mas não se deixam aprisionar por ela.
 
 # Visão de longo prazo
+
+A tensão entre a potência estabelecida e a potência em ascensão são comuns. Uma pesquisa de Harvard demonstrou que, de quinze dessas interações, dez terminaram em guerra. Analistas se apoiam nesta história para prever a inevitabilidade do conflito
+
+Alguns chineses veem muitas ações americanas como objetivando impedir o crescimento chinês, como a política de pivô americana como prenúncio de uma demonstração de força - que ainda não envolveu nenhuma movimentação militar. Alguns americanos temem que a ascensão chinesa prejudique a segurança americana, e que a China busque a hegemonia militar na região.
+
+Estes analistas veem exercícios e manobras militares perfeitamente normais à luz mais sombria possível, "confirmando" seus temores. Cada lado deve agir de modo cuidadoso, lembrando-se das lições dos primeiros 14 anos do século XX.
+
+Duas outras questões afastam os países - a obrigatoriedade da evolução na direção da democracia neoliberal, que a China rejeita, e a percepção sobre direitos humanos individuais, que os EUA podem adaptar às necessidades estratégicas mas não abandonarão. Deng via a política de direitos humanos como uma estratégia para justificar a intervenção no Terceiro Mundo.
+
+A Coreia do Norte é uma questão mais imediata. Nas palavras de Bismarck, "o forte é fraco por seus escrúpulos e o fraco é forte por sua audácia". O governo norte-coreano não tem nenhuma capacidade militar significativa, mas seu pequeno poder militar encoraja que outros países desenvolvam sua capacidade nuclear - um risco desproporcional a suas capacidades. Tanto os EUA quanto a China têm pedido, no CSNU, que a Coreia do Norte abandone seu programa nuclear.
+
+Abandonar as armas nucleares pode ser a morte do regime de Pyongyang. Tanto EUA quanto Chin aprecisam alinhar políticas para a eventualidade de alcançar o desarmamento nuclear da Coreia do Norte. Este seria um grande passo na direção do "novo tipo de relação entre potências".
+
+Os novos líderes chineses ainda não conhecem a reação da população a suas novas medidas. Não desejam aventuras no exterior, mas resistem a interferências em seus interesses exteriores de forma mais insistente que seus antecessores. É necessário reforçar a nova ordem e o novo equilíbrio com normas e cooperação.
+
+Até o momento ainda não se traduziu em fato a parceria estratégica China-EUA no Pacífico, e nenhum acordo pode conceder um status específico para os EUA. Se estes se tornarem uma potência em declínio - opção, não destino - a China os sucederá. Os chineses sabem que os EUA conservarão sua capacidade de liderança, mas também que nenhum país está em condições de preencher o antigo papel de hegemonia unipolar do pós-Guerra Fria.
+
+O equilíbrio na Ásia é precário, os atores são poucos, e uma única mudança de aliança tem efeitos vastos. Uma abordagem exclusivamente militar pode ter efeitos desastrosos, em alinhamentos ainda mais rígidos que os de 1914 na Europa.
+
+No leste da Ásia existe certo equilíbrio entre China, EUA, Japão e Coreia, mas as duas grandes potências, enquanto rivais militares, se pronunciam parceiras políticas e econômicas na região. Os EUA são um aliado do japão e um parceiro da China, permitindo certa flexibilidade - cujo abandono poderá causar uma série de confrontos de intensidade crescente, como causou na Europa da Grande Guerra com o abandono da flexibilidade dos acordos de Bismarck com a Áustria e Rússia.
+
+A manutenção da paz depende do comedimento dos EUA ao impedir a hegemonia asiática e da China ao projetar seu poder. Não faria mais sentido ver fronteiras em forças militares; conceitos de *parceria* deverão se tornar, de forma inédita, elementos da balança de poder moderna, e sua incorporação poderá construir um futuro mais pacífico para amenizar rivalidades e proporcionar experiências de cooperação.
+
+A ordem sempre exige um equilíbrio sutil, e na Ásia combinará equilíbrio de poder e o conceito de parceria. A definição puramente militar será desastrosa. A puramente psicológica gerará receios de hegemonia. O estadista sensato deverá buscar o ponto de equilíbrio, pois fora dele o desastre está à espreita.
