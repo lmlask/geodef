@@ -285,3 +285,73 @@ A ascensão chinesa por algum tempo foi baseada na possiblidade de uma espécie 
 Isso teve uma resposta chinesa, na eleição de um novo presidente e uma nova política externa - muito mais **ativa** e **assertiva** que a anterior, buscando novas instituições e um novo modelo econômico que oferecesse uma alternativa ao sistema americano. Esta é a proposta da política externa do governo Xi Jinping.
 
 O principal traço desse governo é a criação da Nova Rota da Seda, ou *Belt and Road Initiative*. Ela busca abrir espaços econômicos para a expansão da economia chinesa, e sendo baseada especialmente em investimentos fortes infraestruturais e industriais no exterior, tenta criar novas instituições de financiamento, novas instituições de organização da economia internacional, dentro da Ásia e frente aos BRICS, e bate de frente com as instituições americanas, como o sistema de *Bretton Woods*.
+
+# Narrativa asiática e atualização de conjuntura
+
+O desafio da Ásia de se inserir no capitalismo de forma tardia e superar a forma impositiva de sua inserção dependente, superando o desenvolvimento e criando certa independência, foi muitas vezes enfrentado por uma luta de libertação nacional, buscando a extinção de tratados injustos, esferas de influência de outras potências, etc.
+
+O processo de industrialização, novo modelo de inserção da região, teve muito foco no processo de subcontratação japonês, criando uma rede de promoção da indústria em toda a região. As outras economias da região também se desenvolveram e aumentaram suas capacidades industriais e tecnológicas, ao ponto de chegarmos ao final do século XX falando num século do Pacífico.
+
+Estes países vem superando a dependência, se colocando como independentes e grandes inovadores e produtores de tecnologia - uma outra posição, ainda que por diversas razões não estejam no centro do sistema. A China, como país mais importante na região, tem se consolidando como capaz de enfrentar os EUA como centro do sistema internacional.
+
+## China
+
+A China quer ser o centro do sistema? A partir do governo de Xi Jinping, adotou uma política externa de segurança, adotando políticas para se tornar um novo polo internacional, fazendo um movimento intencional nesse sentido, não apenas por suas capacidades. Criou a BRI, uma tentativa de criar um novo espaço geoeconômico, com fortes investimentos e incentivos à internacionalização de empresas chinesas e criação de *joint ventures*. Não é apenas uma expansão - é uma **tentativa consciente de criar um espaço geoeconômico com maior possibilidade de inserção de empresas chinesas**.
+
+Outra política importante foi o *Made in China 2025*, trocando a produção de produtos baratos pela competição no mercado de alta tecnologia. A intenção é econômica e securitária, pois a dominação da tecnologia é necessária para inovar no setor militar para dissuadir o Ocidente na região.
+
+Por fim, há uma mudança na doutrina militar chinesa - embora se considere defensiva, assumiu que, em determinados cenários, pode ser ofensiva, mas num contexto tático ou operacional, não estratégico. Isto pode ser visto em algumas medidas recentes, como a criação de zonas de identificação aérea nos mares da China - exigindo notificação ao governo chinês para circulação nessas zonas; criação de um pacto de segurança com as Ilhas Salomão, controlando pontos de circulação importantes; e, em Abril, abriu uma base militar no Djibuti, e se especula que teria bases paramilitares no Uzbequistão e Paquistão.
+
+Algo a ser ponderado são os interesses econômicos chineses no exterior. Isso leva a acordos de segurança para proteger seus investimentos, de empresas e de infraestrutura, para dirimir seus riscos para empresas e nacionais chineses.
+
+## Estados Unidos
+
+Por outro lado, temos o posicionamento americano, que conseguimos ver com mais clareza. Até o governo Obama, seguia uma política externa baseada na globalização, fomentando-a e se aproveitando dela. A política econômica era baseada não em indústrias, mas em exportar indústrias e capitais. Sua política externa e militar seguia essa fórmula, e se considerava um "policial do mundo", acima dos outros, em expressão excepcionalistas. As forças americanas a partir de determinado momento passaram a agir como forças de contrainsurgência, numa expressão desse papel policial.
+
+Quando os EUA começaram a sofrer os efeitos disso, começou a haver um efeito contrário dentro do território americano - a perda de empregos e de renda. Na crise de 2008 esse enfraquecimento ficou nítido, e de certa forma esse sentimento de perda resultou na eleição de Trump - e do *America First*, significando a reterritorialização da indústria e produção americano, frente a um povo americano insatisfeito e anti-globalização. Dá também uma resposta à China e à Rússia, capazes de fazer frente aos EUA em determinadas regiões. Isso é um problema, pois os EUA não são mais o policial do mundo. É por isso que mudaram sua política externa no governo Trump, se considerando agora dentro de uma **era de competição de grandes potências**. Isso não mudou no governo Biden.
+
+É por isso que hoje podemos dizer que essa é uma mudança de *grandes estratégias*, não apenas de governo. Este é um dos poucos consensos que existem nos EUA, não mais considerando Rússia e China como países "abaixo", mas adversários diretos. Isso se materializou na guerra comercial e na competição contra o 5G chinês. O discurso não é mais apenas político ou ideológico, mas econômico.
+
+Essa mudança de política e investimento interno (Biden aprovou enormes pacotes para a economia americana) é um encerramento gradual do modelo da globalização financeira, em direção a uma era de nova preponderância da produtividade e competição industrial no sentido do capitalismo produtivo. Vemos uma nova era do Estado intervencionista e de direcionamento de recursos, não apenas na China e Rússia, mas nos EUA e Europa. Este é um fenômeno real e cada vez mais forte.
+
+Nesse sentido, o que vemos é, da parte dos EUA e aliados, o que se chama de *decoupling* - um desacoplamento da indústria chinesa e americana nos setores sensíveis, de alta tecnologia. Do ponto de vista político, isto está sendo efetivamente tentado. Uma queda de braços entre governos e empresas ocorrerá, mas o resultado final ainda não se vê.
+
+## Pandemia e guerra
+
+A guerra russo-ucraniana e a pandemia levaram a um discurso acadêmico e midiático que afirmam que essas transformações (*decoupling*, protecionismo, interferência estatal) são resultados da pandemia e da guerra russo-ucraniana. Isto não é verdade. A pandemia acelerou este processo, assim como a guerra; mas a tendência e os fatos reais já existiam no governo Trump, se intensificando a partir desses dois fatos.
+
+A pandemia teve um papel importante de acelerar a erosão das cadeias produtivas globais (*global supply chains*). Houve uma paralização de indústrias, e houve uma conscientização da necessidade da produção local de certos artigos e produtos. A falta de suprimentos da Ásia também levaram à percepção de uma dependência excessiva da China, levando às políticas de *China + 1* e *decoupling*.
+
+Vemos também um incremento da sinofobia, que aumentou muito com as acusações relativas a Xinjiang e uighures. Novamente, hoje, a China está no centro do debate de COVID, mas pelo lado contrário; mantendo a política do zero COVID depois de algumas centenas de casos, e há um grande debate sobre o fechamento geral, que tem um impacto nas economias da China e do mundo.
+
+A guerra russo-ucraniana traz alguns pontos importantes. As sanções contra a Rússia, de adesão relativamente limitada, fazem com que a Rússia passe a se voltar economicamente para a Ásia. Tradicionalmente se voltava para a Europa. Tem mesmo uma relação militar com o sudeste asiático. O que vemos é um movimento de não vender mais como vendia antes; agora o que a Rússia exige, ao menos do Ocidente, é que a compra de petróleo e gás seja feita em rublos, por um depósito, num banco russo, na Rússia. Há aí uma tendência que a BRI iniciou, e que podemos ver se consolidar, de **diversificação de moedas no comércio internacional**.
+
+Outro ponto é que Putin e Xi se uniram e fizeram uma declaração conjunta, antes da guerra, manifestando amizade irrestrita. Precisamos observar se isto foi um marco fundamental de um novo acordo político na BRI. Por fim, a guerra russo-ucraniana pode nos dar alguns indicativos do que poderia ocorrer se a China tentasse retomar Taiwan pela força; vemos como os EUA se comportam, e podemos extrapolar diversas reações. Os EUA, em certo momento, chegou a incentivar a guerra por suas ações, mantendo-o "afeganistanizado".
+
+Outro papel é o papel dos meios de comunicação estimulando a russofobia, que também ocorreria em relação à China. Por fim, as sanções contra a Rússia poderiam também ser aplicadas contra a China. Esta situação nos ensina muito.
+
+## Outros países asiáticos e reações
+
+Temos competição tecnológica intensa entre China e Estados Unidos. A China vem buscado criar sua zona de influência pela BRI. Como os EUA responderão? Será possível sua reação solitária, ou buscará o apoio de aliados e consórcios com Japão e Coreia, buscando nova divisão de trabalho produtivo? Que tipo de modelo será buscado e que tipo de negociação se fará?
+
+Vemos uma tendência de diversos desses países em negar a China, mas não sabemos ainda como eles lidarão com a BRI e com os Estados Unidos. Do ponto de vista securitário, os EUA lançaram em 2017 a estratégia do indo-pacífico, buscando reunir seus aliados na região. O discurso é o de sempre - paz, democracia e segurança, mas os objetivos são a contenção da China e da Rússia.
+
+Em 2021, os EUA formaram com Reino Unido e Austrália uma nova aliança, buscando promover cooperação militar.
+
+Do ponto de vista político e doméstico, podemos esperar uma interferência cada vez maior da rivalidade sino-americana fora e *dentro* dos países. Observaremos grupos políticos mais influenciados por essa disputa - como o alinhamento de grupos internos às potências externas. Isso já acontece no Sri Lanka e Indonésia, e o debate interno já ocorreu na Austrália e Coreia do Sul.
+
+A retirada do Afeganistão foi desastrosa, e logo levou a novo governo Taliban em Kabul. Os russos, chineses e iranianos logo negociaram. A China percebe a localização central do Afeganistão, e sua posição central certamente leva a cortejos de China e Rússia, com parcerias econômicas. O mais importante é a estabilidade para o desenvolvimento. Assim, o Taliban tem melhores relações com a Ásia que com o Ocidente.
+
+Dentro do Afeganistão, porém, é possível o surgimento de um grupo anti-China, o que já ocorreu no Paquistão, em 2022, com um atentado terrorista contra professores de um Instituto Confúcio e a queda do primeiro ministro. A cidade de Karachi, portuária, era um dos principais centros de investimento chinês.
+
+Como o Paquistão tem um papel de modelo/ *case* da BRI, é importante como os paquistaneses se comportam em relação à iniciativa, e a China presta muita atenção aos problemas que surgem para aplicar as lições aprendidas em outros países. O Cazaquistão, na tentativa de revolução colorida, foi um debate sobre a influência russa e chinesa dentro do Cazaquistão.
+
+O que podemos tirar dessa situação internacional é que é cada vez mais difícil, para qualquer país da Ásia, adotar uma posição neutra ou totalmente autônoma. Países maiores podem ter mais margem de manobra, mas em Taiwan, por exemplo, precisamos observar se a guerra russo-ucraniana pode encorajar a declaração de independência na ilha ou a agressão do continente.
+
+A Índia é outro caso muito interessante. Historicamente, tentou sempre garantir sua autonomia como ponto essencial. A Índia é parceira da Rússia, especialmente militar, mas cada vez mais econômica; tem uma grande rivalidade com a China; e ao mesmo tempo não quer ser parceira dos EUA e do Ocidente. Por seu tamanho e capacidade, pode ser o verdadeiro fiel da balança entre os dois grupos rivais no coração da Ásia.
+
+O Japão é muito importante, com enorme indústria e capacidade de produção, embora não seja um país "independente" dos EUA. Economicamente é muito forte, e qualquer realinhamento com a China parece improvável; mas o Japão também não quer ser dependente dos EUA do ponto de vista econômico. O posicionamento japonês pode ser muito importante na rivalidade sino-americana.
+
+A ASEAN converge muito em questões econômicas, mas costuma rachar em questões securitárias, especialmente em questões nos mares da China. Há países aproximados da China, dos EUA ou equidistantes (como a Indonésia). Isso pode ser um fato importante para análise futura - a manutenção ou quebra da ASEAN frente aos dois grandes atores.
+
+O Paquistão é um *case* de sucesso da BRI, pela quantidade de investimentos chineses, mas os últimos acontecimentos requerem observação próxima por impactos sobre investimentos chineses e sobre a expansão da BRI sobre outros países.

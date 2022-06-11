@@ -226,3 +226,43 @@ Observamos uma série de formação de grupos que utilizam práticas terroristas
 Por fim, a maior parte da região é composta por árabes, mas não exclusivamente. A maioria é de muçulmanos, mas também não na totalidade, e pensar na perspectiva de um "mundo islâmico" requer expandir sua perspectiva para muito além do Oriente Médio.
 
 O Oriente Médio mantém sua importância geopolítica muito grande. Os conflitos da região são fruto de um embate entre forças políticas regionais e forças políticas internacionais para buscar garantir uma nova ordem na região.
+
+# Mudanças na ordem internacional
+
+Esta ordem, protagonizada pelos EUA, definiu sua posição como única superpotência mundial como único Estado capaz de organizar o mundo a partir de sua posição superior. Toda ordem tem um período de vitalidade; e nesse momento essa ordem enfrenta seus próprios elementos de desgaste. 
+
+O primeiro desses problemas é que nenhum sistema político se constitui como "ideal" no sentido do consenso. Cada Estado se constituiu por experiências muito próprias, o que caracteriza um mundo no qual sistemas políticos são diferentes, embora com padrões comuns. As estruturas, porém, são resultado de experiências sociais próprias.
+
+Durante o período unipolar, observamos, pois, muitos problemas - a **adoção de políticas de mudanças forçadas de regime** foi contraposta por regimes nacionalistas em muitas regiões.
+
+Também como elemento de declínio, o **incentivo ao movimento transfronteiriço e a delegação de autoridade decisória para instituições internacionais**, voltadas para atender à constituição da ordem liberal, resultou em problemas práticos para os próprios Estados liberais e para Estados que organizaram suas próprias instituições, regionais ou continentais (União Africana). Como exemplo da fragilidade dessa política internacionalista, temos a experiência da UE, tendo se fragilizado e mesmo fragmentado.
+
+Um terceiro elemento no declínio liberal é a **hiperglobalização**, que beneficiou alguns mas gerou grandes problemas econômicos e políticos que levaram à erosão do apoio à ordem liberal. Se a ideia era de um regramento comum, este regramento permitiu que novas potências regionais que se projetavam emergissem com condições de discutir as regras políticas internacionais, a exemplo da China e da Rússia - a ordem, pois, produziu suas próprias contradições ao permitir que o mundo se tornasse multipolar.
+
+Produziu-se um novo tipo de relações internacionais, percebidas pelas potências médias africanas e do Oriente Médio. Políticas como a propagação ou imposição da democracia liberal acabaram envenenando a relação dos EUA com muitos outros países, em alguns casos levando a guerras desastrosas, e em outros a resultados incertos. Muitos países passaram a resistir a essas investidas liberais.
+
+As intervenções americanas provocaram alianças e apoio mútuo contra a agenda neoliberal, e os próprios americanos indicaram que esta ordem é resultante de uma estratégia equivocada dos governos pós-Guerra Fria a partir do governo Trump. Os EUA abandonam as políticas de mudança de regime, e os formuladores indicam a prioridade do balanceamento de poder com a China e a Rússia, buscando maximizar a influência americana com as novas organizações econômicas para buscar garantir a importância americana.
+
+Se esse declínio da ordem liberal já é visto a partir de 2005, este é o momento em que se vê uma mudança de comportamento dos Estados da África e Oriente Médio em relação aos eixos prioritários de relações internacionais e na formação de novas alianças.
+
+Na África, podemos observar, por exemplo, uma mudança muito evidente de ênfase - se antes a África era vista como um continente sem esperança, nos anos 2000 é vista como o continente da esperança, que cresce e mostra sua potencialidade.
+
+Ainda que os temas relacionados à África sejam seletivos, gradativamente a África passou a ser vista como uma das regiões que mais cresce do mundo, uma realidade muito clara frente à retomada ou implementação de uma política *prioritária* voltada à África por parte de grandes, médias e pequenas potências vendo-a como uma nova fronteira de investimentos. Passou também a ser objeto de investimentos externos diretos que tem aumentado substancialmente. 
+
+Sem dúvida a renovação dos processos de integração regional revela uma nova capacidade no contexto da crise sanitária. Observamos, embora isso não seja objeto midiático, um bom sucesso africano no controle e contenção ao COVID, mesmo frente a números europeus. Os africanos lançaram mão de um capital de conhecimento, aplicado ao combate da atual pandemia, e tiveram bons resultados. Essas mudanças levaram a uma diminuição de guerras locais, em Angola, Congo e Sudão.
+
+Junto à África Oriental, a Subsaariana é a região que mais cresce no mundo. O espaço afroasiático emerge como um dos espaços mais dinâmicos e expressivos na atualidade.
+
+Nesse novo cenário, questões como *soberania, autodeterminação* e *identidade nacional* são elementos reformuladores inclusive da estrutura interna desses Estados, muitos ainda em reconstrução depois de conflitos recentes. Há elementos que precisam ser integrados a essa análise.
+
+Quando pensamos na formulação da política externa desses Estados, é importante trazer à tona conceitos como sua legitimidade frente à população e oposições domésticas e externas. Isso traduz uma auto-imagem desses Estados; apesar do colonialismo ter sido uma realidade, a criação de instituições estatais é fundamental para sustentar uma possível reformulação dos elementos ligados à política externa e interna desses Estados.
+
+O elemento externo sempre esteve presente na vida política desses Estados, e o fortalecimento de sua posição internacional se tornou uma demanda importantíssima na construção de um novo padrão de relações internacionais.
+
+**Elementos não estatais**, como opinião pública e grupos internos, podem afetar as políticas internacionais. Gradativamente observamos uma adaptação das relações internas no sentido de garantir as condições para o desenvolvimento de renovados projetos nacionais. Temos que pensar também nos interesses burocráticos, que podem limitar ou ampliar a ação externa desses países, e este é um cenário de **necessário incremento da capacidade estatal** e do fortalecimento de suas capacidades.
+
+As normas estabelecidas a partir da cultura política dessas sociedades e dos valores ideais compartilhados impactam também na relação dos Estados com suas sociedades. A percepção do contexto externo tem um grande impacto na região, pela interferência externa, que é percebida como algo que tende a inibir potencialidades de desenvolvimento e passou a ser um elemento central, só defendido a partir de novas oportunidades de cooperação internacional com potências emergentes e potências médias regionais.
+
+Seja para análise do espaço africano ou do estado do médio oriente, é necessário avaliar as condições desses Estados em três níveis: **local**, **regional** e **internacional**, capacidades conectadas e mutuamente influentes, definindo as condições de melhora ou piora dos projetos nacionais de desenvolvimento de Estados que, outrora, se integraram ao sistema mundial através de centros de poder como a Europa e as superpotências da Guerra Fria.
+
+Hoje a realidade é outra, uma que estes Estados têm condições de influenciar a seu favor.
