@@ -147,7 +147,7 @@ Houve toda uma série de medidas econômicas que, para estes Estados já na defe
 + O preço dos produtos primários diminuiu com o emprego de materiais sintéticos;
 + As exportações foram prejudicadas por crescente recessão e protecionismo de países desenvolvidos;
 + A dívida externa aumentou, motivada pelo brutal aumento de taxas de juro pela administração Reagan;
-+ o diálogo Norte-Sul e as posturas reformistas e assistencialistas foram abandonados num clima de postulados neoliberais.
++ O diálogo Norte-Sul e as posturas reformistas e assistencialistas foram abandonados num clima de postulados neoliberais.
 
 O fim da bipolaridade definiu, enfim, uma situação de marginalidade à África, com a perda relativa de seu papel estratégico da Guerra Fria. Perdeu muito de seu poder de barganha e de sua importância econômica - as décadas de 80 e 90 são conhecidas como as décadas perdidas.
 
