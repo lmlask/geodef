@@ -47,26 +47,26 @@ No que tange a cooperação cultural, a declaração enaltece as riquezas intele
 Ao final da conferência, a estratégia global dos países do Terceiro Mundo foi estabelecida nos Dez Princípios da Coexistência de Bandung. No plano econômico, a conferência assumiu a "ideologia do desenvolvimento", a vontade de desenvolver forças produtivas, diversificar a produção, industrializar, e assegurar ao Estado a direção e o controle deste processo. A Conferência abriu caminho para o surgimento do Movimento dos Não Alinhados em Belgrado, em 1961.
 
 \begin{center}
-\begin{tabular}{ l | p{'5cm'}}
-1 & Respeito aos direitos humanos fundamentais, fins e princípios da Carta das Nações Unidas
+\begin{tabular}{ l|p{6cm}}
+1 & Respeito aos direitos humanos fundamentais, fins e princípios da Carta das Nações Unidas\\
 \hline
-2 & Respeito à soberania e integridade territorial
+2 & Respeito à soberania e integridade territorial\\
 \hline
-3 & Reconhecimento da igualdade de raças e nações
+3 & Reconhecimento da igualdade de raças e nações\\
 \hline
-4 & Não intervenção e não ingerência em assuntos internos
+4 & Não intervenção e não ingerência em assuntos internos\\
 \hline
-5 & Respeito ao direito de cada nação de defender-se individual e coletivamente conforme a Carta
+5 & Respeito ao direito de cada nação de defender-se individual e coletivamente conforme a Carta\\
 \hline
-6 & Rejeição de todo acordo de defesa destinado a servir a grandes potência, e rejeição a toda pressão que uma potência tente exercer sobre outro Estado
+6 & Rejeição de todo acordo de defesa destinado a servir a grandes potência, e rejeição a toda pressão que uma potência tente exercer sobre outro Estado\\
 \hline
-7 & Abstenção a atos de ameaças de agressão ou uso da força contra a integridade territorial ou independência política
+7 & Abstenção a atos de ameaças de agressão ou uso da força contra a integridade territorial ou independência política\\
 \hline
-8 & Resolução de todos os conflitos por meios pacíficos
+8 & Resolução de todos os conflitos por meios pacíficos\\
 \hline
-9 & Estímulo dos interesses mútuos e da cooperação
+9 & Estímulo dos interesses mútuos e da cooperação\\
 \hline
-10 & Respeito à justiça e obrigações internacionais
+10 & Respeito à justiça e obrigações internacionais\\
 \hline
 \end{tabular}
 \end{center}
