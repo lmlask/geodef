@@ -27,7 +27,7 @@ header-includes:
     \begin{minipage}{0.4\textwidth}
         \begin{flushleft}
             \large
-            \textit{Professor}\\
+            \textit{Professora}\\
             Analúcia \textsc{Pereira}
         \end{flushleft}
     \end{minipage}

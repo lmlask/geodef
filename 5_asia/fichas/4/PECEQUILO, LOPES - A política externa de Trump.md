@@ -2,6 +2,7 @@
 title: "A política externa estadunidense sob Trump: a agenda eurasiana"
 author: Cristina S. Pecequilo e Joana S. C. Lopes
 documentclass: extarticle
+classoption: twocolumn
 pagestyle: plain
 geometry: margin=3cm
 indent: false

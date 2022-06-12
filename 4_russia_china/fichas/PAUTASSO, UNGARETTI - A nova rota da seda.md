@@ -2,6 +2,7 @@
 title: A Nova Rota da Seda e a recriação do sistema sinocêntrico
 author: Diego Pautasso, Carlos Ungaretti
 documentclass: extarticle
+classoption: twocolumn
 pagestyle: plain
 geometry: margin=3cm
 indent: false
@@ -46,52 +47,6 @@ A iniciativa se relaciona com os Cinco Princípios da Coexistência Pacífica e 
 A iniciativa, em última instância, busca fomentar um "grande mercado euroasiático", reunindo 4,4 bilhões de pessoas de 64 países e um PIB de 21 trilhões de dólares. A modernização e ampliação de infraestrutura contribuiriam para o aprofundamento da integração econômica regional.
 
 A interligação se utiliza de projetos estratégicos, como a modernização do porto de Piraeus (Grécia) e a construção de uma ferrovia entre Hungria e Sérvia. A Grécia e a Polônia são passagens importantes, enquanto a iniciativa de cooperação China-Europa (16+1) possibilita maior envolvimento político. A Alemanha é estratégica em representar o ponto inicial e final da ferrovia Chongqing-Xinjiang-Europa. A cooperação sinoeuropeia também está no pacote financeiro para o Plano Juncker, injetando 315 bilhões de euros na recuperação econômica da União Europeia.
-
-----------------------------------------------------------------
-    País                                 Iniciativa
------------------ ----------------------------------------------
-Uzbequistão         Plano de cooperação com nova parceria e 
-                    ratificação da Iniciativa.
-
-Rússia              Estabelecimento de plano bilateral para 						integrar a Iniciativa com a União 
-					Eurasiática.
-
-Polônia				Elevação das relações para parceria 
-					estratégica.
-
-Sérvia				Elevação das relações para parceria
-					estratégica e reforço da cooperação no
-					desenvolvimento da Iniciativa.
-
-Alemanha            Finalização da quarta consulta 
-					intergovernamental e compromisso com o desenvolvimento dos corredores de transporte na Eurásia.
-
-Laos 				Adequação da Iniciativa com o Oitavo Plano 
-					de Desenvolvimnto Social e Econômico de Laos.
-
-Sri Lanka			Reforço de laços bilaterais e compromisso
-					com o desenvolvimento da infraestrutura do Sri Lanka.
-
-República Tcheca	Estabelecimento de relações bilaterais e
-					assinatura de dois memorandos de cooperação relativos à iniciativa.
-
-Irã 				Plano de cooperação prevendo a
-					continuidade da parceria estratégica por 25 anos.
-
-Egito				Plano prevendo o aprofundamento da 
-					cooperação entre os dois países para os próximos 5 anos.
-
-Arábia Saudita		Aprofundamento de relações bilaterais.
-
-Cazaquistão			Englobar os planos *Bright Road* do 
-					Cazaquistão na Iniciativa.
-
-Paquistão 			Finalização dos acordos relativos à
-					construção do corredor econômico entre ambos os países.
-
-----------------------------------------------------------------
-
-Table: Acordos e comunicados bilaterais entre a China e países ao longo da Rota
 
 A iniciativa busca moldar um panorama diferente para a integração da Eurásia - seus objetivos incluem responder à penetração americana na região (propostas Transpacífico, Acordo de Parceria Transatlântica de Comércio e Investimento); dirimir seus desafios securitários (os três males); garantir a internacionalização de sua economia e moeda; e criar mercado para suas indústrias, ampliando o suprimento de recursos energéticos e naturais para sustentar seu crescimento econômico e diversificar rotas de importação de energia.
 

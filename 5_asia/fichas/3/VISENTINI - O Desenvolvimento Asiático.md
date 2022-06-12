@@ -28,26 +28,11 @@ As elites dos Tigres não estavam satisfeitas com sua nova posição tributária
 
 Com o declínio do maoísmo e a ascensão de Deng, a China adotou as Quatro Modernizações, incluindo descoletivização agrária, economia mercantil socialista e Zonas Econômicas Especiais que permitem mecanismos capitalistas. Assim o foco chinês, de segurança (1949-60), passou para autonomia e independência (1960-70), e então para modernização. Para tal a China se associou à revoada dos gansos, tirou benefícios de sua aliança com os EUA e normalizou sua situação com o Japão.
 
-- coop com china (primaria)
-- sem dividas, com trocas
-- japao iii rev ind
-- china recebeu industrias japonesas e ocidentais (novo tigre)
-- china maior e mais poderosa pode dar maior diensao ao seu projeto
+O país cooperou com a China sem a criação de dívidas - através de trocas de produtos primários por industriais, conforme o Japão passava efetivamente pela III Revolução Industrial. A China recebeu indústrias japonesas e ocidentais, como um novo Tigre.
 
-- KV interviu no Vietna, e a China invadiu o país em 1979 temendo hegemonia
-- conflito cambojano isola o Vietna e se prolonga ate 1990
--china possuia potencial, porem, e nao partiria od zero
-- ruralidade fornecia mao de obra barata
-- serviços publicos custam pouco na china
-- isto e o socialismo de mercado
-- diaspora chinesa
-- estabilidade politica do regime comunista
+Quando o Khmer Vermelho interviu no Vietnã, a China invadiu o país em 1979. O conflito cambojano isolou o Vietnã e se prolongou até 1990. A China possuía potencial, e não partiria do zero, como a Coreia do Sul e demais Tigres. O êxodo rural produzia mão de obra barata, e os serviços públicos são baratos na China. Isto é o socialismo de mercado, muito auxiliado pela diáspora chinesa e pela estabilidade política do regime comunista.
 
-- oferecer bons negocios aos choneses do alem mar
-- bem sucedida, reintegra HK e Macau
-- inserção internacional
-- projeto nuclear, peso da china, projeto chines, grandes capacidades, CSNU
-- unico pais emergente no centro do poder mundial
+O caminho seguido foi oferecer bons negócios aos chineses do exterior. Bem sucedida, reintegrou Hong Kong e Macau, encerrando o colonialismo na Ásia. Seu projeto nuclear, peso demográfico e seu projeto somado a grandes capacidades e um assento no P5 a tornam o único país emergente que se aproxima do centro de poder mundial.
 
 ## A crise política de 1989
 
