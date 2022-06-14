@@ -1,6 +1,5 @@
 ---
 documentclass: extarticle
-classoption: twocolumn
 pagestyle: plain
 geometry: margin=2.5cm
 indent: false
