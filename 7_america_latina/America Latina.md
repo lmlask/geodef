@@ -105,3 +105,51 @@ A partir dos anos 2000, com os ataques de 2001, crise de 2008 e a ascensão da C
 A presença da China abre um novo desafio à presença estadunidense, que se mantém. O avanço da nova Rota da Seda e da nova estratégia chinesa tem sido uma preocupação americana. Ressaltam-se também os potenciais industriais locais, devido ao estímulo do padrão histórico de exportação primária; no contexto da forte presença chinesa, a indústria local tem sido estimulada. Os fluxos chineses revelam como os intercâmbios comerciais e investimentos em setores extrativistas representam estratégias chinesas para o uso da América Latina, mais uma vez, como fornecedor primário para a gigante indústria chinesa.
 
 Enquanto a Ásia se desenvolvia a convite americano, a AL era colocada em posição de subordinação e dependência. A nova presença mostra, ainda que trazendo benefícios, uma estratégia que não necessariamente convida ao desenvolvimento industrial. A natureza do convite chinês ainda precisa ser estudada.
+
+# Formas do Estado na América Latina
+
+Buscaremos trazer as formas do poder político e do Estado nos territórios da região. Estas formas são analíticas, nos permitindo caracterizar a inserção da região na geopolítica global. Foquemos, pois, no plano interno. Trabalharemos três formas de Estado - o *Estado oligárquico*, o *Estado desenvolvimentista* e o *Estado neo-oligárquico*.
+
+## Estado oligárquico
+
+O que Marcos Kaplan chama de *infância do leviatã crioulo* remete aos processos independentistas latino-americanos, constituídos com base na transplantação do modelo europeu de organização política, e de modo geral é o Estado que tem que enfrentar a defasagem de sua constituição e de sua inserção, gerenciando uma sociedade e um modelo produtivo dependente.
+
+Nesta primeira etapa, a inserção se refundava sob novas bases dependentes, e isso é relacionado às tarefas que os Estados tiveram que desenvolver. O Estado oligárquico, pois, é este modelo produtivo ligado ao modelo primário exportador externamente dependente. Este Estado foi o que conheceu a dependência política e econômica da primeira fase, num contexto de construção da ordem nessas sociedades.
+
+Sua ordem político-institucional buscava espelhar os modelos europeu e americano, e foi uma expressão dos processos produtivos especializados e de relações internacionais que vigoravam à época.
+
+É importante desmistificar o Estado oligárquico, que seguia um padrão liberal, e longe de ter sido frágil ou passivo, se mostrou cumprindo todas as tarefas sociais, políticas, econômicas e produtivas para manter o padrão de desenvolvimento dependente que não apenas favorecia a acumulação interna de capital, mas que reforçou a inserção e relações externas dependentes com os países de capitalismo avançado (cujas demandas de abastecimento exigiam a garantia dos vínculos com os novos países da América Latina).
+
+## Estado desenvolvimentista
+
+Entre 1900 e 1930 a região viveu um período de transição. O Estado oligárquico se transformava no desenvolvimentista, e as trocas e relações produtivas possibilitaram melhores desempenhos. Isso foi contribuindo para gerar fontes de acumulação interna nos países da América Latina.
+
+Do ponto de vista institucional, o Estado deu início a um processo de aparelhamento e robustecimento. O Estado capitalista se apresenta como árbitro de classes e disputas sociais, e neste momento evoluiu para um Estado que podia se apresentar como mais neutro. O Estado oligárquico se apresentava como representante muito mais claro das classes dominantes.
+
+As demandas de ampliação democrática, industrialização e urbanização, surgiram a partir de um crescimento econômico mais diversificado, ainda que a exportação primária continuasse como a preocupação primária. Aqui o Estado começou a observar a necessidade de *proteger* certo patrimônio nacional frente a interesses estrangeiros, proteger o mercado interno diante de maior industrialização, e, em termos de política externa, o Estado começou a perceber a necessidade de assumir externamente posturas que favorecessem certas margens de autonomia e atuação nas RI.
+
+Estas questões são *tendências*, mas tentam se consolidar somente a partir da década de 1930. No caso brasileiro temos a revolução de Vargas como marco mais claro, mas em outros Estados a época e as tendências eram as mesmas, quando as condições internas estavam presentes, respeitando os mesmos grandes traços.
+
+Entre 1930 e 1980 este Estado mais aparelhado já pôde se apresentar à imagem e semelhança do Estado capitalista na Europa, como árbitro de disputas sociais e assumindo o papel de Estado neutro, ainda que fique claro que este Estado sempre assumiu formas historicamente capitalistas.
+
+Após a grande crise capitalista e as Guerras Mundiais, surgiu a bipolarização da ordem internacional, e nesse contexto a América Latina assumiu uma relação de dependência mais alinhada e clara aos Estados Unidos. De fato, as multinacionais estadunidenses praticamente constituíram grande parte dos principais segmentos econômicos de muitos países da América, numa etapa substitutiva de importações, mas que manteve o *neocapitalismo tardio subdesenvolvido e dependente* (Kaplan). 
+
+Isto tem a ver com o papel americano no desenvolvimento e industrialização desses Estados desenvolvimentistas - que mesmo incentivando a dependência, permitiu processos de acumulação interna, com algumas exceções. Em função das demandas e necessidades produtivas dos Estados Unidos e de uma Europa que se reconstruía, a região seguiu um caminho de desenvolvimento que equilibrava a substituição de importações e a dependência da vontade externa. Estes Estados estavam constituíndo as possibilidades de sustentabilidade capitalista nos moldes das exigências dos Estados Unidos.
+
+São tendências. Houveram tentativas nacionalistas, contraofensivas externas, e esforços em diversas direções, mas os capitais que entravam na região não permitiam, pela sua forma de direcionamento, as tentativas de processos de industrialização avançada e políticas externas autonomistas, em meio a disputas entre capitalismos avançados e grandes blocos.
+
+Neste período, estamos perante um Estado que desenvolveu toda uma série de funções sociais e econômicas, referentes a diferentes políticas públicas de organização. Estes Estados estruturaram o funcionamento da economia e sociedade para garantir as condições gerais deste *neocapitalismo dependente*, vinculado aos grandes centros de poder, equilibrado com as demandas da região.
+
+## Estado neo-oligárquico e a globalização neoliberal
+
+Nas últimas décadas, vimos a volta de um modelo produtivo voltado para fora, com o abandono de um modelo de crescimento pela industrialização e desenvolvimentismo - julgado como obsoleto desde os anos 1980, quando justificou-se que o desenvolvimentismo latinoamericano teria se esgotado.
+
+Marcado por uma forte financeirização do capitalismo global, a ascensão do sistema neoliberal coincidiu, na América Latina, com processos de redemocratização, grandes endividamentos e o colapso do bloco socialista. O Estado neo-oligárquico, ou neo-liberal, em função de pré-requisitos do receituário neoliberal, buscou a liberalização comercial e a desregulamentação financeira - buscando tornar a América Latina ainda mais aberta a capitais estrangeiros.
+
+Isso também incluiu o fato de que os EUA saíram das crises dos anos 1970 com novas exigências à América Latina, e a região foi aderindo, em diferentes graus, ao receituário que buscava recompor a balança comercial norte americana a partir da absorção das exportações da América Latina.
+
+Há aqui toda uma retórica de decadência do Estado nacional. Assim como no período oligárquico, a atuação do Estado continuaram a se manter como elemento fundamental para manutenção do sistema interestatal capitalista - principalmente para o avanço desse sistema. Nesse sentido, esses elementos chamam a atenção para o fato de que o Estado não diminuiu suas funções - para proceder à liberalização, o Estado teve que fazer grandes esforços, e inclusive fortalecer sua intervenção. 
+
+Longe de pensarmos num Estado que perde espaço - sim, precisava ser modificado de acordo com a perspectiva neoliberal - mas precisava ter capacidade de intervenção e controle para proceder à abertura aos capitais internacionais. O Estado sempre teve uma tendência histórica voltada à intervenção, e essa tendência se manteve. Isto não é "natural", e sim decorrente de funções e tradições regionais. O Estado neoliberal latino-americano não é, nem nunca buscou ser, um "Estado mínimo".
+
+Estas mudanças se deram em detrimento do desenvolvimento industrial na região da América latina. Com a ascensão da China, há certa competição hegemônica, mas o modelo produtivo primário-exportador voltado para fora, que ainda precisa de um Estado neo-oligárquico para organização interna, permanece, respondendo a exigências que os interesses internos impõe para sua realização.
