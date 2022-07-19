@@ -153,3 +153,33 @@ Há aqui toda uma retórica de decadência do Estado nacional. Assim como no per
 Longe de pensarmos num Estado que perde espaço - sim, precisava ser modificado de acordo com a perspectiva neoliberal - mas precisava ter capacidade de intervenção e controle para proceder à abertura aos capitais internacionais. O Estado sempre teve uma tendência histórica voltada à intervenção, e essa tendência se manteve. Isto não é "natural", e sim decorrente de funções e tradições regionais. O Estado neoliberal latino-americano não é, nem nunca buscou ser, um "Estado mínimo".
 
 Estas mudanças se deram em detrimento do desenvolvimento industrial na região da América latina. Com a ascensão da China, há certa competição hegemônica, mas o modelo produtivo primário-exportador voltado para fora, que ainda precisa de um Estado neo-oligárquico para organização interna, permanece, respondendo a exigências que os interesses internos impõe para sua realização.
+
+# Recursos estratégicos da América Latina
+
+Os recursos estratégicos da América Latina são um dos elementos centrais da inserção dependente no sistema internacional moderno e fator de sua subordinação, mas também como fator aglutinador para integração da região enquanto ativos estratégicos comuns para crescimento nacional e regional.
+
+## Os recursos estratégicos da América Latina
+
+A discussão dos recursos estratégicos da região não é apenas técnica, mas política. Estes recursos tem assumido diversos papeis, de forma passiva e como parte de uma articulação ativa das elites locais interessadas no lugar subalterno ocupado pela região.
+
+Os recursos considerados estratégicos são assim considerados porque são escassos e demandados por grandes potências para manter seus níveis de desenvolvimento nacional. Num espaço político cada vez mais fragmentado, a América Latina foi se tornando um alvo internacional de lutas geopolíticas e estratégicas pelo controle desses recursos - em seu padrão dependente de inserção externa.
+
+A água doce é um dos principais recursos naturais da região, o que reforça o caráter de segurança e defesa do controle desse recurso. A maior parte da água da terra não é apta para consumo, e a América Latina conta com uma grande parte da água doce do mundo - com o maior complexo mundial de água fluvial e subterrânea, compartilhado por vários países da região, como nas bacias do Orinoco, São Francisco, Prata, Amazonas e os dois aquíferos da região. Há alta capacidade de reposição desta água, o que aumenta seu valor estratégico. A defesa da água da região é um objetivo securitário essencial.
+
+A biodiversidade da região é outro recurso notável. As regiões tropicais contam com rica biodiversidade de flora e fauna, que torna a região um alvo de determinados projetos de pesquisa que só podem ser viabilizados a partir desta biodiversidade. O próprio programa das Nações Unidas para o meio ambiente ressalta que a região sul americana é particularmente rica, mas a maior área de biodiversidade do planeta é certamente a Amazônia.
+
+Há também um grau relevante de autossuficiência em matéria de recursos minerais não combustíveis, no Brasil, Chile, México e Colômbia, com um peso menor na Bolívia e Argentina. A riqueza está mais na diversidade que na quantidade, que contribui sobremaneira no desenvolvimento interno e inserção externa produtiva. O lítio, por exemplo, é necessário para a produção de baterias. Sua comercialização é recente, e muitas reservas ainda não foram descobertas.
+
+O petróleo e gás, recursos mais emblemáticos, se tornaram cada vez mais estratégicos, em função do padrão global de produção capitalista. Este padrão é fortemente marcado pelo uso do carvão e outros hidrocarbonetos, e nesse sentido a exploração de petróleo e gás são um grande desafio para a região, sendo capaz de vulnerabilizá-la ou torná-la independente.
+
+## Disputa internacional e desenvolvimento regional
+
+Os recursos da região precisam ser defendidos conjuntamente. Historicamente, em função de sua abundância e diversidade, a região sempre foi alvo de potências estrangeiras, em virtude da alta demanda de seus recursos. Assim como no passado, os destinos da América Latina sempre estiveram atrelados à disputa e defesa de recursos.
+
+A gerência desses recursos traz possibilidades para o desenvolvimento nacional dos Estados da região. As estratégias nacionais de gerenciamento e controle de recursos abrangem uma série de medidas de manejo eficiente de impactos sociais, ambientais e geração de valor. Uma região periférica como a América Latina, cuja integração sempre terá um papel importante a desempenhar na defesa de interesses comuns, não precisa apenas de estratégias nacionais de controle, mas estratégias *regionais* de produção e controle desses recursos.
+
+O estudo de Pieri trabalhou justamente com a questão de recursos estratégicos e como, na América do Sul, tem funcionado como fatores de aglutinação, no período áureo da integração (2003-2015), no âmbito da UNASUL, e *securitização* de tais recursos, a partir de um entendimento que teve como um dos principais pontos a criação de um sistema de defesa conjunta de ativos estratégicos comuns. Isso gerou toda uma agenda que permite evidenciar a importância da integração regional não apenas em sentido defensivo, mas em sentido propositivo - em formas de gerar um espaço compartilhado para tentar um gerenciamento, se não regional, ao menos mais articulado em torno de estratégias que visem a manutenção do controle soberano.
+
+Ressalta, também, como nesse período histórico tais recursos também funcionaram, em parte, como vetores de conflitos e disputas no âmbito regional. Os recursos podem ser, portanto, fatores desagregadores, se não gerenciados com espírito colaborativo e de certos critérios de ganhos comuns. 
+
+Por fim, de que forma poderíamos favorecer o uso desses recursos como ferramentas para o fortalecimento de capacidades nacionais na periferia capitalista? Atrelar o gerenciamento desses recursos a centros de decisão nacionais, que possibilitem o gerenciamento visando o fortalecimento de capacidades, é uma resposta possível.

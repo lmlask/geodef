@@ -141,3 +141,69 @@ A defesa da Amazônia talvez seja o principal desafio de soberania da região. E
 A Amazônia Azul corresponde à área adjacente à Amazônia Verde, plataforma continental brasileira no atlântico sul, conceito usado pela Marinha desde 2004 de valorização geopolítica. Sua defesa tem a ver também com a defesa de recursos estratégicos volumosos, como petróleo, gás natural e carvão.
 
 Há ainda a questão das crises econômicas, que tem avançado, com a possibilidade de rupturas e derrotas dos governos progressistas. Tudo isso pode levar a mudanças nessa conjuntura, mas notoriamente o que se tem é a área é prioritária do Brasil por sua política externa e de defesa, e mesmo uma mudança de governo não tende a alterar estruturalmente este arranjo estratégico.
+
+# Entorno estendido: Atlântico Sul, costa ocidental africana e Antártida
+
+A importância do Atlântico Sul e da costa ocidental africana vem dos vínculos culturais seculares entre essas regiões no contexto do colonialismo europeu. O Atlântico Sul também é importante por ter três frentes continentais, importante rota comercial recentemente revitalizada.
+
+A década de 1970 redimensionou o Atlântico Sul, impulsionando o debate sobre o alcance de zonas econômicas exclusivas e as ampliando para 200 milhas náuticas de enorme recursos estratégicos e geopolíticos.
+
+Nesse sentido, notamos uma revalorização do Atlântico Sul a partir dessa época, pois a região passou a ser um polo de desenvolvimento alternativo que passou a atrair interesses extrarregionais. Nesse entorno estratégico o Brasil tem atuado de forma bilateral e multilateral, buscando adensar as relações com os Estados na região.
+
+## Atuação
+
+Na forma multilateral podemos citar três grandes fóruns - a ZOPACAS (Zona de Paz e Cooperação do Atlântico Sul), a CPLP (Comunidade de Países de Língua Portuguesa) e o IBAS (Fórum de Diálogo Índia-Brasil-África do Sul). A mais importante é a ZOPACAS.
+
+Historicamente a África do Sul propôs a formação do Tratado do Atlântico Sul nos anos 1960, refutada por países sul americanos. O Uruguai novamente fez a proposta, também refutada pelo Brasil. Nestas épocas o Brasil buscava pensar a arquitetura de defesa regional de forma diferente daquela da OTAN - tornando o Atlântico Sul uma área desmilitarizada, de paz e cooperação.
+
+A maior parte dos países foram a favor desta proposta. Com a criação da ZOPACAS, o Atlântico Sul se tornou um ambiente de paz com Estados membros mantendo esta proposição ao longo de 30 anos. As duas reuniões mais importantes foram a de 1994, em Brasília, com o relançamento da zona pelo chanceler Celso Amorim, e a de 1996, na África do Sul, com recebimento de organizações internacionais importantes, como a OMI. A ZOPACAS é utilizada com frequência pela política externa brasileira, inclusive em relações mantidas em outros fóruns.
+
+O IBAS tem incrementado a cooperação técnica, de defesa e militar entre seus três membros, como os exercícios IBSAMAR em 2008, 2010 e 2012, fortalecendo trocas de conhecimento e capacitação. O IBAS busca fortalecer objetivos regionais e dá ao Atlântico Sul um caráter prioritário.
+
+A CPLP foi criada em 1996, com objetivos relacionados à aproximação histórica e cultural entre seus membros, visando a cooperação e coordenação política e diplomática. Aos poucos adensou seus objetivos e ampliou seus eixos de cooperação. Em 2002 seus estatutos foram revisados e novos eixos de cooperação foram propostos, tornando a cooperação de defesa também importante. Em 1998 foi criado o centro de análise estratégica da CPLP em Lisboa, responsável pela cooperação em defesa, e há também exercícios militares conjuntos há mais de uma década.
+
+A CPLP tem saído de uma área exclusivamente diplomática e ampliando sua cooperação técnica, um bom exemplo de como a cooperação de defesa multilateral pode levar a resultados positivos.
+
+De forma bilateral o Brasil tem atuado com alguns países específicos da costa ocidental africana, como a África do Sul, parceiro de longa data - inclusive com intercâmbio de recursos humanos militares e capacitações. Com Angola, tem uma aproximação de defesa muito importante, considerando sua liderança regional e formação de militares em solo brasileiro, assim como venda de equipamentos e aeronaves brasileiras.
+
+## Desafios
+
+A atividade pesqueira da região é importante para todos os países lindeiros, e talvez a atividade que precisa de mais controle, pois tem havido pesca predatória por embarcações estrangeiras dos dois lados da costa. 
+
+As volumosas reservas de petróleo nas duas margens do Atlântico Sul chamam atenção de empresas extrarregionais. Na costa da Namíbia há grandes reservas de gás. A descoberta do Pré-Sal trouxe à tona a necessidade de melhor regulação. Tráfico de drogas, armas e pirataria também precisam ser enfrentados.
+
+Há uma tentativa permanente de militarizar o Atlântico Sul, diante do novo conceito da OTAN de "bacia do atlântico", buscando coordenar exercícios militares com países não pertencentes à OTAN e em regiões que extrapolam o Atlântico Norte.
+
+Há necessidade de constituir uma estrutura de defesa autóctone da região, que passará necessariamente pela ZOPACAS. A premissa básica brasileira é a de uma região desmilitarizada, premissa aceita pelos demais países do fórum. O adensamento de defesa na região passa pela ZOPACAS e por outros fóruns relevantes.
+
+# Antártida
+
+O adicional é a Antártida, parte de nosso entorno estratégico estendido a partir de 2012. O Brasil aderiu ao Tratado da Antártida em 1975, e em 1983 se tornou membro consultivo com direito a voto. O interesse brasileiro na Antártida está em pesquisa científica, que começou em 1982, com a criação do Programa Antártico Brasileiro.
+
+Em 1984 foi construída a estação permanente Comandante Ferraz, com apoio de uma base chilena. Interesses científicos e geopolíticos se entrecruzam - o Brasil defende que a região Antártida deve ser livre de forças armadas (com exceção de apoio logístico a expedições científicas), exercícios militares, testes de armamentos e exploração mineral.
+
+A Marinha tem sido a responsável por pesquisas e ações na áreas, mas a academia tem se aproximado a partir de pesquisas, proposituras e o diálogo entre academia e forças armadas, buscando recursos que viabilizem a presença permanente do Brasil no continente.
+
+# Atualizações
+
+O Brasil precisa conhecer de forma mais profunda e propositiva seu entorno estratégico. Esta é a questão central de seus interesses nacionais. A incorporação de grandes áreas a sua plataforma continental, autorizada pela ONU em 2019, legitima o avanço do Brasil sobre o Atlântico Sul como área fundamental a interesses geopolíticos.
+
+É nesse sentido que a Argentina e o Uruguai estão também pleiteando o aumento de sua plataforma continental. O congresso argentino ainda não avançou nesse tema - em agosto de 2020 o congresso propôs um grande aumento, com novos mapas argentinos, e a partir de então a Argentina passaria a ser um país bicontinental, também na Antártida. Isto demonstra como a região é uma grande área de atração no século XXI.
+
+Outro ponto é a comunidade de países de língua portuguesa, que amplia sua cooperação inclusive na área de defesa. O número de Estados observadores vem aumentando, inclusive com países extrarregionais, europeus e próximos (como a própria Argentina).
+
+Essas ações convergem e demonstram a importância da área para o sistema internacional contemporâneo. 
+
+Outro aspecto é a atualização dos três documentos de defesa do Brasil. Em julho de 2020 as minutas foram encaminhadas ao Congresso pelo MD, para os devidos trâmites de análise para posterior aprovação pela presidência da república.
+
+Um aspecto importante é que o entorno estratégico se mantém como área de importância, mas há um novo item - indicando que o Brasil poderá contribuir à solução de controvérsias ou defender seus interesses. Este item traz um ponto inédito na relação com vizinhos, em relações que tem sido sempre de cooperação e amizade.
+
+A América do Sul continua sendo caracterizada como uma zona de não-guerra, mas há algumas circunstâncias que trouxeram mudanças. Se a PND indica que o Brasil poderá ser motivado a defender seus interesses, há uma mudança na atuação de defesa, que costumava ser exclusivamente defensiva.
+
+A América do Sul está perdendo prioridade na pauta externa brasileira. Esta perda pode ser sentida na saída do Brasil da UNASUL, em 2019, com um esvaziamento da instituição que era a mais propositiva na ampliação da cooperação regional e de defesa.
+
+Estes documentos são um marco muito importante para transformar a política de defesa numa política pública, permanente e que entenda os interesse brasileiros a médio e longo prazo. Sua elaboração foi um passo muito importante, assim como a aproximação entre política externa e política de defesa. Estes documentos devem continuar preferindo a solução pacífica de conflitos, um marco histórico da política externa brasileira.
+
+Quando uma instituição como a UNASUL é esvaziada, muitos Estados passam a sofrer as consequências. A nova atuação pode trazer consequências negativas para a estabilidade da região. É importante compreender os necessários laços entre política externa, política de defesa e academia - isso tem favorecido muito a produção de conhecimento dessas áreas próximas e complementares à inserção do Brasil na arena internacional.
+
+As políticas externa e de defesa têm um papel singular de repensar constantemente o papel do Brasil no sistema internacional e na região. O entorno estratégico é um espaço vital que fortalece e projeta o Brasil, e assim devemos continuar a ser propositivos na inserção que propomos. Chamamos, por fim, atenção aos aspectos que revalorizam o Atlântico Sul, com impactos na relevância do Brasil no sistema internacional moderno.
