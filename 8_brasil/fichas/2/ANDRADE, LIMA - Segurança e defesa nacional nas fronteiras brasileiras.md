@@ -25,3 +25,7 @@ As ações governamentais de gerenciamento da fronteira têm crescido, mas tamb�
 Os programas de segurança têm se expandido no número de atores e regiões fronteiriças abarcadas, em detrimento da ação exclusivamente militar. Após a redemocratização o foco se deslocou da Argentina para a Amazônia, expandindo-se gradualmente para a fronteira centro-oeste. 
 
 # Faixa de fronteira e problemática de segurança
+
+A faixa de fronteira brasileira é muito diversa. Sua amplitude dificulta o tratamento como região única; a diversidade também está no número de cidades em cada faixa de fronteira. Algumas destas cidades também se unem a cidades estrangeiras contíguas, como cidades gêmeas separadas pela linha fronteiriça. A concentração de cidades gêmeas é maior na região Sul, havendo diferenças no desenvolvimento regional.
+
+No Norte, a principal caracteríistica é a paisagem equatorial úmida, com muitas zonas de preservação, povos indígenas

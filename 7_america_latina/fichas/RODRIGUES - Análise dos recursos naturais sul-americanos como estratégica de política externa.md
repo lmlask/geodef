@@ -68,12 +68,42 @@ A geopolítica da água orienta os Estados em políticas sobre o uso de água do
 
 A América do Sul conta com 30% dos recursos hídricos renováveis do mundo, apesar da distribuição de precipitações ser muito desigual. A organização de sua distribuição interna, note-se, é fraca ou inexistente. A região também tem a maior taxa de reposição de água no mundo. O nível de extração deste recurso é o de menor taxa do mundo, com aproximadamente 25 quilômetros cúbicos por ano.
 
-O sistema fluvial da região também permite a geração de energia em altas quantidades, chegando a 590 GW, com a metade deste potencial no Brasil. Os hidrocarbonetos, no momento, continuam com uma forte presença na geração de energia primária, com 65%, enquanto a energia hidrelétrica fornece 11% da oferta total. A proteção de ecossistemas e comunidades locais são desafios que também dificultam a expansão franca de centrais de energia hidrelétrica.
+O sistema fluvial da região também permite a geração de energia em altas quantidades, chegando a 590 GW, com a metade deste potencial no Brasil. Os hidrocarbonetos, no momento, continuam com uma forte presença na geração de energia primária, com 65%, enquanto a energia hidrelétrica fornece 11% da oferta total. A proteção de ecossistemas e comunidades locais são desafios que também dificultam a expansão franca de centrais de energia hidrelétrica, não por sua ausência de renovabilidade, mas por seus problemas de sustentabilidade.
 
-p137
+É necessária uma estratégia sul-americana de gestão dos recursos hídricos conforme os interesses em disputa se tornam mais presentes. Num novo tabuleiro onde a água e a energia são elementos vitais e questões de segurança estratégica, o continente está numa posição central, disputada e vulnerável.
+
+Esta estratégia precisa de uma visão integral das bacias, bons sistemas de gestão da água, sistemas de monitoramento e tomada de decisão, um censo e a identificação de sistemas aquíferos. A relevância deste recurso está na possibilidade de que este recurso seja mercantilizado como o petróleo, em caráter de *commodity* internacional.
 
 ## Biodiversidade
 
+A biodiversidade, especialmente da bacia amazônica, é um dos recursos mais importantes da região. Meira Mattos afirma a necessidadde de responder a estímulos continentais com uma estratégia integradora gradual de interesses entre Estados fronteiriços. 
+
+Na visão de Therezinha de Castro, a região amazônica tem uma tripla valoração, interna, regional e internacional, com o potencial de contribuir para a harmonia possível de todo um conjunto de soberanias - "integrar para não entregar".
+
+A América do Sul conta com 40% das espécies do planeta, mas esta riqueza constitui um ímã poderosíssimo para as grandes multinacionais, dispostas a imprimir seu selo de *copyright* em todas as espécies existentes. A falta de povoamento e carência de regulação permitem tal exploração. Outro problema é um aumento crescente de espécies em ameaça de extinção.
+
+A redescoberta pela tecnociência de um celeiro megadiverso deve buscar a preservação, não a espoliação. A geopolítica da biodiversidade na América do Sul reflete os conflitos e contradições na apropriação de territórios tradicionais, revelando pressões internas e externas. A criação de bases científicas para garantir a segurança e fornecimento dos recursos naturais é fundamental.
+
 # Estratégia de política externa
 
+É conveniente que os recursos regionais constituam um dos pilares da política externa dos países da região. Em termos geopolíticos, qualquer Estado que não possua uma estratégia certamente faz parte da estratégia de outros Estados. Existem áreas de intensa atividade extrativista, presença militar americana e econômica chinesa, investimentos externos, *joint ventures* ou aquisições, movimentos sociais de resistência e outras relações que, no entanto, não podem ser desconsideradas.
 
+Para Medeiros, é necessária uma estratégia nacional e concomitantemete regional, denominada de "nacionalismo dos recursos naturais". O controle e coordenação desses recursos, para o autor, cabem ao Estado, e a estratégia se basearia na "exploração de possibilidades industriais ao longo da cadeia de valor dos recursos naturais".
+
+Há outros desafios - fraqueza das conexões entre acumulação de capital, progresso técnico, mudança estrutural e evolução industrial; ou seja, a exploração pode levar a um "infanticídio industrial" pela primarização da economia. Além disso, é necessário pensar os ciclos da inovação científica e os ciclos econômicos - avaliando tendências de consumo de minerais constantemente. Trata-se, segundo Bruckmann, de uma disputa entre dois modelos de desenvolvimento baseados em recursos - um baseado na planificação e uso sustentável, e um na exploração e exportação violenta.
+
+Alguns teóricos sustentam a ruptura com a dependência dos recursos naturais, a fim de absorver esse fluxo de receita repentino e evitar seu derramamento na economia - atenuando os efeitos prejudiciais do câmbio, e constituindo uma "reserva" anti-vulnerabilidade, com a necessidade de substituir o capital natural não renovável por outas formas de capital durável (capital humano, infraestrutura produtiva, investimento em pesquisa e desenvolvimento).
+
+Estes autores, porém, carecem do conceito de autonomia estratégica caso não seja considerada uma união cooperativa de políticas externas da região. Em outros termos, se as bases estiverem numa política externa sul-americana, haverão fundamentos - caso contrário, não há possibilidade de desenvolvimento regional substitutivo da "maldição dos recursos".
+
+Busca-se delinear cinco propostas:
+
++ **Geopolítica periférica e da integração** (necessidade de pensar uma geopolítica a partir da geopolfíica sul-americana);
++ **Planificação regional de segurança e proteção dos recursos** (como parte de um projeto regional com obrigações de defesa de fontes naturais);
++ **Política de industrialização endógena** (imperativo de elaborar uma política regional de industrialização);
++ **Governança pública nacional dos recursos naturais** (com aspectos regulatórios, fiscais, de gestão macroeconômica, de planejamento estratégico, de políticas públicas);
++ **Mediação do impacto ambiental e social** (conseguir administrar e medir de forma eficaz os conflitos socioambientais).
+
+A política externa se constitui a partir de uma série de fatores de interesse, levando-se em conta condições internas e externa e meios de ação à disposição de um país. A necessidade de pensá-la a partir da periferia sul-americana agrega outros elementos - que visam, a partir de projetos de integração, uma autonomia estratégica.
+
+A orientação cooperativa e unificadora e a realização de blocos regionais autônomos se apresentam como um caminho prático; pela via da atuação autônoma e conjunta de políticas externas, os Estados sul-americanos poderiam expandir seu poder internacional e questionar os problemas de distribuição desigual e consensos éticos e políticos do sistema internacional, estabelecendo diretrizes e objetivos estratégicos com plena autonomia e autodeterminação.

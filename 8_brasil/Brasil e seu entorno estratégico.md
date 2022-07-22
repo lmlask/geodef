@@ -182,7 +182,7 @@ O adicional é a Antártida, parte de nosso entorno estratégico estendido a par
 
 Em 1984 foi construída a estação permanente Comandante Ferraz, com apoio de uma base chilena. Interesses científicos e geopolíticos se entrecruzam - o Brasil defende que a região Antártida deve ser livre de forças armadas (com exceção de apoio logístico a expedições científicas), exercícios militares, testes de armamentos e exploração mineral.
 
-A Marinha tem sido a responsável por pesquisas e ações na áreas, mas a academia tem se aproximado a partir de pesquisas, proposituras e o diálogo entre academia e forças armadas, buscando recursos que viabilizem a presença permanente do Brasil no continente.
+A Marinha tem sido a responsável por pesquisas e ações na área, mas a academia tem se aproximado a partir de pesquisas, proposituras e o diálogo entre academia e forças armadas, buscando recursos que viabilizem a presença permanente do Brasil no continente.
 
 # Atualizações
 
