@@ -100,8 +100,24 @@ Em 2016, com a revisão da END e os Jogos Olímpicos do Rio, o **Comando de Defe
 
 Outro ponto importante abordado na END é sua intenção de **reorganizar a base industrial de defesa** brasileira, buscando acesso a tecnologias mais avançadas sob domínio nacional, situando o documento também como parte da *estratégia nacional de desenvolvimento* do Brasil. Estrutura ações estratégicas de médio e longo prazo, e objetiva a estruturação da BID frente ao próprio Ministério da Defesa, tratando também de buscar garantir meios para o engajamento real do governo e sociedade numa *grande estratégia* de segurança da nação, que veremos mais adiante.
 
-# Grande Estratégia
+ ------ -------------------------------------------------------
+  1996   Política de Defesa Nacional
+  1999   Ministério da Deesa
+  1999   Lei Complementar 97
+  2004   Lei Complementar 117 (SINAMOB)
+  2005   Política Nacional de Defesa
+  2008   Estratégia Nacional de Defesa
+  2011   Secretaria de Produtos de Defesa (SEPROD)
+ ------ -------------------------------------------------------
+
 
 # Base industrial de defesa
 
+
+
+# Grande Estratégia
+
+
+
 # Tríplice hélice
+
