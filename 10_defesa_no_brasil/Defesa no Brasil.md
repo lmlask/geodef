@@ -108,16 +108,67 @@ Outro ponto importante abordado na END é sua intenção de **reorganizar a base
   2005   Política Nacional de Defesa
   2008   Estratégia Nacional de Defesa
   2011   Secretaria de Produtos de Defesa (SEPROD)
+  2012   Lei 12598 (Produtos e sistemas de defesa)
+  2012   Livro Branco de Defesa Nacional (LBDN)
+  2013   Decreto 7970 (Comissão Mista de Indústria e Defes)
+  2017   BNDES: linha de financiamento para PRODE
+  2019   MRE - Divisão de produtos de defesa (DIPROD)
+  2020   Acordo MD-BNDES para fomentar a BID
  ------ -------------------------------------------------------
-
 
 # Base industrial de defesa
 
+Também descrita como modernizadora tecnológica e visando o aumento de capacidades produtivas, foi vista a partir de portaria de 2018 como o conjunto de ativos industriais que lidam com produtos de defesa.
 
+Um produto de defesa (PRODE) é todo bem, serviço, obra ou informação utilizado nas atividades finalísticas da defesa, com exceção das atividades administrativas. O produto estratégico de defesa é aquele que, por tecnologia, dificuldade de obtenção ou imprescindibilidade, seja de interesse estratégico. O sistema de defesa é um conjunto interativo de produtos de defesa, que pode também ser estratégico.
+
+A ligação entre desenvolvimento e defesa está bem expresso nos documentos de defesa no Brasil. Na PND e END, está expresso como interdependência entre defesa e desenvolvimento.
+
+As principais áreas que apresentam sinergias entre a indústria civil e a indústria militar são a área de **construção**, como a área de construção modular; **integração de sistemas**; **metalurgia e soldagem**; **tecnologia**; tecnologia de **subcomponentes**, com a transformação tecnológica atual; a área de **propulsão**; e a área de **recursos humanos**, ou seja, no aperfeiçoamento da mão de obra nacional. A parceria civil-militar, nestes campos, contribui em especial para o desenvolvimento nacional, especialmente se parte de uma estratégia.
+
+A hierarquia da BID se retroalimenta. O topo é a **operação**, o fim do produto final, seguido do **apoio logístico** de empresas de serviços; **produção** de empresas industriais; **infraestrutura** de empresas de serviços e engenharia; a **pesquisa e desenvolvimento** de centros tecnológicos; e o **ensino e pesquisa básica** de universidades.
+
+Desde 1970 houveram altos e baixos na produção, gerenciamento e venda de recursos da BID. 1984 foi o melhor ano de exportação, mas na década de 1990 houve um desempenho ruim que só foi retomado a partir da segunda metade da década de 2000.
+
+O objetivo de construir uma grande estratégia que envolva a BID é fazer com que o país e o desenvolvimento nacional conheçam e se beneficiem dos recursos e ativos que a integram - não apenas para fins dissuasórios, mas para garantir emprego, renda e desenvolvimento socioeconômico.
+
+A **economia de defesa** pode ser vista a partir da micro e macroeconomia, ou a partir do desenvolvimento e inserção internacional. A partir de visão econométrica, se pode mensurar lucratividade de empresas de material bélico e analisar a indústria de defesa como um mercado a partir de uma análise de investimentos militares, como um *trade-off* entre investimento militar e desenvolvimento social. Esta análise não inclui estratégia ou política.
+
+A visão desenvolvimentista destaca, na pesquisa de difusão militar, que o assunto pode ser elevado aos assuntos da política internacional e estudos estratégicos. Pode-se, nesse nível, relacionar as *gerações da guerra* com as *revoluções industriais* com a *base industrial de defesa*; a *indústria de defesa com base nas relações internacionais de poder*; e os *investimentos militares com capacidade sinérgica positiva com o desenvolvimento econômico*. É, portanto, uma análise menos quantitativa e focada em projeção de poder e estratégia.
+
+Esta segunda vertente nos interessa mais por agregar o assunto da estratégia; além disso, integra métodos qualitativos e contextualização de política, economia e assuntos militares. Busca construir uma política de longo prazo. O ponto negativo é justamente a força da primeira abordagem - tem dificuldade de delimitação do campo analítico. Grande estratégia, ainda que um conceito importante, não é um programa acadêmico de pesquisa maduro.
+
+De forma complementar às iniciativas normativas já tratadas, destacam-se os decretos 7970 e 9857, que tratam sobre a Comissão Mista da Indústria de Defesa - que propõe e coordena estudos sobre a política da BID, busca a integração entre MD e entidades públicas e privadas, e classifica os produtos de defesa estratégicos ou não.
+
+A CMID conta com quatro representantes da administação central e ministério da defesa, um deles o Presidente; um representante do comando de cada Força Armada; um do Ministério da Economia e um do Ministério de Ciência e Tecnologia, Inovações e Comunicações. Esta composição é similar ao Conselho Nacional de Defesa.
 
 # Grande Estratégia
 
+*Grande Estratégia* é a combinação de instrumentos militares e não militares - diplomáticos, econômicos e de poder - para a conquista de objetivos de defesa e segurança. Ela está relacionada ao desenvolvimento, defesa, intervenção e cooperação regional, e isto não está nos documentos de defesa, e sim na constituição, no rótulo da soberania. A questão do desenvolvimento está também na promoção da cidadania; a integração regional está prevista no Art. 4, e a cooperação entre povos para progresso da humanidade é a alínea 9 do Art. 4.
 
+O cerne de nossa estratégia, pois, já foi definido, e só precisa ser aplicado de forma coerente. Já tivemos muitos pensadores sobre grande estratégia - Meira Mattos é um exemplo, mas Goes Monteiro celebremente escreveu que a política geral, econômico, industrial e agrícola, de comunicação, todos os ramos da existência poletiva, inclusive a educação, afeta a política militar de um país. Isto é a grande estratégia, e por isso este campo precisa ser limitado - para que não englobe tudo.
+
++ Grande estratégia - Relação entre defesa, política externa e desenvolvimento.
++ Política de defesa - Estabelece os objetivos políticos da defesa nacional.
++ Estratégia - Estabelece os objetivos das operações militares.
++ Doutrina militar - Estabelece o modo de emprego da força.
+
+Os principais objetivos da grande estratégia brasileira foram delimitados pelos documentos do MD desde 1999. Hoje os três objetivos basilares são a **segurança regional**, especialmente a América do Sul; a **proteção**, com foco no Atlântico Sul e Amazônia Azul; e a **projeção de poder** inter-regional, pacífica e dissuasória.
+
+Os nossos projetos de modernização e aquisição para reforma de nossas forças aéreas - o Prosub, o Guarani, a aquisição do caça Gripen - são iniciativas que buscam a concretização de nossa grande estratégia.
 
 # Tríplice hélice
 
+A tríplice hélice é o nome que damos a um arranjo institucional híbrido que congrega o Estado, a indústria e a academia. Como tal, é um conjunto de regras, mecanismos e processos, que definem a forma de coordenação de atores para implementar uma política pública - a **defesa**.
+
+O termo híbrido designa que os atores não são apenas estatais, mas privados e públicos não-estatais. Assumem diversas formas - *joint ventures*, PPPs, parques tecnológicos, entre outros.
+
+A tríplice hélice congrega dois entes nacionais estatais (o Estado e indústrias públicas), bem como a indústria privada, a universidade pública e a universidade privada.
+
+Este arranjo híbrido é demandado pela situação particular do Brasil, demandando uma BID também híbrida. Os arranjos híbridos são assim capazes de relacionar desenvolvimento, BID e grande estratégia. Nesse elo, a relação civil-militar é essencial. O objetivo de qualquer política de defesa é, formalmente, garantir a segurança de instituições contra ameaças externas (Huntington). As relações civis-militares são fundamentais, portanto, a qualquer política de defesa.
+
+A tríplice hélice é um excelente exemplo disso. Sua aplicação se dá, em exemplos, no Polo de Defesa e Segurança de Santa Maria e nas iniciativas da UFRGS com o Comando Militar do Sul. Nos países ocidentais esta aproximação começou a partir da Segunda Guerra Mundial, quando um grande montante de capital humano foi envolvido no conflito e novos desafios estratégicos - nucleares - surgiram, catalisando os estudos civis de defesa.
+
+Este fenômeno creditou às décadas de 1950 e 1960 o título de "anos dourados", porque nesse período os governos recrutaram civis estrategistas para pesquisas de alto nível. Estes acadêmicos eram incoporados ao funcionalismo público, que então era capaz de exercer um papel mais ativo nas tomadas de decisão relativas à defesa.
+
+No Brasil, ainda não conseguimos homologar a carreira civil no MD, o que é muito comum em países desenvolvidos. Ainda estamos no início deste processo de aproximação civil-militar com vistas à grande estratégia - mas a fórmula ocidental bem sucedida nos ensina que não há desenvolvimento sem investimento em defesa. O Brasil, então, deve seguir conjugando esforços que alinhem a defesa, a diplomacia e a academia para assegurar o desenvolvimento e autonomia internacional.
