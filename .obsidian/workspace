@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "7a5efa633da0b97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "942a720f93e16778",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9_guerra_contemporanea/fichas/6.VISENTINI - O grande oriente médio.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20a973edf350855d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bd872df1601358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c4347c7e7ac33a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "baa1c9c999873f09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1d26166373bceae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dbe113a375547a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e86702d7b358d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85e13bbde47b6e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9_guerra_contemporanea/fichas/6.VISENTINI - O grande oriente médio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c389d71923f5b333",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9_guerra_contemporanea/fichas/6.VISENTINI - O grande oriente médio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1363ef767821b3c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11b8bd30a54c980b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9_guerra_contemporanea/fichas/6.VISENTINI - O grande oriente médio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "942a720f93e16778",
+  "lastOpenFiles": [
+    "10_defesa_no_brasil/fichas/3.FERREIRA - Base industrial de defesa brasileira.md",
+    "10_defesa_no_brasil/docs/ler/BRASIL - Sistema de Planejamento Estratégico de Defesa.pdf"
+  ]
+}
