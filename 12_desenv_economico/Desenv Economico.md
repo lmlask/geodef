@@ -177,3 +177,63 @@ A estrutura do sistema financeiro nacional e da habitação foram criados pelo g
 A estrutura fiscal dos próprios estados e da União passou a ser deficitária. Foi feita uma reforma tributária, se utilizando do período autoritário para tal. Em grande medida esta reforma vigora até hoje. A base tributária brasileira é fortemente indireta, incidindo sobre o consumo e afetando as classes mais baixas.
 
 O governo militar, portanto, começou e terminou com problemas inflacionários fortes, numa situação similar de baixo crescimento e alta inflação.
+
+# Módulo III
+
+O Plano Real, de 1994, 10 anos após a PND e ao final da chamada "década perdida", com baixo crescimento e altas taxas de inflação, o papel do Estado muda fundamentalmente. A substituição de importações tendo sido concluída, e levado a um período de indefinições. O Estado brasileiro se endividou no II PND, e uma nova concepção de Estado surgiu, atendendo ao "consenso de Washington". A partir de acertos com o FMI, o Brasil passou mais de 10 anos como devedor internacional com um pequeno crescimento. 
+
+Delfim Neto, economista do PND, em *Desenvolvimento econômico brasileiro - retrocessos e avanços*, o autor discute o desenvolvimento brasileiro num tom positivo, que logo se provou otimista demais. Faz uma longa retrospectiva de 60 anos, de JK aos governos militares, a década perdida, o governo Collor e o PAC de 2008. Diz que o Brasil entra em crise em duas situações - em crises de energia e em crises de balanço de pagamento (estrangulamento externo). A crise de energia é importante, porque acontece no início do desenvolvimento brasileiro, levando à criação da Eletrobras.
+
+Da década de 1950 a 1974, o Brasil cresce 2% acima da média mundial. No II PND, o Brasil, ao se endividar, encontrou uma crise cambial, seguida pelo I choque do petróleo. O segundo período é um período de crescimento abaixo da média mundial, com o Estado reduzindo seu envolvimento. O PAC buscou retornar o crescimento brasileiro real (do PIB per capita) a 3.7% ao ano, mas infelizmente esta perspectiva não se confirmou, com a crise de 2009 e as medidas de ajuste inadequadas.
+
+Na década de 1970 o Brasil tinha uma posição respeitável no mercado internacional, mesmo na exportação de bens industrializados, com as perspectivas de uma potência média. De 1980 a 2007 as exportações aumentaram muito - afinal precisamos exportar para obter o dólar necessário para pagar importações e dívidas. A EMBRAPA transformou o cerrado num grande ativo, adaptando cultivares ao cerrado e levando o Brasil a um grande aumento de exportação agricultural.
+
+É relevante, porém, que em 1980 exportávamos os mesmos produtos que a China. Hoje ficamos para trás mesmo da Coreia. O Brasil não só não acompanhou, mas regrediu - exportando menos produtos industrializados e cada vez mais bens agropecuários e minerais. A agricultura também é cada vez mais poupadora de mão de obra, o que é relevante para nossa base social.
+
+Houveram problemas de crise energética no governo FHC e uma piora na matriz energética brasileira, que já foi mais verde. O Brasil consome abaixo da média mundial, e do ponto de vista da matriz energética a média mundial é 86% de energia não renovável, enquanto o Brasil utiliza 44% de energias renováveis (incluindo, porém, cana de açúcar, lenha e carvão vegetal, estes dois últimos associados à pobreza). Nosso consumo de petróleo e gás é 56%.
+
+Do ponto de vista do estrangulamento externo, estamos bem, pois temos grande demanda de soja na China e não passamos por problemas sérios de exportação. Usamos nossa base energética de forma renovável, o que também permite certa dianteira. Há desafios adiante, porém.
+
+Em *A desindustrialização do Brasil - um resumo da evidência*, Regis Bonelli e Samuel Pessoa, os autores discutem a desindustrialização brasileira. Este debate tem sido intenso, e se relaciona a uma das questões do início do plano real, a valorização do câmbio. O câmbio tem profundos impactos na economia brasileira.
+
+A valorização do câmbio no início do plano real pretendeu controlar a inflação, mas a garantia trouxe consigo a dificuldade dos incentivos da indústria - a indústria substitutiva brasileira era relativamente atrasada, e se o câmbio não for favorável os incentivos podem não ser suficientes. O aumento da capacidade relativa chinesa também foi muito grande e rápido, o que gerou competição nos segmentos manufaturados.
+
+O processo, na opinião dos autores, não é avassalador - os autores trabalham com indicadores que mostram a redução da indústria, mas mostra-se que a metodologia e consideração do que constitui o setor industrial mudou nos últimos anos.
+
+As encomendas industriais são mais sensíveis ao cenário internacional, o que causa a resposta rápida da indústria a flutuações no mercado internacional.
+
+No que tange a balança comercial, há um momento de exposição da balança comercial brasileira quando a indústria não estava num bom momento. Estas todas são evidências, porém, e os autores chamam atenção ao emprego industrial - que aumentou de 1992 para 2008. 
+
+Com relação à comparação mundial, os autores observam que o Brasil de 1970 tinha uma participação industrial por PIB acima da média mundial. No investimento fixo, que aumentou, não há evidência de desindustrialização da indústria de transformação. Não há dúvidas que a indústria encolheu frente a outros setores, especialmente quando se corrigem preços, mas esta redução ocorreu também em outros países do sul global.
+
+Pode-se dizer que a tendência global é de redução da participação da indústria no PIB e crescimento do setor de serviços. Do ponto de vista internacional, é possível que o Brasil estivesse sobre-industrializado na década de 1970, do ponto de vista dos autores liberais. Isso lembra o ponto de vista das indústrias naturais.
+
+Os autores dizem que, em termos relativos, esta desindustrialização, portanto, não existe, tendo sido atingida a normalidade com menor interferência do Estado. A pergunta final do texto é o que ocorre na margem, ou seja, as tendências na competitividade industrial, especialmente com a entrada da China na OMC e sua exportação de produtos industrializados.
+
+A indústria brasileira persiste, e o aumento do trabalho industrial é relevante. Os autores concluem que é prematuro decretar que sofremos desindustrialização - o que não quer dizer que o cuidado não seja necessário.
+
+*A industrialização do Brasil ante a nova divisão internacional do trabalho*, de Marcelo Arendt, discute a desindustrialização sob uma perspectiva desenvolvimentista. O autor traz outro conjunto de evidências e tira outras conclusões. 
+
+O texto anterior discutia evidências sobre desindustrialização, uma palavra que tem diversos significados - a perda de indústria e regressão à agricultura é um deles. Arendt conclui que de fato há regressão e desindustrialização. 
+
+Os autores anteriores defendiam a sobre-industrialização na década de 1970, enquanto Arendt, ao comparar a situação brasileira com a de outros países, chega a conclusões diferentes.
+
+O Brasil tem uma das dez maiores indústrias do mundo, mas o que tentamos fazer é encontrar tendências. Completamos nosso processo de substituição de informação com o II PND, no setor petroquímico, e passamos a ser um produtor de petróleo, estando hoje no caminho de garantir nossa autonomia e soberania energéticas.
+
+O Brasil preserva, em grande medida, as "indústrias do paradigma fordista". O argumento, porém, é que estas indústrias passaram a ser defasadas. A indústria petroquímica é muito poluidora, por exemplo, e os países centrais não mais querem estes tipos de indústrias. 
+
+O PSI, embora tenha levado o Brasil a uma indústria de transformação importante, não lhe deu uma indústria dinâmica, e a tendência de participação da indústria de transformação dos setores eletrônico e de comunicações no PIB se reduziu entre 2000 e 2009, enquanto em outros países aumentou consideravelmente.
+
+Segundo grupos industriais de acordo com sua especificidade tecnológica, as commodities industriais e a indústria tradicional são dominantes, e absorvidas pelo próprio país. Onde mais se investiu foi no petróleo, especialmente depois da descoberta, e aqui o Estado continua sendo um grande investidor. Os manufaturados de média-alta e alta tecnologia foi o setor que *menos cresceu*.
+
+Os produtos agrícolas, porém, não são produtos de alto valor negociado no mercado internacional. Temos aumentado a tecnologia agrícola e mineral, mas este não é o setor no qual está o interesse do mercado.
+
+Nas manufaturas como porcentagem do PIB, o Brasil reduziu *muito* sua participação depois da perda de mercados para as crises internacionais que não foram reavidos. Até nossos vizinhos passaram a importar de outros países.
+
+Os países desenvolvidos têm de fato reduzido sua indústria, a substituindo por serviços industriais, o paradigma tecnológico e o setor financeiro (a "desindustrialização natural"). O autor classifica o Brasil, a América Latina e alguns países da África como sofrendo *desindustrialização precoce*, enquanto outros países se industrializam - os Tigres e a China hoje crescem a "taxas brasileiras", chegando a 10% ao ano.
+
+Ademais, nossa desindustrialização é veloz. De 1980 a 2008, perdemos 37% de nossa participação manufatureira no produto manufatureiro mundial. Nos endividamos com o PND, mas ainda assim atingimos boa participação no mercado mundial. Com o plano real, a desfavorabilidade do câmbio para a indústria levou a ainda mais perda industrial e crescimento agrícola.
+
+O autor, portanto, reconhece no Brasil indícios de uma desindustrialização precoce e acelerada que *não existe no resto do mundo*.
+
+As duas interpretações não são necessariamente incompatíveis. O Brasil ainda preserva certa indústria, mas o problema é que esta indústria é defasada, de um paradigma tecnológico anterior e, ainda assim, tem perdido continuamente competitividade.
