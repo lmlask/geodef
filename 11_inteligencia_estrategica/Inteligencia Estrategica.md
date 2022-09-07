@@ -111,3 +111,71 @@ Regiões de pré-sal que se aproximam do próprio continente sul-americano se es
 ## Transição tecnológica
 
 Esta transição envolve a ascensão de tecnologias digitais, biológicas, informacionais, de materiais e de produção. A grande questão é que, por um lado, estas tecnologias são capazes de mitigar os problemas das outras transições - mas por outro lado pode favorecer potências tradicionais e Estados tradicionais, assim como a ascensão de novas potências.
+
+# Elementos estruturais das relações interestatais
+
+Elementos estruturais ou sistêmicos dizem respeito a padrões regulares de comportamento, individuais ou coletivo, inclusive os de conflito, competição e cooperação entre Estados.
+
+Esta percepção pode ser dividida em três níveis - a análise da *estrutura política internacional*, da *estrutura econômica internacional* e dos *sistemas políticos nacionais*.
+
+## Sistema político internacional
+
+Aqui o que se busca entender é o equilíbrio entre capacidades estatais em capacidades de gestão internacional, e qual o efeito consolidado de autonomia relativa dos Estados entre si.
+
+O que se busca inferir da análise deste sistema é qual o equilíbrio internacional de capacidades relativas, que permitem a Estados terem maior participação internacional e barrarem interesses que vão contra os seus próprios e seu senso de segurança.
+
+Para avaliar um equilíbrio de capacidades, se observam três elementos. Em primeiro lugar, a chamada **tríade nuclear**, ou seja, a capacidade de dissuasão e retaliação relativa. Isto enseja a inferência com relação a capacidades de retaliação mesmo em circunstâncias extremas. Os três recursos estratégicos são mísseis balísticos terrestres, bombardeiros estratégicos e mísseis lançados por submarinos.
+
+Uma segunda categoria de elementos importantes à capacidade relativa é o **comando do espaço**, necessário à tríade nuclear e à própria produção de inteligência estratégica.
+
+A terceira categoria é a capacidade convencional de tornar seu território soberano, ou seja, a **inexpugnabilidade** convencional. Destas três capacidades, se entende quais países possuem maior capacidade de gestão internacional e de se manterem autônomos a constrangimentos. Atualmente existem apenas três países que atendem a estes elementos - os EUA, a RPC e a Federação Russa.
+
+A principal dedução desta avaliação diz respeito a um sistema **multipolar**, com fortes tendências ao *desequilíbrio*, em função à capacidade assimétrica americana no que diz respeito à tríade nuclear. Um sistema assimétrico tende à instabilidade, alta competitividade, baixa cooperação e ocorrência de conflitos.
+
+## Sistema econômico internacional
+
+Buscamos aqui avaliar como se dá a divisão internacional de processos produtivos, uma divisão que existe desde o surgimento do capitalismo e possui efeitos estruturais nacionais e internacionais, que afetam também as tendências já discutidas.
+
+A divisão internacional do trabalho se dá em três categorias de países: os **países centrais**, onde se concentra a maior parte do capital e a maior parte dos setores produtivos são dedicados à inovação; os **países semi-periféricos**, que possuem alguma capacidade industrial mas se destinam a produzir produtos de mais baixa qualidade e dependem muito ainda da produção primária; e os **países periféricos**, dependentes da capacidade de países externos e têm baixa capacidade de produção econômica autônoma.
+
+As regiões transitaram, mas foi sempre comum que os países centrais estivessem centrados na Europa Ocidental. Atualmente podem haver alterações mais graves, com a ascensão da China. Pode aqui haver uma grande transição e realocação de capital, que pode levar a crises econômicas e mudar a geografia econômica regional do planeta.
+
+Regiões que orbitavam entre semi-periferias e periferias poderiam se tornar ainda mais periféricas, considerando a distância geográfica dos processos produtivos da Ásia.
+
+## Sistema político nacional
+
+Aqui o que se busca avaliar são os parâmetros de tomada de decisão política de cada país, determinados por regimes mais centralizados ou mais fragmentados.
+
+Se observa uma certa transição na configuração de regimes políticos, de regimes democráticos para sistemas mais concentrados. Ainda que esta centralização exista, existem também processos de fragmentação em vários Estados (como separatismo, tensão interna ou polarização política doméstica).
+
+O grau de centralização de cada Estado afeta não apenas a forma como o Estado percebe ameaças, mas em longo prazo afeta a capacidade dos países de extraírem recursos sociais e tornarem-nos recursos estatais, ou seja, afeta diretamente a capacidade material estatal, no sentido da preservação de sua autonomia e de sua atuação internacional.
+
+# Inteligência estratégica e inteligência artificial
+
+Para além do que acontece nos países centrais, o que se nota é que boa parte das atividades de inteligência artificial envolve a coleta e processamento de informações nas redes sociais e na Internet. O grande volume de informações presente torna impossível que o material seja analisado por analistas humanos, e portanto o processamento e pré-seleção é feito, em grande parte, por computadores de grande potência que filtram e catalogam informações, tendências de opinião pública e notícias de várias regiões.
+
+A maior parte deste processo, nos EUA, é feita por inteligência artificial, ainda que existam interfaces com analistas humanos. Uma grande parte das atividades vistas como terroristas ou ilícitas envolvem algum tipo de legenda ou criptografia, assim estas pesquisas apoiadas por IA buscam tendências e conjuntos de informação que aparentem serem suspeitos. A pergunta que se faz é até que ponto a IA é capaz de reconhecer redes de conteúdo que envolvem um grande elemento de criatividade.
+
+# Terceirização
+
+O processo de *outsourcing* de coletores e analistas começou nos EUA e na Europa nos anos 1990, com a redução no aparato de defesa. A forma mais barata e flexível de exercer as atividades estatais, incluindo a inteligência, foi a contratação.
+
+É possível fazer contratos por tipo de projeto, focando no tipo de inteligência que se busca. Nos EUA existem mais de 2000 companhias que já prestaram serviços de inteligência ao Estado. De 20% a 30% do serviço de inteligência americano deve ser prestada pelo setor privado. Em áreas específicas, como inteligência de sinais e de imagem, 90% da comunidade de inteligência é contratada.
+
+As companhias de análise de inteligência de OSINT têm, também, terceirizado seus próprios serviços, abrindo filiais e contratando analistas em outros países, inclusive naqueles a serem analisados. Este processo não é apenas deixar de contratar um servidor público, portanto, porque envolve subcontratações capilares ao redor do mundo, um processo que se acelerou com o aumento do regime *home office*.
+
+Já existem efeitos e complicações bem mapeados, e o maior problema é a responsabilização, e às vezes transparência e corrupção. Não há real controle, nem do ponto de vista trabalhista nem do ponto de vista da segurança. O problema de legalidade é acompanhado do da *qualidade* - já que muitas vezes os contratados não receberam qualquer treinamento, e não sabem que entregam relatórios a empresas de inteligência.
+
+Existe outro procedimento no trabalho de inteligência terceirizado - o dos *think tanks* e editais de pesquisa de financiamento público que abrem, por região, chamadas acadêmicas por relatórios específicos.
+
+Se o trabalho regulamentado e tradicional já gera sobreposições e choques de informação, baixa qualidade e dificuldades de processamento e disseminação, sua extrapolação ao setor privado aumenta muito estes problemas, falhas e complexidades.
+
+Já existem indícios de conexão entre a privatização e o uso de inteligência artificial pelas próprias empresas contratadas, incluindo a elaboração e análise de textos para ser posteriormente refinada por um analista e enviada. O processo é cada vez mais caótico.
+
+Isto explica muito, porque boa parte dos esforços de operações clandestinas ou de antecipação de eventos tem sido difusa, descentralizada e com dificuldades de sinergia, por conta de um processo muito amplo de *outsourcing*.
+
+Os casos chinês e indiano são muito diferentes. Sua estrutura política é muito mais centralizada, e seu processo é inserir um analista de inteligência dentro de outras empresas, e ali o manter em condição permanente. A relação é muito mais transversal e muito mais centralizada.
+
+Não é claro como esta questão tem se desenvolvido no Brasil, mas boa parte do serviço de coleta de imagens de satélite é feita por empresas terceirizadas. Também não há um controle claro e responsabilização pela entrega exclusiva ao Brasil - afinal, há dificuldades de controlar para quem a empresa vende as informações que coleta.
+
+Percebemos neste processo de automatização e terceirização algo que pode ser lido como a *perda de unidade do Estado nacional moderno*. Isto é perigoso e arriscado, especialmente se faltam oficiais de inteligência qualificados. Se falta treinamento na filtragem e ceticismo, a indução à tomada de decisões erradas pode chegar aos altos escalões, mesmo intencionalmente. O processo pode se tornar exposto também à evasão de informações.
